@@ -1,0 +1,217 @@
+Invitae Corporation at a Pivotal Level of SupportJan 5 
+10 min read 
+Invitae Corporation at a Pivotal Level of Support 
+Invitae Corporation at a Pivotal Level of Support 
+By Tyler Prahm (University of Nevada, Reno) and Marin Hubert (McGill University) 
+By Tyler Prahm (University of Nevada, Reno) and Marin Hubert (McGill University) 
+ 
+Stock Name: Invitae Corporation 
+Ticker: NYSE: NVTA 
+CMP: $47.56 
+Recommendation: Buy 
+Target: $54.5-$56.5  
+Timeline: 2-3 weeks 
+ 
+ 
+Company Overview 
+ 
+Invitae Corporation is a medical genetics company that analyzes information related to genetic diagnostics, preimplantation, inherited disorders, miscarriage analysis, and hereditary cancer. Their mission is to bring comprehensive genetics into mainstream medicine to improve healthcare. 
+ 
+The company is headquartered in San Francisco and their primary customer-base is located in California. Their main source of revenue are patients with insurance carriers. It offers a tool kit for clients to collect a sample of saliva and send it back to their laboratories for analysis.  
+ 
+In the third quarter of 2020, Invitae accessioned close to 170,000 samples and kept their average cost per sample constant at $274. This resulted in an increase in revenue to $68.7 million on Q3 2020 compared to the $56.5 million posted for Q3 2019. This increase was mainly caused by a 35% increase in revenue coming from institutions (hospitals, clinics), and a 40% increase in revenue coming from patients who pay directly. 
+ 
+In September 30th, 2020, Invitae’s cash totalled $368 million, showing a net decrease in cash and cash equivalents of $61.4 million over the quarter. This is mainly due to the acquisition of ArcherDX through an equity and debt financing package. With this acquisition, they aim to create a global leader in comprehensive cancer genetics and precision oncology. Archer DX is a leading genomic analysis company specializing in cancer research.  
+ 
+Over the course of 2020, Invitae also acquired 100% of the equity interest of Diploid in an effort to use artificial intelligence to screen genetic disorders. Diploid is the company that developed Moon, an artificial intelligence (A.I.) software capable of diagnosing genetic disorders in minutes based on next-generation sequencing data and patient information.  
+ 
+ 
+Product Offerings Snapshot 
+ 
+Invitae Corporation offers genetic tests through saliva collection kits. For example, a client will connect with an independent genetic counselor or doctor in order to determine the appropriate test. Once received, the client will collect the saliva sample and send back the kit to Invitae’s laboratories leaving the genetic experts to interpret the results. This process generally lasts from ten to twenty-one days. They offer three different tests to their clients: diagnostic tests, in order to discover or understand inherited diseases, proactive tests, to learn if you are more likely to develop certain conditions, and reproductive tests, which will give the client helpful information to guide health decisions before, during and after pregnancy.  
+ 
+ 
+Sector and Industry Overview
+ 
+ETF: (ARKG)                                                                                  
+ 
+Weightage in ETF: 3.72%
+Index Comparison Analysis
+Graph 1: Invitae Corporation compared to ARK Genomic Revolution ETF (Tradingview.com as of December 21, 2020) 
+
+Although Invitae Corporation is part of the Russell 2000 index, it can also be compared to the ARK Genomic Revolution ETF (ARKG), where NVTA holds a high 3.72% weightage. When comparing NVTA (purple) to ARKG (blue), both appear to grow hand-in-hand until the middle of december. At that time, a large sell-off from insiders of Invitae Corp took place, potentially explaining such selling pressure compared to the ARKG which saw sideways movement in its price. Since then, both NVTA and ARKG have been increasing significantly. 
+Although Invitae Corporation is part of the Russell 2000 index, it can also be compared to the ARK Genomic Revolution ETF (ARKG), where NVTA holds a high 3.72% weightage. When comparing NVTA (purple) to ARKG (blue), both appear to grow hand-in-hand until the middle of december. At that time, a  
+large sell-off from insiders 
+ of Invitae Corp took place, potentially explaining such selling pressure compared to the ARKG which saw sideways movement in its price. Since then, both NVTA and ARKG have been increasing significantly. 
+
+Moving Averages Analysis 
+ 
+Graph 2: ARK Genomic Revolution ETF with simple moving averages (Tradingview.com as of December 21, 2020) 
+ 
+Dating back to October, ARKG has consistently traveled on an uptrend above the moving averages for the majority of the listed period. Only during a brief period of time, ARKG broke below each of its 10dMA (labeled in red), 25dMA (labeled in green), and its 50dMA (labeled in blue). Once it broke each of the moving averages, the stock bounced down to the $65 support level. Since then, ARKG managed to force upward momentum and create higher lows reaching its current state at $94.64. If the 10dMA continues to stay above the 25dMA, ARKG will most likely continue its uptrend until there is a clear crossover. 
+ 
+Support and Resistance Analysis 
+ 
+Graph 3: ARK Genomic Revolution ETF with recent support and resistance levels (Tradingview.com as of December 21, 2020) 
+ 
+When looking at Graph 3, the past month posts an overall uptrend on ARKG. Within that trend, some consolidation was observed between the $93 support and the $100 resistance. ARKG tested that resistance level on the fourteenth of December before breaking out on the twenty-first. Since then, this strong resistance has been acting as a support for the stock. Currently, the price of ARKG is sitting at $105.53, and is ready to continue testing the new $106 resistance level. As the stock is at its all-time highs, there is sign of future resistance levels if the stock breaks out in the coming days. However, one could consider the round number levels such as $110 to be the next consolidation levels as similar patterns were observed in the past for ARKG. 
+ 
+Trend and Pattern Analysis 
+ 
+Graph 4: ARK Genomic Revolution ETF with regression channel (Tradingview.com as of December 21, 2020) 
+ 
+Dating back to June of this year, there is a clear channel leading up to the beginning of December. The candlesticks between this channel follow between both the support and resistance 94.9% of the time. In 5.1% of the instances listed, the channel was broken. During the uptrend of the channel, there were no identifiably specific outbreaks that proposed a reversal on ARKG. Rather, the stock consistently remained between the support and resistance boundaries. In the beginning of December, ARKG broke out into a significant uptrend. This uptrend continues to hold bullish momentum and will most likely conclude the regression channel’s trend.
+ 
+
+RSI and Stochastic Analysis 
+ 
+Graph 5: ARK Genomic Revolution ETF with RSI and Stochastic analysis (Tradingview.com as of December 21, 2020) 
+ 
+Looking at the Stochastic Oscillator (middle chart), the 3dMA (orange) the oscillator value (blue) is above the 3dMA (orange). Any crossover between the 3dMA and the oscillator would indicate a reversal. Given the current trend of the oscillator, it appears to be en-route for an uptrend. There is no visible reversal for the Stochastic Oscillator. However, the RSI (bottom chart) lists otherwise. On the RSI, the chart is considered overbought (above the value of 70) and may experience a downtrend in the near future. The RSI is yet to cross significantly above the overbought zone and may still have room to do so. If the stock continues to rise, there’s no doubt that the oscillator and the RSI will follow along and become overbought. 
+
+Macro-Level Trend Analysis 
+ 
+Graph 6: The comparison between Invitae Corporation, ARKG, NeoGenomics, and Guardan Health Inc. (Tradingview.com as of December 21, 2020) 
+The two direct competitors of Invitae considered for this analysis are NeoGenomics (NEO) and Guardan Health Inc (GH). We can see on Graph 6 that NVTA’s price action has been correlated to ARKG and its competitors since the beginning of November. However, the price patterns of NVTA, GH, NEO, and ARKG diverged during the third week of December as Invitae Corporation stock experienced a strong downward correction. It is said that this correction results from the news that insiders were selling their shares, as we mentioned above. There are a lot of different reasons for insiders to sell their shares other than a bad future outlook for the company, such as the need for liquidity for example. This decrease in price is not justified by fundamentals, nor the technicals of the company, and one could expect strong upward potential for NVTA as soon as there is more investor confidence towards Invitae Corporation’s ability to grow in the coming years. 
+ 
+
+Technical Outlook for the Stock   
+ 
+Support and Resistance Analysis 
+ 
+Graph 7: Invitae Corporation with recent support and resistance levels (Tradingview.com as of December 21, 2020) 
+
+By looking at the 2M price chart for NVTA, we can identify key levels of support and resistance. Through November and the start of December, NVTA broke these levels thanks to a strong rally towards companies engaging in gene therapy. In other words, after having tested the $52.5 resistance several times, the stock finally broke out. However, as mentioned earlier, the insiders sell-off in the midst of December left some investors fearful and a correction in the price was observed after the stock hit a $61.59 all-time high. The stock bounced back on the previously observed $46 support level and increased above the $52.5 resistance line, which is now acting as a strong support for the coming days. The immediate resistance level that investors will have to pay attention to is the $54.2 level. 
+ 
+Graph 8: Invitae Corporation with Fibonacci levels (Tradingview.com as of December 21, 2020) 
+ 
+The strength of the Fibonacci levels can be confirmed for key levels of support at the 0.236, 0.382 and 0.500 retracement levels. The clearest level of support identified above for NVTA is currently located around the $46 level. Thanks to the pullbacks observed on NVTA, the Fibonacci retracements are accurate in their description of the immediate support and resistance levels and confirm our previous analysis.  
+ 
+Trend and Pattern Analysis 
+  
+Graph 9: Invitae Corporation with trend and pattern analysis (Tradingview.com as of December 21, 2020) 
+ 
+Since July of this year, NVTA has continued to follow a bullish uptrend inside of a channel. Within this channel, the candlesticks maintain to bounce between the support and resistance levels 88.9% of the time. There was only one instance in the beginning of October where NVTA managed to force a false breakout of the trend. The false breakout is identified from its bullish gap-ups on for a 5D period. These green candles were then broken down from a continuation of a downtrend back into the channel to continue its upward-momentum. 
+ 
+ 
+Graph 10: Invitae Corporation forecasted price change (Toggle.ai as of December 21, 2020) 
+ 
+Furthermore, based on the analysis conducted on Toggle.ai, the price pattern observed since last July is a sign of continuation in the trend. Toggle calculates the price movement of recent trends and proposes a forecast for future trends relevant to historical trends in the past. In this scenario, the trend pattern is observed by the price movement between the July and the current date. Toggle expects an averaged high of a 27.6% rise in the stock price over the next 6 months with a low similar to its current value. On the higher end, it has an expected stock increase value of 38.9%. In contrast to the lower end, it has an expected decrease in value of 21.6%. Ultimately, the price is expected to reach the range of about $67 a share in the next 6 months. 
+ 
+ 
+Moving Average Analysis 
+ 
+Graph 11: Invitae Corporation with long-term moving averages (Tradingview.com as of December 21, 2020) 
+ 
+In the end of July, the stock experienced a bullish crossover of its 50dMA (green) and its 100dMA (red) over the 200dMA (blue). This trend initiated a bullish transition for the stock that was trading sideways for several years. Since then, the 200dMA indicates an upward trend and clearly separated from other moving averages. Bullish and bearish crossovers were observed between the 50dMA and the 100dMA around the beginning of December. Further, one can notice a recent crossover between the two moving averages and NVTA’s price. This is a bullish signal indicating a continuation in the medium-term bullish trend and that the stock still has a lot of room to climb. This conclusion goes hand-in-hand with the trend and pattern analysis in which we see that the stock still has a lot of upside potential if it stays in the current channel. However, the stock moving averages may begin to crossover if there is a lack in buying pressure and the stock goes back to the $46 support. 
+Graph 12: Invitae Corporation with short-term moving averages (Tradingview.com as of December 21, 2020) 
+In recent months, NVTA has experienced both volatile channels in the downward direction (October) and the upward direction (November). NVTA reached all-time highs on November 14, resulting in an immediate rejection of the $61.50 price level, causing many investors to take profits and sell their positions. Given the current state of the stock, NVTA is en route to begin a bullish uptrend. Due to the crossover between the 10dMA (green) and the 20dMA (red), this identifies a reversal from the downtrend. Until further notice, if the stock continues to maintain its upward momentum, then both the 10dMA and the 25dMA will crossover the 50dMA (blue). The crossover of the 50dMA will indicate an extremely bullish short-term outlook on NVTA. Considering that the stock is holding its $46 support level relatively well, there is a significant probability that the price will continue to rise. 
+
+RSI and Stochastic Analysis 
+ 
+Graph 13: Invitae Corporation with RSI and Stochastic analysis (Tradingview.com as of December 21, 2020) 
+
+We can find on Graph 12 the stochastic oscillator (middle chart) for NVTA. This one indicates NVTA is overbought and favors a potential downtrend. Also, a crossover between the %K (blue line) and %D (orange line) in the overbought region would be signalling a correction in the price. This would be a great opportunity to enter into a position. The RSI (bottom chart) is in an upward trend and is currently at an average level, far from the overbought levels observed in the beginning of December. This shows that the stock still has strong upside potential before a correction. Additionally, in both charts, you can see a bearish divergence occurring from the seventh of December to the fifteenth. In fact, while the stock price makes higher highs and higher lows, the RSI and the stochastic oscillator make lower highs and lower lows. This inconsistency predicted the downward correction in the past week but will most probably not impact the stock price in the following weeks as the trend has changed for both indicators since then. 
+ 
+ 
+Volume Profile Analysis 
+ 
+Graph 14: Invitae Corporation with Volume Profile analysis (Tradingview.com as of December 21, 2020) 
+ 
+Tracing back to the middle of September, volume has been quite binomial. The current point of control (POC) on NVTA is at the price point of $47.90. The POC is described as the level where the highest amount of volume occurs at a given price. The price is currently above the POC and may continue an uptrend. The POC in the listed chart could be considered a psychological support level, considering that the majority of buyers bought in at $47.90. Many people would rather hold their position above a breakeven instead of selling for a loss. From the level of $34 to $44, the majority of the volume since September has consisted of more buyers than sellers. With more buyers than sellers being in the market, that could also contradict the future expected stock price given that people may still be holding their position. However, NVTA recently took hard hits on December 14 and 15, which may prove that the profit takers have already taken profits. 
+ 
+ 
+Options Pricing Analysis 
+ 
+Graph 15: Invitae Corporation with front-month options pricing analysis (TD Ameritrade’s thinkorswim platform as of December 21, 2020) 
+ 
+Looking at the front-month options prices for the January 15, 2021 expiry, the one-standard deviation straddle (buying an at-the-money call and an at-the-money put for the same expiry) is priced in for an expected move to $59.08 or to $41.98 in the next few weeks. The expected move on NVTA is priced in for a move of 14.5%. With this in mind, if NVTA continues an uptrend, it could reach or surpass its expected move. This expected move is priced based on implied volatility. If the stock continues to increase in price, the implied volatility will most likely increase as well, potentially resulting in an additional increase of its expected move. 
+ 
+ 
+News Event Box 
+ 
+Invitae Corporation COO sold $680,901 worth of shares. This insider selling is likely related to the significant sell-off in stock price that occurred on the week of December 14, 2020. 
+ 
+December 17, 2020: Introduction of Routine Exome Reanalysis to help patients receive diagnoses faster. All patients who undergo exome testing will receive routine analysis of their findings every six months for at least three years. Exome sequencing is used to diagnose the genetic cause of a disease in a patient. This case-level analysis will make Invitae Corporation one of the only labs to make sequential case-level reanalysis procedures for all patients who receive exome sequencing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+ 
+https://www.toggle.global/ 
+
+Invitae Corporation 
+https://www.bloomberg.com/profile/company/NVTA:US#:~:text=Invitae%20Corporation%20operates%20as%20a,miscarriage%20analysis%2C%20and%20hereditary%20cancer 
+
+In the third quarter of 2020 
+http://d18rn0p25nwr6d.cloudfront.net/CIK-0001501134/5989813b-c01f-4f1c-b6d7-bc160f7615ed.pdf 
+
+ArcherDX 
+https://www.bloomberg.com/profile/company/0862143D:US 
+
+Diploid 
+http://www.diploid.com/ 
+
+Tradingview.com 
+https://tradingview.com/ 
+
+large sell-off from insiders 
+https://finance.yahoo.com/news/invitae-corp-nvta-coo-kenneth-041503507.html 
+
+Tradingview.com 
+https://tradingview.com/ 
+
+Tradingview.com 
+https://tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+NEO 
+https://www.nasdaq.com/market-activity/stocks/neo 
+
+GH 
+https://www.nasdaq.com/market-activity/stocks/gh 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Toggle.ai 
+https://toggle.ai/a 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+Tradingview.com 
+https://www.tradingview.com/ 
+
+COO sold $680,901 worth of shares 
+https://finance.yahoo.com/news/invitae-corp-nvta-coo-kenneth-041503507.html 
+
+Introduction of Routine Exome Reanalysis 
+https://www.prnewswire.com/news-releases/invitae-introduces-routine-exome-reanalysis-to-help-patients-receive-diagnoses-faster-301194780.html 
+

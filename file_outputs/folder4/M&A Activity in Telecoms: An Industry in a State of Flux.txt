@@ -1,0 +1,314 @@
+M&A Activity in Telecoms: An Industry in a State of FluxSep 24, 2020 
+10 min read 
+M&A Activity in Telecoms: An Industry in a State of Flux 
+M&A Activity in Telecoms: An Industry in a State of Flux 
+By Raynor Yeo and Udhaav Jhunjhunwala (Singapore Management University) 
+By Raynor Yeo and Udhaav Jhunjhunwala (Singapore Management University) 
+ 
+ 
+ 
+Trend Summary  
+Trend Summary  
+ 
+The telecom industry has experienced a revolution over the last half a decade. As it stood back in the late 2000s to the early 2010s, this industry was a relatively mature one, experiencing a wave of consolidation that began from the United States and later shifted towards Europe. Megadeals such as Verizon acquiring Vodafone’s stake in Verizon Wireless, the Orange asset sale to Deutsche Telekom and the seemingly perpetual T-mobile acquisition of AT&T are such examples indicative of the consolidative trends within developed and saturated Telecom markets. 
+The telecom industry has experienced a revolution over the last half a decade. As it stood back in the late 2000s to the early 2010s, this industry was a relatively mature one, experiencing a wave of consolidation that began from the United States and later shifted towards Europe. Megadeals such as Verizon acquiring Vodafone’s stake in Verizon Wireless, the Orange asset sale to Deutsche Telekom and the seemingly perpetual T-mobile acquisition of AT&T are such examples indicative of the consolidative trends within developed and saturated Telecom markets. 
+ 
+However, the growing consumer and enterprise reliance on digital technologies increases the need for faster, more secure and more reliable degrees of connectivity. Networks and service providers need to do more than just connect customers to a network to keep them happy. They will have to enhance the efficacy of these networks and provide adjacent services to meet customer needs. A new wave of M&As that is characteristic of a relatively high growth market has begun as telcos fight for disruptive technologies while also fending off new players from the technology and enterprise software industry that are vying for a piece of the connectivity and communications pie too. 
+However, the growing consumer and enterprise reliance on digital technologies increases the need for faster, more secure and more reliable degrees of connectivity. Networks and service providers need to do more than just connect customers to a network to keep them happy. They will have to enhance the efficacy of these networks and provide adjacent services to meet customer needs. A new wave of M&As that is characteristic of a relatively high growth market has begun as telcos fight for disruptive technologies while also fending off new players from the technology and enterprise software industry that are vying for a piece of the connectivity and communications pie too. 
+ 
+With the increased competition in the telecom and digital space, public market investors, especially in Europe, are getting increasingly frustrated by the poor performance exhibited by large telcos which are struggling with high levels of leverage and general underperformance to the market. As a result of this, valuations for telecom companies in the Stoxx 600 have shrinked giving rise to buyout opportunities. In this capital intensive and competitive industry, companies might be well served by staying away from the public eye and focusing on long-term strategic goals rather than short-term goals driven by quarterly reporting pressure. 
+With the increased competition in the telecom and digital space, public market investors, especially in Europe, are getting increasingly frustrated by the poor performance exhibited by large telcos which are struggling with high levels of leverage and general underperformance to the market. As a result of this, valuations for telecom companies in the Stoxx 600 have shrinked giving rise to buyout opportunities. In this capital intensive and competitive industry, companies might be well served by staying away from the public eye and focusing on long-term strategic goals rather than short-term goals driven by quarterly reporting pressure. 
+ 
+There is reason to believe that this current acquisitive scramble is a reflection of the burgeoning opportunities that arise from 5G and cloud innovations as well as the existing challenges to traditional telecom players. And until market leaders can understand the full capabilities of these new technologies, we do not expect the dust to settle on such acquisitions. 
+There is reason to believe that this current acquisitive scramble is a reflection of the burgeoning opportunities that arise from 5G and cloud innovations as well as the existing challenges to traditional telecom players. And until market leaders can understand the full capabilities of these new technologies, we do not expect the dust to settle on such acquisitions. 
+ 
+ 
+Trend Overview  
+Trend Overview  
+ 
+Figure 1: In-Country Telecom M&A deals value 2013 - 2018 (Bain)  
+Figure 1: In-Country Telecom M&A deals value 2013 - 2018 ( 
+Bain 
+)  
+ 
+Firstly, a growing proportion of high profile acquisitions over the last two years have been product focused, particularly in digital services. These deals reflect the interest of service providers in adjacent sectors such as IoT, Over-The-Top (OTT), Cybersecurity or cloud, which have traditionally been reliant on the networks provided by the Telecoms sector.  
+Firstly, a growing proportion of high profile acquisitions over the last two years have been product focused, particularly 
+in digital services. These deals reflect the interest of service providers in adjacent sectors such as IoT, Over-The-Top (OTT), Cybersecurity or cloud, which have traditionally been reliant on the networks provided by the Telecoms sector.  
+ 
+Deal volumes within the Telecoms sector have not just weathered the tide of Covid-19, volumes have been consistently growing.  
+Deal volumes within the Telecoms sector have not just weathered the tide of Covid-19, volumes have been consistently growing.  
+ 
+Figure 2: Announced Media & Telecommunications Deal Volume & Value, 2020 (PWC) 
+Figure 2: Announced Media & Telecommunications Deal Volume & Value, 2020 ( 
+PWC 
+) 
+ 
+Deal values appear to be shifting towards the lower end that hint at smaller scale acquisitions. Media & Telecommunications deals averaged US$150 million in Q2’20, relative to the US$230 million in Q2’19. Comparatively, the number of telecommunication deals have actually risen from 37 to 51 from H1’19 to H1’20.   
+Deal values appear to be shifting towards the lower end that hint at smaller scale acquisitions. Media & Telecommunications deals averaged US$150 million in Q2’20, relative to the US$230 million in Q2’19. Comparatively, the number of telecommunication deals have actually risen from  
+37 to 51 from H1’19 to H1’20 
+.   
+ 
+Traditionally, the majority of deals were scale driven - think the recent T-Mobile acquisition of America Movil - which are consolidative in nature but a growing proportion of deals appear to be product focused. The most significant of these in 2020 were Verizon’s acquisition of Enterprise Video Conferencing platform, BlueJean as an addition to their suite of digital connectivity products or Ericsson’s acquisition of 5G enterprise solutions provider, Cradlepoint. These deals serve to enrich B2B offerings as well as prime the telcos for the infrastructural demands of 5G connectivity.  
+Traditionally, the majority of deals were scale driven - think the recent T-Mobile acquisition of America Movil - which are consolidative in nature but a growing proportion of deals appear to be product focused. The most significant of these in 2020 were Verizon’s acquisition of Enterprise Video Conferencing platform, BlueJean as an addition to their suite of digital connectivity products or Ericsson’s acquisition of 5G enterprise solutions provider, Cradlepoint. These deals serve to enrich B2B offerings as well as prime the telcos for the infrastructural demands of 5G connectivity.  
+ 
+Figure 3: Global Telecoms Infrastructure Deals (Preqin) 
+Figure 3: Global Telecoms Infrastructure Deals ( 
+Preqin 
+) 
+ 
+Secondly, Telecom infrastructure deals have also been gaining traction, as shown by a flow of infrastructure assets from telecom players towards infrastructure investors. The number of deals involving infrastructure assets such as towers, fibre optics and data centres have grown at a CAGR of 36% from 2015 to 2018. By the end of 2019, there were US$60 billion of telecom infrastructure deals ongoing, a bulk of which were divestments of key telecom player’s infrastructure portfolios. The primary buyers in these transactions belong to investors with a keen interest in a growing subclass of infrastructure classified as Telecommunications and Broadcast infrastructure. As an asset, these infrastructure have the characteristics of barriers to entry, visibility of cash flows and long term leasing contracts that position them as robust investments. The sales mark the transition of traditional and major telecom players into less capital intensive business models as they seek to free up capital to focus on expanding and upgrading their core networks as opposed to last mile access. Examples of monetising infrastructure assets include the Vodafone and Telefonica Joint Tower sale and Indosat’s sale of its towers. 
+Secondly, Telecom infrastructure deals have also been gaining traction, as shown by a flow of infrastructure assets from telecom players towards infrastructure investors. The number of deals involving infrastructure assets such as towers, fibre optics and data centres have grown at a  
+CAGR of 36% from 2015 to 2018 
+. By the end of 2019, there were  
+US$60 billion 
+ of telecom infrastructure deals ongoing, a bulk of which were divestments of key telecom player’s infrastructure portfolios. The primary buyers in these transactions belong to investors with a keen interest in a growing subclass of infrastructure classified as Telecommunications and Broadcast infrastructure. As an asset, these infrastructure have the characteristics of barriers to entry, visibility of cash flows and long term leasing contracts that position them as robust investments. The sales mark the transition of traditional and major telecom players into less capital intensive business models as they seek to free up capital to focus on expanding and upgrading their core networks as opposed to last mile access. Examples of monetising infrastructure assets include the Vodafone and Telefonica Joint Tower sale and Indosat’s sale of its towers. 
+ 
+Finally, publicly listed telcos, especially in Europe, have seen a sharp decline in valuations on the back of long-standing concerns surrounding highly leveraged business models that constantly require capital intensive network upgradation and maintenance. This has seen the average EV/EBITDA multiple of telcos within the Stoxx 600 fall from over 7x in 2016 to c. 6x in 2020. On the back of this perceived undervaluation, companies are looking to go private or consolidate ownership through buyouts of minority shareholders as in the case of French telcos, Altice Europe and Iliad.  
+Finally, publicly listed telcos, especially in Europe, have seen a sharp decline in valuations on the back of long-standing concerns surrounding highly leveraged business models that constantly require capital intensive network upgradation and maintenance. This has seen the average EV/EBITDA multiple of telcos within the Stoxx 600 fall from over  
+7x in 2016 to c. 6x in 2020 
+. On the back of this perceived undervaluation, companies are looking to go private or consolidate ownership through buyouts of minority shareholders as in the case of French telcos, Altice Europe and Iliad.  
+ 
+Additionally, telcos are seeing increased attention from private equity and infrastructure investors who are hoping to find undervalued assets. Spanish telco MasMovil, which had a 13.86% share of Spain’s mobile market, was recently acquired by a trio of PE firms. MasMovil has been posting impressive growth and gained customers through the spring lockdown period even as other mobile operators posted negative subscriber growth. Despite the impressive performance, the return on the stock was negative YTD up till the announcement of the potential privatization. 
+Additionally, telcos are seeing increased attention from private equity and infrastructure investors who are hoping to find undervalued assets. Spanish telco MasMovil, which had a  
+13.86% 
+ share of Spain’s mobile market, was recently acquired by a trio of PE firms. MasMovil has been posting impressive growth and gained customers through the spring lockdown period even as other mobile operators posted negative subscriber growth. Despite the impressive performance, the return on the stock was negative YTD up till the announcement of the potential privatization. 
+ 
+ 
+Trend Drivers  
+Trend Drivers  
+ 
+Telecom deals have been driven by the interplay of a few distinct drivers. The overarching theme across telco M&A deals has revolved around scope rather than scale as companies look to enhance the value of their offering by adding new features and products. This is primarily driven by consumer needs for additional services as well as a sharp reduction in profitability of the core telecom business due to years of stiff competition. As a result of the need to diversify their product offerings, telcos are increasingly freeing up capital by divesting non-core assets as well as monetizing the physical infrastructure that they have built over the past decades. Finally, as growth in the core telecom business slows, public investors are increasingly demanding of telcos. 
+Telecom deals have been driven by the interplay of a few distinct drivers. The overarching theme across telco M&A deals has revolved around scope rather than scale as companies look to enhance the value of their offering by adding new features and products. This is primarily driven by consumer needs for additional services as well as a sharp reduction in profitability of the core telecom business due to years of stiff competition. As a result of the need to diversify their product offerings, telcos are increasingly freeing up capital by divesting non-core assets as well as monetizing the physical infrastructure that they have built over the past decades. Finally, as growth in the core telecom business slows, public investors are increasingly demanding of telcos. 
+ 
+Figure 4: Hosting Location of Workloads (BCG Telco Makeover) 
+Figure 4: Hosting Location of Workloads ( 
+BCG Telco Makeover 
+) 
+ 
+Firstly, telcos are positioning themselves to meet the growing consumer and enterprise expectations for connectivity. Particularly due to the perpetual IoT and volumes of data, the demand for faster yet more reliable connectivity has become ever the more salient. Enterprises have transitioned into digitally-enabled business models. These models are reliant on extensive cross-border networks, edge computing and large volumes of data. IoT in consumer context such as intercommunicating smart devices, autonomous driving, big data and analytics dependent services, financial technology penetration also demand greater bandwidths, faster internet speeds and lower latency. 5G networking has been a primary enabler of such digital developments but the demands of which require the adaptation of core networks and infrastructure to cope. Ribbon Communication’s acquisition of data transmission and digital communication equipment manufacturer, ECI Telecoms, is an example of such a portfolio boosting acquisition. 
+Firstly, telcos are positioning themselves to meet the growing consumer and enterprise expectations for connectivity. Particularly due to the perpetual IoT and volumes of data, the demand for faster yet more reliable connectivity has become ever the more salient. Enterprises have transitioned into digitally-enabled business models. These models are reliant on extensive cross-border networks, edge computing and large volumes of data. IoT in consumer context such as intercommunicating smart devices, autonomous driving, big data and analytics dependent services, financial technology penetration also demand greater bandwidths, faster internet speeds and lower latency. 5G networking has been a primary enabler of such digital developments but the demands of which require the adaptation of core networks and infrastructure to cope. Ribbon Communication’s acquisition of data transmission and digital communication equipment manufacturer, ECI Telecoms, is an example of such a portfolio boosting acquisition. 
+ 
+Second, tightening margins and disruptive business models from product commodification are forcing telcos to look for new areas of growth. As a whole, the global telecom and pay-TV market was only forecasted by IDC to grow 0.8% from 2019 to 2020 according to IDC. In response, a significant portion of Telcos have begun looking for growth within the digital services sector where communication products and services seem to be more tech than telecom. Traditional telcos have been experiencing a declining topline growth and shrinking margins in core network accessibility revenues as a result of two primary factors, alternative means of communications and a saturation of mobile and wireline penetration. These have led to the migration of customers to alternative technologies as well as to telcos competing with each other over a seemingly fixed market size. OTT and big tech players have long been offering products and services supposedly under the purview of Telcos such as voice, messaging and media. A large part of these alternative offers draw customers into an ecosystem that is seemingly detached from the telco itself - particularly with demand for carrier neutrality. Enterprises and businesses for instance have transited onto cloud and communication networks that function over the internet. VOIP and SIP phones are a distinct example of such a shift. In recent years, the video conferencing market itself saw the rise of independent and tech players such as Zoom, Cisco owned Webex and Microsoft’s Skype and Teams. Messaging has also primarily become an OTT domain with the likes of Slack, Whatsapp and Telegram.  
+Second, tightening margins and disruptive business models from product commodification are forcing telcos to look for new areas of growth. As a whole, the  
+global telecom and pay-TV market was only forecasted by IDC to grow 0.8% from 2019 to 2020 
+ according to IDC. In response, a significant portion of Telcos have begun looking for growth within the digital services sector where communication products and services seem to be more tech than telecom. Traditional telcos have been experiencing a declining topline growth and shrinking margins in core network accessibility revenues as a result of two primary factors, alternative means of communications and a saturation of mobile and wireline penetration. These have led to the migration of customers to alternative technologies as well as to telcos competing with each other over a seemingly fixed market size. OTT and big tech players have long been offering products and services supposedly under the purview of Telcos such as voice, messaging and media. A large part of these alternative offers draw customers into an ecosystem that is seemingly detached from the telco itself - particularly with demand for carrier neutrality. Enterprises and businesses for instance have transited onto cloud and communication networks that function over the internet. VOIP and SIP phones are a distinct example of such a shift. In recent years, the video conferencing market itself saw the rise of independent and tech players such as Zoom, Cisco owned Webex and Microsoft’s Skype and Teams. Messaging has also primarily become an OTT domain with the likes of Slack, Whatsapp and Telegram.  
+ 
+The telco’s themselves face stiff competition from within with the spread of ARPUs globally falling by 12% over the last 10 years by a Strategy& study. This is indicative of the erosion of pricing power within telcos as they compete by reducing prices and bundling products together. Attempting to outdo one another by cost effectiveness has led to a race to the bottom.  
+The 
+telco’s themselves face stiff competition from within with the  
+spread of ARPUs globally falling by 12% 
+ over the last 10 years by a Strategy& study. This is indicative of the erosion of pricing power within telcos as they compete by reducing prices and bundling products together. Attempting to outdo one another by cost effectiveness has led to a race to the bottom.  
+ 
+Inevitably, the bottom has neared and cost effectiveness, reliability and service quality are insufficient to drive the next wave of growth. The foresight of executives have led them towards identifying unmet customer needs within both traditional telecom products and adjacent verticals of digital services. With established core networks, long running customer relations and ownership of bandwidths, telcos are able to bolt on digital services that are easily integrated into their networks such as lifestyle applications in the consumer silo and enterprise services such as unified communications. 
+Inevitably, the bottom has neared and cost effectiveness, reliability and service quality are insufficient to drive the next wave of growth. The foresight of executives have led them towards identifying unmet customer needs within both traditional telecom products and adjacent verticals of digital services. With established core networks, long running customer relations and ownership of bandwidths, telcos are able to bolt on digital services that are easily integrated into their networks such as lifestyle applications in the consumer silo and enterprise services such as unified communications. 
+ 
+Acting as a driver for infrastructure sales, physical Infrastructure itself has begun to present itself as a barrier to agility to incumbents as opposed to a barrier to entry for new players. Technological upgrades, such as the 5G roll out and the development of network architecture, will demand more investments into existing infrastructure and maintenance as well. The velocity of such advancements may potentially overtake the speed at which incumbents are able to upgrade their infrastructure. This pulls focus and capital from developing  core networks and into potential legacy issues instead. Conversely, Over-The-Top (OTT) players and other asset-light businesses have been able to side step the initial capital outlay through the leasing of infrastructure assets and the proliferation of net neutrality laws. To the incumbents and their shareholders, there seems to be little competitive advantage in holding physical infrastructure.  
+Acting as a driver for infrastructure sales, physical Infrastructure itself has begun to present itself as a barrier to agility to incumbents as opposed to a barrier to entry for new players. Technological upgrades, such as the 5G roll out and the development of network architecture, will demand more investments into existing infrastructure and maintenance as well. The velocity of such advancements may potentially overtake the speed at which incumbents are able to upgrade their infrastructure. This pulls focus and capital from developing  core networks and into potential legacy issues instead. Conversely, Over-The-Top (OTT) players and other asset-light businesses have been able to side step the initial capital outlay through the leasing of infrastructure assets and the proliferation of net neutrality laws. To the incumbents and their shareholders, there seems to be little competitive advantage in holding physical infrastructure.  
+ 
+“Twenty-one percent (of Telecommunication Executives) say that portfolio reviews are accelerating, with divestments helping to focus on digital transformation and fund the response to digital competition.” 
+“Twenty-one percent (of Telecommunication Executives) say that portfolio reviews are accelerating, with divestments helping to focus on digital transformation and fund the response to digital competition.” 
+Global Capital Confidence Barometer, EY, 2019 
+Global Capital Confidence Barometer, EY, 2019 
+ 
+Divestments will allow for the freeing up of capital and flexibility to focus on higher margin segments. We see this mainly in more mature markets with established players such as AT&T with their sale of its US and Mexico towers, as developing reach is not a priority in a saturated market. Interestingly, Reliance Jio has entered a multi-stage deal to sell its towers to Brookfield Infrastructure Partners despite it being in a growth market, reflecting the telecommunications operators sentiment to shift up the value chain. 
+Divestments will allow for the freeing up of capital and flexibility to focus on higher margin segments. We see this mainly in more mature markets with established players such as AT&T with their sale of its US and Mexico towers, as developing reach is not a priority in a saturated market. Interestingly, Reliance Jio has entered a multi-stage deal to sell its towers to Brookfield Infrastructure Partners despite it being in a growth market, reflecting the telecommunications operators sentiment to shift up the value chain. 
+ 
+Lastly, the perception of telecoms has changed in the eyes of public investors from a growth industry towards a mature industry. Due to the inherent capital intensive nature of the business and the acquisition spree that was seen in the industry in the previous decade, large telcos are straddled with huge amounts of debt. Additionally, top line growth across the industry is expected to slow in the coming years as evidenced with the declining ARPUs. As revenue growth slows, the industry will move into a more mature stage and companies will need to look to adjacent areas for growth. Firms that do not ride the wave of expanding their product offerings will face increased pressure from investors to deliver sustainable earnings and dividends. 
+Lastly, the perception of telecoms has changed in the eyes of public investors from a growth industry towards a mature industry. Due to the inherent capital intensive nature of the business and the acquisition spree that was seen in the industry in the previous decade, large telcos are straddled with huge amounts of debt. Additionally, top line growth across the industry is expected to slow in the coming years as evidenced with the declining ARPUs. As revenue growth slows, the industry will move into a more mature stage and companies will need to look to adjacent areas for growth. Firms that do not ride the wave of expanding their product offerings will face increased pressure from investors to deliver sustainable earnings and dividends. 
+ 
+These factors combined are making investors increasingly wary of legacy telecom companies that have huge debt loads and poor profitability. Across the industry, most telcos are facing huge capital expenditure in the near future as companies rush to build a 5G network. As a consequence, investors are looking carefully at the returns generated by these companies on past investments before committing their money. This has seen the value of European telecom companies drop 20% over the past year. 
+These factors combined are making investors increasingly wary of legacy telecom companies that have huge debt loads and poor profitability. Across the industry, most telcos are facing huge capital expenditure in the near future as companies rush to build a 5G network. As a consequence, investors are looking carefully at the returns generated by these companies on past investments before committing their money. This has seen the value of European telecom companies  
+drop 20% 
+ over the past year. 
+ 
+Figure 5: European Telecom Companies Average Net Debt to EBITDA (Financial Times) 
+Figure 5: European Telecom Companies Average Net Debt to EBITDA ( 
+Financial Times 
+) 
+ 
+ 
+Conclusion 
+Conclusion 
+ 
+The telecoms industry is constantly in a state of evolution due to the unique landscape which has created as a result of years of intense competition.  In the next frontier for the industry, the competition will move beyond traditional telecom services towards adjacent industries as telcos look to diversify their product offerings and capture high-growth opportunities in areas such as cloud, OTT and digital services. This might lead to a clear divergence between players who consolidate within telecoms and focus on profitability and those who expand the scope of their services. 
+The telecoms industry is constantly in a state of evolution due to the unique landscape which has created as a result of years of intense competition.  In the next frontier for the industry, the competition will move beyond traditional telecom services towards adjacent industries as telcos look to diversify their product offerings and capture high-growth opportunities in areas such as cloud, OTT and digital services. This might lead to a clear divergence between players who consolidate within telecoms and focus on profitability and those who expand the scope of their services. 
+ 
+ 
+Relevant Acquisitions 
+Relevant Acquisitions 
+ 
+Verizon / BlueJeans 
+Verizon / BlueJeans 
+Announcement Date: April 16, 2020 
+Announcement Date: 
+April 16, 2020 
+Acquirer:  Verizon  
+Acquirer:  
+Verizon 
+Target:  BlueJeans Network  
+Target:  
+BlueJeans Network 
+Acquirer Advisors:  Debevoise & Plimpton 
+Acquirer Advisors:  
+Debevoise & Plimpton 
+Target Advisors:  Evercore, Goodwin Procter 
+Target Advisors:  
+Evercore, Goodwin Procter 
+Value:  USD 400 million 
+Value:  
+USD 400 million 
+Rationale:  
+Rationale:  
+To integrate into Verizon’s 5G product roadmap, providing secure and real-time engagement solutions for high growth areas such as telemedicine, distance learning and field service work. 
+Expansion of Verizon’s Unified Communications Portfolio. 
+ 
+Ericsson / Cradlepoint 
+Ericsson / Cradlepoint 
+Announcement Date: September 18, 2020 
+Announcement Date: 
+September 18, 2020 
+Acquirer:  Telefonaktiebolaget LM Ericsson 
+Acquirer:  
+Telefonaktiebolaget LM Ericsson 
+Target:  Cradlepoint, Inc. 
+Target:  
+Cradlepoint, Inc. 
+Target Advisors:  Latham & Watkins LLP 
+Target Advisors:  
+Latham & Watkins LLP 
+Value:  USD 1.10 billion 
+Value:  
+USD 1.10 billion 
+Rationale: 
+Rationale: 
+Expansion of Ericsson’s 5G Enterprise Network offerings 
+Cradlepoint, Inc. is a provider of Wireless Edge WAN 4G and 5G solutions through their router sales and Enterprise Cloud softwares. 
+Ericsson aims to provide Cradlepoint equipment and softwares to mobile operators that are selling to corporate clients. The added products and services that operators are able to sell will assist these operators in extracting more value from their 5G investments. 
+ 
+Brookfield Infrastructure Partners / Reliance Jio 
+Brookfield Infrastructure Partners / Reliance Jio 
+Announcement Date: December 16, 2019 
+Announcement Date: 
+December 16, 2019 
+Acquirer:  Brookfield Infrastructure Partners & Consortium 
+Acquirer:  
+Brookfield Infrastructure Partners & Consortium 
+Target:  Reliance Jio Cell Tower Assets (Reliance Jio Infratel) 
+Target:  
+Reliance Jio Cell Tower Assets (Reliance Jio Infratel) 
+Value:  USD 3.5 billion 
+Value:  
+USD 3.5 billion 
+Rationale: 
+Rationale: 
+Reliance Jio will still utilise the Cell Towers through a 30 Year Master Service Agreement with Reliance Jio Infratel as its anchor tenant. 
+The deal is expected to shave off USD 8 Billion in Debt from Reliance Industries’ books. USD 3.5 billion is paid off through the cash received from Brookfield Infrastructure Partners.  USD 4.5 billion of debt will be transferred out of Reliance Industries’ consolidated books. 
+Reliance Jio will be focused on expanding its scope of connectivity services such as Broadband etc. 
+ 
+KKR, Cinven & Providence Equity Partners / MasMovil 
+KKR, Cinven & Providence Equity Partners / MasMovil 
+Announcement Date: June 1, 2020 
+Announcement Date: 
+June 1, 2020 
+Acquirer:  KKR, Cinven & Providence Equity Partners 
+Acquirer:  
+KKR, Cinven & Providence Equity Partners 
+Target:  MasMovil Ibercom 
+Target:  
+MasMovil Ibercom 
+Acquirer Advisors:  Morgan Stanley 
+Acquirer Advisors:  
+Morgan Stanley 
+Value:  EUR 2.96 billion 
+Value:  
+EUR 2.96 billion 
+Rationale: 
+Rationale: 
+With the backing of the heavyweight private equity firms, MasMovil can continue its aggressive growth strategy through acquisition of smaller players. 
+In the likely event of greater consolidation in the industry down the line, private ownership will give the company greater negotiating power and likely lead to better value for the owners. 
+ 
+Next Private (Patrick Drahi) / Altice Europe 
+Next Private (Patrick Drahi) / Altice Europe 
+Announcement Date: September 11, 2020 
+Announcement Date: 
+September 11, 2020 
+Acquirer:  Next Private (Subsidiary of Patrick Drahi’s holding company) 
+Acquirer:  
+Next Private (Subsidiary of Patrick Drahi’s holding company) 
+Target:  Altice Europe 
+Target:  
+Altice Europe 
+Value:  EUR 2.5 billion 
+Value:  
+EUR 2.5 billion 
+Rationale: 
+Rationale: 
+Patrick Drahi is the majority owner of Altice Europe owning 77.6% of the company’s shares. 
+The buyout offer reflects the disparity in the public markets valuation of the company and the implied value as per the majority shareholders. 
+By going private, the firm will be able to focus more on long-term strategic goals without the pressure of meeting short-term quarterly performance goals as expected by public investors.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Bain 
+https://www.bain.com/insights/the-new-age-of-scale-scope-and-infrastructure-in-telecom-ma/ 
+
+PWC 
+https://www.pwc.com/us/en/industries/tmt/library/telecom-media-quarterly-deals-insights.html 
+
+37 to 51 from H1’19 to H1’20 
+https://www.pwc.com/us/en/industries/tmt/library/telecom-media-quarterly-deals-insights.html 
+
+Preqin 
+https://docs.preqin.com/press/INF-Deals-2018.pdf 
+
+CAGR of 36% from 2015 to 2018 
+https://docs.preqin.com/press/INF-Deals-2018.pdf 
+
+US$60 billion 
+https://www.globenewswire.com/news-release/2019/09/11/1913963/0/en/Over-US-60-billion-of-new-telecom-infrastructure-deals-predicted-globally-by-the-end-of-2019-say-TMT-Finance.html 
+
+7x in 2016 to c. 6x in 2020 
+https://www.wsj.com/articles/europes-telcos-are-due-their-time-in-the-sun-11599740241 
+
+13.86% 
+https://telecoms.com/506554/masmovil-takes-on-the-big-guns-as-shareholders-back-buyout/ 
+
+BCG Telco Makeover 
+https://www.bcg.com/publications/2018/to-fuel-growth-telcos-need-digital-makeover 
+
+global telecom and pay-TV market was only forecasted by IDC to grow 0.8% from 2019 to 2020 
+http://www.telecomtv.com/content/network-services/telecoms-billions-still-pouring-in-but-not-much-growth-36893/ 
+
+spread of ARPUs globally falling by 12% 
+https://www.strategyand.pwc.com/gx/en/insights/2019/commoditization-and-convergence/commoditization-and-convergence.pdf 
+
+drop 20% 
+https://www.ft.com/content/fa4f6094-ea31-454b-b3c4-b62cbc012a40 
+
+Financial Times 
+https://www.ft.com/content/fa4f6094-ea31-454b-b3c4-b62cbc012a40 
+
+Verizon / BlueJeans 
+https://www.businessinsider.com/verizon-acquires-bluejeans-to-expand-b2b-ecosystem-2020-4?IR=T 
+
+Ericsson / Cradlepoint 
+https://www.ericsson.com/en/press-releases/2020/9/ericsson-accelerates-5g-for-enterprise-with-acquisition-of-cradlepoint 
+
+Brookfield Infrastructure Partners / Reliance Jio 
+https://bip.brookfield.com/press-releases/2019/12-16-2019-112919449 
+
+KKR, Cinven & Providence Equity Partners / MasMovil 
+https://www.ft.com/content/0f1bd080-aab2-46ec-870e-0edc65ae4878 
+
+Next Private (Patrick Drahi) / Altice Europe 
+https://www.ft.com/content/5db956c4-73fa-4b2b-bea9-e244bf4ce441 
+

@@ -1,0 +1,254 @@
+Filing for Disruption: The Tech Sector is Changing the IPO MarketJan 7 
+10 min read 
+Filing for Disruption: The Tech Sector is Changing the IPO Market 
+Filing for Disruption: The Tech Sector is Changing the IPO Market 
+By Cameron Caldwell (University of Glasgow) and Emil Widdig (WHU - Otto Beisheim School of Management) 
+By Cameron Caldwell (University of Glasgow) and Emil Widdig (WHU - Otto Beisheim School of Management) 
+ 
+Synopsis 
+Synopsis 
+ 
+Initial Public Offerings are still the most popular way of raising capital for tech companies. For most, it represents an essential milestone and functions as an exit opportunity for early-stage investors. While tech companies have disrupted countless industries, its most precious way of raising capital has stayed mostly the same, at least for now. Within the last few years, tech companies have found new ways of going public besides traditional initial public offerings. 
+Initial Public Offerings are still the most popular way of raising capital for tech companies. For most, it represents an essential milestone and functions as an exit opportunity for early-stage investors. While tech companies have disrupted countless industries, its most precious way of raising capital has stayed mostly the same, at least for now. Within the last few years, tech companies have found new ways of going public besides traditional initial public offerings. 
+  
+Table of Contents 
+Table of Contents 
+ 
+Introduction 
+Introduction 
+ 
+The Increasing Popularity of Direct Listings 
+The Increasing Popularity of Direct Listings 
+Direct listings, a way to list on the stock market without issuing any new shares, has grown in popularity in the tech sector in 2020 and looks to continue its growth in 2021. 
+There are many advantages to listing this way, with no underwriting fees, a much simpler process, and assurance the stock’s price will be solely determined by market demand. 
+With ground-breaking legislation passed for direct listings, which allow the ability to raise further capital, direct listings could change the way the IPO market functions in the future. 
+ 
+ICOs: Another Alternative to IPOs? 
+ICOs: Another Alternative to IPOs? 
+While initial coin offerings were incredibly popular amidst the blockchain craze of 2017 to 2018, ICO activity has now greatly decreased. 
+ICOs are quite similar to IPOs but face some challenges for wider adoption by companies. Most importantly, as regulators focus on making ICOs investor-friendly, many of the benefits of ICOs disappear. 
+The main benefits of ICOs are its low entry barriers and low costs, making it attractive for small-cap companies that do not want to or cannot attract private funding. 
+  
+The Year for SPACs? 
+The Year for SPACs? 
+2020 has been the best year yet for Special Purpose Acquisition Companies (SPACs), which take exist for the sole purpose of taking companies public. 
+While notorious for its high returns, research finds the market performs better than SPACs on average. 
+Heading into 2021, investors are still cautious of SPACs, however 
+ its quick route to listing makes it a very attractive option for tech companies. 
+ 
+Introduction 
+Introduction 
+ 
+In a traditional Initial Public Offering (IPO), a previously private company issues shares on a public stock exchange for the first time. In an IPO, the issuing company is supported by an investment bank, which assumes the role of the so-called underwriter. The underwriter is an intermediary between the capital markets and the issuing company. In this function, the investment bank most commonly purchases the shares from the company and then sells them to investors, such as high net-worth clients, and lists them on the public stock exchange. 
+In a traditional Initial Public Offering (IPO), a previously private company issues shares on a public stock exchange for the first time. In an IPO, the issuing company is supported by an investment bank, which assumes the role of the so-called underwriter. The underwriter is an intermediary between the capital markets and the issuing company. In this function 
+ the investment bank most commonly purchases the shares from the company and then sells them to investors, such as high net-worth clients, and lists them on the public stock exchange. 
+ 
+The IPO is a carefully planned operation with average IPO preparation times lasting between 4-6 months. Aside from fulfilling regulations and due diligence, the investment bank and company will engage in a so-called roadshow, in which they pitch the IPO marketing material in front of prospective investors to convince them to engage in the IPO. Depending on the demand during the roadshow, the company, together with the underwriter, might adjust its issuing price before selling the shares to the public. Most commonly, the underwriter first sells these shares to institutional clients like mutual funds, hedge funds, or insurance companies while individual investors [KJ1] can finally purchase the shares the days following the actual IPO. 
+The IPO is a carefully planned operation with average IPO preparation times lasting 
+between 4-6 months 
+. Aside from fulfilling regulations and due diligence, the investment bank and company will engage in a so-called  
+, in which they pitch the IPO marketing material in front of prospective investors to convince them to engage in the IPO. Depending on the demand during the  
+, the company, together with the underwriter, might adjust its issuing price before selling the shares to the public. Most commonly, the underwriter first sells these shares to institutional clients like mutual funds, hedge funds, or insurance companies while individual investors [KJ1] can finally purchase the shares the days following the actual IPO. 
+  
+Recent years have seen some interesting changes in the tech IPO procedure. As an IPO is, as Tim Jenkinson, Professor at Saïd Business School, puts it “a very grueling process for the directors of the company” and because the IPO can be quite expensive for the issuing company, tech firms are searching for alternatives. 
+Recent years have seen some interesting changes in the tech IPO procedure. As an IPO is, 
+as Tim Jenkinson, Professor at Saïd Business School, puts it 
+ “a very  
+ process for the directors of the company” and because the IPO can be quite expensive for the issuing company, tech firms are searching for alternatives. 
+  
+  
+The Increasing Popularity of Direct Listings 
+The Increasing Popularity of Direct Listings 
+ 
+A relatively new alternative to the traditional Initial Public Offering (IPO), Direct Listings, have gained further popularity in 2020 with more organisations in the tech sector considering it over the traditional process and significant legislation being passed which could change future operation of the IPO market. 
+A relatively new alternative to the traditional Initial Public Offering (IPO), Direct Listings, have gained further popularity in 2020 with more organisations in the tech sector considering it over the traditional process and significant legislation being passed which could change future operation of the IPO market. 
+Naturally, a direct listing issues no new shares but rather provides liquidity to current shareholders, such as employees and early-stage investors, by publicly listing their shares. Avoiding a sometimes complex and lengthy underwriting process, direct listing is an easier and cheaper way to list without requiring an investment bank underwriting the issuance of stock. 
+Naturally, a direct listing issues no new shares but rather provides liquidity to current shareholders, such as employees and early-stage investors, by publicly listing their shares. Avoiding a sometimes complex and lengthy underwriting process, direct listing is an easier and cheaper way to list without requiring an investment bank underwriting the issuance of stock. 
+ 
+Having attracted large media and investor attention since Spotify’s direct listing in 2018, many late-stage private tech companies, even ones with access to large investments through private capital markets have considered this as their preferred alternative to the traditional IPO. Slack followed in Spotify’s footsteps in 2019 with a listing so successful that it saw prices rise as much as 62% from the reference price on its first day of trading. Palantir, the software company that provides services to governments and intelligence agencies, also listed through a Direct Listing and was handed a $21bn valuation at the end of its first trading day. 
+Having attracted large media and investor attention since Spotify’s direct listing in 2018, many late-stage private tech companies, even ones with 
+access to large investments through private capital markets 
+ have considered this as their preferred alternative to the traditional IPO. Slack followed in Spotify’s footsteps in 2019 with a listing so successful that it saw prices 
+rise as much as 62% from the reference price 
+ on its first day of trading. Palantir, the software company that provides services to governments and intelligence agencies, also listed through a Direct Listing and was handed a $21bn valuation at the end of its first trading day. 
+Avoiding lockup periods, mandatory in the traditional process, is also a big draw for potential direct listers, which provides current shareholders the option to immediately sell shares on the IPO day. A comparison of further advantages and disadvantages are detailed in figure 1 below. 
+Avoiding lockup periods, mandatory in the traditional process, is also a big draw for potential direct  
+, which provides current shareholders the option to immediately sell shares on the IPO day. A comparison of further advantages and disadvantages are detailed in figure 1 below. 
+  
+Figure 1: Comparison of a Traditionally Underwritten IPO vs. a Direct Listing (The University of Tennessee) 
+Figure 1: Comparison of a Traditionally Underwritten IPO vs. a Direct Listing 
+( 
+The University of Tennessee 
+) 
+ 
+Organisations typically pay a large underwriting fee of around 7% (Figure 2) for a traditional IPO, which can often discourage management from going public due to the substantial cost. When these costs are reduced to around 2% for a direct listing, this becomes more attractive and amounts to significant savings when raising billions of dollars. It is not possible to eliminate fees completely, as the investment bank is necessary for other processes in the listing. However, direct listings will generally have smaller fees and offer a cheaper way for organisations to go public compared with IPOs. 
+Organisations typically pay a large underwriting fee of around 7% (Figure 2) for a traditional IPO, which can often discourage management from going public due to the substantial cost. When these costs are reduced to 
+around 2% for a direct listing 
+, this becomes more attractive and amounts to significant savings when raising billions of dollars. It is not possible to eliminate fees completely, as the investment bank is necessary for other processes in the listing. However, direct listings will generally have smaller fees and offer a cheaper way for organisations to go public compared with IPOs. 
+ 
+While competition amongst investment banks threatens to reduce traditional IPO fees, slim profit margins limit the underwriter’s ability to significantly decrease their fees. As a result, it is likely that underwriting fees will remain at a similar level in the future, drawing significant attention to the cheaper alternative of direct listings. 
+While competition amongst investment banks threatens to reduce traditional IPO fees, slim profit margins limit the underwriter’s ability to significantly decrease their fees. As a result, it is likely that underwriting fees will remain at a similar level in the future, drawing significant attention to the cheaper alternative of direct listings. 
+  
+Figure 2: Average Underwriter fee from IPO in the USA from 2014 to 2017, by deal size (Statista) 
+Figure 2: Average Underwriter fee from IPO in  
+USA from 2014 to 2017, by deal size 
+( 
+Statista 
+) 
+The traditional IPO process is usually long and complex, generally lasting a period of 4-6 months. One key difference in a direct listing is that there is no roadshow which means listings can be completed much faster. The share price is determined by the market demand on the first day of trading and as a result, the direct listing process is much simpler and can be completed in a much shorter time frame. This can be attractive in periods of uncertainty as well as from an organisational standpoint. 
+The traditional IPO process is usually long and complex, generally lasting a period of 4-6 months. One key difference in a direct listing is that there is no roadshow which means listings can be completed much faster. The share price is determined by the market demand on the first day of trading and as a result, the direct listing process is much simpler and can be completed in a much shorter time frame. This can be attractive in periods of uncertainty as well as from an organisational standpoint. 
+ 
+In recent years, underwriters of IPOs have also been accused of mispricing their listings. While this is discussed later in this article, organisations in search of achieving a true market driven price for their listing will prefer a direct listing over a traditional IPO because of how the price is determined on the first day of trading from a wider pool of investors. A direct listing reduces the likelihood of under or overpricing and is very attractive to organisations because of this. 
+In recent years, underwriters of IPOs have also been accused of mispricing their listings. While this is discussed later in this article, organisations in search of achieving a true market driven price for their listing will prefer a direct listing over a traditional IPO because of how the price is determined on the first day of trading from a wider pool of investors. A direct listing reduces the likelihood of  
+ overpricing and is very attractive to organisations because of this. 
+ 
+If direct listings hadn’t impressed enough already, the future is perhaps even brighter for this type of listing. At the tail end of 2020, the Securities Exchange Commission (SEC) approved the New York Stock Exchange (NYSE) ruling to allow companies to raise money from a direct listing (i.e. without underwriting fees). It means new shares can be issued, either along with existing shares or individually, and will be priced at an opening auction. It is also expected that the NASDAQ will introduce a similar ruling in due course. This will likely become an even more attractive option for well-known large companies looking for capital injection in the capital markets and it could influence how the IPO market will operate in the future. 
+If direct listings hadn’t impressed enough already, the future is perhaps even brighter for this type of listing. At the tail end of 2020, the Securities Exchange Commission (SEC) approved the New York Stock Exchange (NYSE) ruling to 
+allow companies to raise money from a direct listing 
+ (i.e. without underwriting fees). It means new shares can be issued, either along with existing shares or individually, and will be priced at an opening auction. It is also expected that the NASDAQ will introduce a similar ruling in due course. This will likely become an even more attractive option for well-known large companies looking for capital injection in the capital markets and it could influence how the IPO market will operate in the future. 
+  
+ 
+ICOs: Another Alternative to IPOs? 
+ICOs: Another Alternative to IPOs? 
+  
+Another alternative to IPOs that is often talked about are Initial Coin Offerings, also called ICOs. ICOs have been quite popular between 2017 and 2019 but have since ebbed down in popularity. 
+Another alternative to IPOs that is often talked about are Initial Coin Offerings, also called ICOs. ICOs have been quite popular between 2017 and 2019 but have since ebbed down in popularity. 
+ 
+ICOs are similar to IPOs in that a company can raise capital by offering shares of equity to a broad number of investors. In the case of ICOs, the issuing company does not offer actual shares, but tokens that promise to be converted into equity shares later on. Similar to an actual IPO, the issuing company publishes a so-called whitepaper which works in the same way as IPO marketing material. In it, potential investors can find out about the company and decide whether they want to be a part of its initial coin offering. The main difference between an ICO and an IPO is that in the case of an ICO, there is no underwriter and much lower barriers to entry. Essentially, any company could do an ICO provided there is enough demand for it. Although there are no traditional underwriters in an ICO, many of the tokens are sold to insiders and large investors at a large median discount of 30% prior to the ICO. The tokens that an investor purchases during the ICO can be sold on cryptocurrency exchanges after the ICO in a similar fashion as shares can be sold on stock exchanges after an IPO. 
+ICOs are similar to IPOs in that a company can raise capital by offering shares of equity to a broad number of investors. In the case of ICOs, the issuing company does not offer actual shares, but tokens that promise to be converted into equity shares later on. Similar to an actual IPO, the issuing company publishes a so-called whitepaper which works in the same way as IPO marketing material. In it, potential investors can find out about the company and decide whether they want to be a part of its initial coin offering. The main difference between an ICO and an IPO is that in the case of an ICO, there is no underwriter and much lower barriers to entry. Essentially, any company could do an ICO provided there is enough demand for it. Although there are no traditional underwriters in an ICO, many of the tokens are sold to insiders and large investors at a large 
+median discount of 30% 
+ prior to the ICO. The tokens that an investor purchases during the ICO can be sold on cryptocurrency exchanges after the ICO in a similar fashion as shares can be sold on stock exchanges after an IPO. 
+ 
+The amount of capital raised through ICOs seems impressive. According to icodata.io, a total of $14.3bn has been raised through ICOs since 2015. However, this number is misleading, because not all of these ICOs are actually comparable to the typical IPO. There are three types of ICOs. In the type in which company equity is sold, so-called security tokens are sold. In the other ICOs, either utility tokens, or cryptocurrency tokens are issued. Utility tokens are comparable to crowdsourcing in which buyers are purchasing or pre-ordering products using blockchain technology. In ICOs, in which cryptocurrency tokens are issued, a new cryptocurrency is launched. Neither of these types are for raising cash in return for equity but are nonetheless very popular ways of raising capital. In only 3% of ICOs, the issuing company sells security tokens, which puts the amount raised at a still impressive amount of $430m. 
+The amount of capital raised through ICOs seems impressive. According to icodata.io, a total of $14.3bn has been raised through ICOs since 2015. However, this number is misleading, because not all of these ICOs are actually comparable to the typical IPO. There are three types of ICOs. In the type in which company equity is sold, so-called security tokens are sold. In the other ICOs, either utility tokens, or cryptocurrency tokens are issued. Utility tokens are comparable to crowdsourcing in which buyers are purchasing or pre-ordering products using blockchain technology. In ICOs, in which cryptocurrency tokens are issued, a new cryptocurrency is launched. Neither of these types are for raising cash in return for equity but are nonetheless very popular ways of raising capital. In only 
+3% of ICOs 
+, the issuing company sells security tokens, which puts the amount raised at a still impressive amount of $430m. 
+  
+Figure 3: The Peak of ICO Activity was Between 2017 and 2019: Amount Raised in ICOs since 2013 (icodata.io) 
+Figure 3: The Peak of ICO Activity was Between 2017 and 2019: Amount Raised in ICOs since 2013 ( 
+icodata.io 
+) 
+So, will ICOs become a realistic alternative to IPOs in the near future? There are four reasons why the answer is probably not. 
+So, will ICOs become a realistic alternative to IPOs in the near future? There are four reasons why the answer is probably not. 
+ 
+The first reason is that much of the large ICO activity is originated as a by-product of investors speculating on the future of blockchain. In recent times, the number of companies raising cash through ICOs has decreased significantly as attention shifted away from blockchain as a speculation instrument. Now that Bitcoin is at an all-time high, ICO activity could potentially return in the short-term. 
+The first reason is that much of the large ICO activity is originated as a by-product of investors speculating on the future of blockchain. In recent times, the number of companies raising cash through ICOs has decreased significantly as attention shifted away from blockchain as a speculation instrument. Now that Bitcoin is at an all-time high, ICO activity could potentially return in the short-term. 
+ 
+Another reason for the popularity of ICOs was that they were largely unregulated. This made it incredibly easy for companies to raise money but led to some obvious problems surrounding money-laundering, fraud, and deception. Regulators were quick to step in and began regulating the market. Shortly after, China banned all ICOs and in the US, ICOs fell under the jurisdiction of the SEC. Now, companies have to navigate large regulatory hurdles for which they will again, like traditional IPOs, need advisors. 
+Another reason for the popularity of ICOs was that they were largely unregulated. This made it incredibly easy for companies to raise money but led to some obvious problems surrounding money-laundering, fraud, and deception. Regulators were quick to step in and began regulating the market. Shortly after, China banned all ICOs and in the US, ICOs fell under the jurisdiction of the SEC. Now, companies have to navigate large regulatory hurdles for which they will again, like traditional IPOs, need advisors. 
+ 
+Lastly, it is unlikely that ICOs will replace traditional IPOs because ICOs do not cater to the same kinds of companies as IPOs. Although there have been some large ICOs, such as Dragon Coins, Hdac, and Filecoin, who each raised slightly more than $250m, the median amount raised is only $5.6m (icocoin.io). Compare this to the median amount raised in an IPO of $108m and the difference between the two forms of raising capital becomes clear. Because there is much more at stake in larger issuances, companies are willing to sacrifice the costs of a traditional IPO to get advisory services, especially given the complexities of raising such large sums of money without some form of underwriting. 
+Lastly, it is unlikely that ICOs will replace traditional IPOs because ICOs do not cater to the same kinds of companies as IPOs. Although there have been some large ICOs, such as Dragon Coins, Hdac, and Filecoin, who each raised 
+slightly more than $250m 
+, the median amount raised is 
+only $5.6m 
+ (icocoin.io). Compare this to the 
+median amount raised in an IPO of $108m 
+ and the difference between the two forms of raising capital becomes clear. Because there is much more at stake in larger issuances, companies are willing to sacrifice the costs of a traditional IPO to get advisory services, especially given the complexities of raising such large sums of money without some form of underwriting. 
+ 
+Of course, an IPO also signals a certain maturity of the underlying business that companies can’t signal with an ICO and investors in ICOs don’t receive nearly as many rights, including voting or liquidation rights as investors in IPOs. For these reasons, the ICO is most likely not going to replace the traditional IPO even though it might be a promising way of raising cash for smaller companies that can convince investors to invest through the unconventional way of Initial Coin Offerings. As such, it will probably play a role in financing companies that fail to attract or don’t want venture capital funding. Despite all this, the underlying technology of using decentralized tokens to determine ownership of shares could have a lot of potential in future capital markets and could revolutionize the way company ownership is traded. 
+Of course, an IPO also signals a certain maturity of the underlying business that companies can’t signal with an ICO and investors in ICOs don’t receive nearly as many rights, including voting or liquidation rights as investors in IPOs. For these reasons, the ICO is most likely not going to replace the traditional IPO even though it might be a promising way of raising cash for smaller companies that can convince investors to invest through the unconventional way of Initial Coin Offerings. As such, it will probably play a role in financing companies that fail to attract or don’t want venture capital funding. Despite all this, the underlying technology of using decentralized tokens to determine ownership of shares could have a lot of potential in future capital markets and could revolutionize the way company ownership is traded. 
+ 
+ 
+The Year for SPACs? 
+The Year for SPACs? 
+  
+A Special Purpose Acquisition Company (SPAC) is a company that if funded for the sole purpose of taking another company public and they have  gained significant popularity in 2020, being one of the most searched finance terms of the year according to Goldman Sachs, but also delivering significant returns to some investors. While the vehicle has existed for years, the $73bn raised through 219 SPAC vehicles is the most in history. SPACs look to continue their growth trajectory in the future and offer an additional alternative to IPO listing. 
+A Special Purpose Acquisition Company (SPAC) is a company that if funded for the sole purpose of taking another company public and they have  gained significant popularity in 2020, being one of the most searched 
+finance terms of the year according to Goldman Sachs 
+, but also delivering significant returns to some investors. While the vehicle has existed for years, the 
+$73bn raised through 219 SPAC vehicles 
+ is the most in history. SPACs look to continue their growth trajectory in the future and offer an additional alternative to IPO listing. 
+ 
+SPACs are an attractive investment when a firm finds a merging target in which the market responds well to. The value and price of the SPAC rises significantly, well above the target firms offer price, and in return investors are treated with healthy returns. In September 2020, Velodyne LiDAR, a spinoff from Velodyne Acoustics that produces autonomous vehicle sensors, went public via a SPAC and saw its share price almost triple in value after announcement of the deal. However, this doesn't paint the full picture for all SPACs and they can frequently trade down when there is little market support for the deal. Figure 4 shows how SPACs have underperformed the market for parts of 2020. 
+SPACs are an attractive investment when a firm finds a merging target in which the market responds well to. The value and price of the SPAC rises significantly, well above the target firms offer price, and in return investors are treated with healthy returns. In September 2020, Velodyne LiDAR, a spinoff from Velodyne Acoustics that produces autonomous vehicle sensors, 
+went public via a SPAC 
+ and saw its share price almost triple in value after announcement of the deal. However, this doesn't paint the full picture for all SPACs and they can frequently trade down when there is little market support for the deal. Figure 4 shows how SPACs have underperformed the market for parts of 2020. 
+  
+Figure 4: IPOX SPAC Index performance vs. Renaissance IPO ETF (Bloomberg Opinion) 
+Figure 4: IPOX SPAC Index performance vs. Renaissance IPO ETF ( 
+Bloomberg Opinion 
+) 
+ 
+While there is the possibility of high returns, there still remains significant investor pessimism over the future of SPACs; for a retail investor, investing in an organisation that may lose 7% of your investment in fees alone paired with the fact an investor doesn’t know precisely what they are investing in, presents barriers to its future growth. Nevertheless, SPACs are likely to continue to take firms (in a wide variety of sectors) public in 2021 and beyond. 
+While there is the possibility of high returns, there still remains significant investor pessimism over the future of SPACs; for a retail investor, investing  
+ an organisation  
+ may lose 7% of your investment in fees alone paired with the fact an investor doesn’t know precisely what they are investing in, presents barriers to its future growth. Nevertheless, SPACs are likely to continue to take firms (in a wide variety of sectors) public in 2021 and beyond. 
+  
+ 
+The Future 
+The Future 
+  
+The IPO market has seen some changes over the last few years, the impact of which remains to be seen. Direct listings are useful mechanisms in today’s financing environment in which companies stay private much longer and only need to go public for liquidity reasons. ICOs on the other hand provides access to financing for companies that would normally have difficulties raising cash. Lastly, SPACs have emerged as a vehicle for profiting from a surge in IPO activity and valuations, albeit investors are still very cautious. All three are providing companies with a larger toolset for going public. 
+The IPO market has seen some changes over the last few years, the impact of which remains to be seen. Direct listings are useful mechanisms in today’s financing environment in which companies stay private much longer and only need to go public for liquidity reasons. ICOs on the other hand  
+ access to financing for companies that would normally have difficulties raising cash. Lastly, SPACs have emerged as a vehicle for profiting  
+ a surge in IPO activity and valuations, albeit investors are still very  
+. All three are providing companies with a larger toolset for going public. 
+ 
+The IPO market has remained relevant and the first choice of many for a long time, however, companies are now actively thinking about alternatives to the traditional IPO path. As companies adapt to newer and potentially more suitable solutions for going public, even more alternatives could emerge in the space. As technology improves, there is no doubt that the public listing market will continue to be disrupted. 
+The IPO market has remained relevant and the first choice of many for a long time, however, companies are now actively thinking about alternatives to the traditional IPO path. As companies adapt to newer and potentially more suitable solutions for going public, even more alternatives could emerge in the space. As technology improves, there is no doubt that the public listing market will continue to be disrupted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+ between 4-6 months 
+https://www.cnbc.com/2019/03/23/heres-what-you-should-know-about-the-ipo-process.html 
+
+ as Tim Jenkinson, Professor at Saïd Business School, puts it 
+https://www.cnbc.com/2019/03/23/heres-what-you-should-know-about-the-ipo-process.html 
+
+ access to large investments through private capital markets 
+https://corpgov.law.harvard.edu/2018/07/05/spotify-case-study-structuring-and-executing-a-direct-listing/ 
+
+ rise as much as 62% from the reference price 
+https://qz.com/1648526/slacks-direct-listing-on-the-nyse-is-a-hit/#:~:text=Slack%20chose%20to%20list%20its,their%20shares%20directly%20to%20investors 
+
+The University of Tennessee 
+https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3370&context=utk_chanhonoproj 
+
+ around 2% for a direct listing 
+https://mcgillbusinessreview.com/articles/can-direct-listing-disrupt-the-ipo-process#:~:text=While%20investment%20banks%20charge%20a,companies%20raising%20billions%20of%20dollars 
+
+Statista 
+https://www.statista.com/statistics/533357/underwriter-fees-in-usa-ipo-by-deal-size/ 
+
+ allow companies to raise money from a direct listing 
+https://news.crunchbase.com/news/why-direct-listings-just-became-a-lot-more-attractive-as-an-ipo-alternative/ 
+
+ median discount of 30% 
+https://link.springer.com/article/10.1007/s11408-020-00366-0 
+
+ 3% of ICOs 
+https://doi.org/10.1371/journal.pone.0233018 
+
+icodata.io 
+http://icodata.io/ 
+
+ slightly more than $250m 
+http://icodata.io/ 
+
+ only $5.6m 
+http://icodata.io/ 
+
+ median amount raised in an IPO of $108m 
+https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ 
+
+ finance terms of the year according to Goldman Sachs 
+https://finance.yahoo.com/news/2020-spac-goldman-sachs-says-221105314.html 
+
+ $73bn raised through 219 SPAC vehicles 
+https://markets.businessinsider.com/news/stocks/spacs-raised-73-billion-more-than-traditional-ipos-blank-checks-2020-12-1029906693#:~:text=2020%20has%20been%20the%20year,billion%20year%2Dto%2Ddate 
+
+ went public via a SPAC 
+https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/ 
+
+Bloomberg Opinion 
+https://www.bloomberg.com/opinion/articles/2020-10-22/mediocre-spac-returns-shouldn-t-be-a-surprise 
+

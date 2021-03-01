@@ -1,0 +1,404 @@
+Tesla - Flying Too Close to the Sun?Jan 11 
+16 min read 
+Tesla - Flying Too Close to the Sun? 
+Tesla - Flying Too Close to the Sun? 
+ Alessandro Carleo (Bocconi University), Ryan Tenerowicz (California Polytechnic State University), and Kyle Amelio (New York University) 
+ Alessandro Carleo (Bocconi University), Ryan Tenerowicz (California Polytechnic State University) 
+ and Kyle Amelio (New York University) 
+ 
+ 
+Company Overview 
+ 
+Tesla Inc. is an automotive manufacturer that produces electric vehicles, batteries, and solar panels. Based in Palo Alto, California, Tesla has sold over 1 million electric cars as of 2020, and continues to increase global sales each year. Tesla reported total revenues of just over $6 billion in Q2 2020, slightly higher than their Q1 2020 revenues of $5.9 billion, however significantly lower than 2019 revenue levels that averaged $6.7 billion per quarter. In terms of net income, Tesla reported 4 consecutive quarters of positive net income (Q3 and Q4 of 2019 and Q1 and Q2 of 2020), making them eligible to be included in the S&P 500 index. 
+ 
+Figure 1: Consolidated-Income Statement Q2 '19 & '20 (10-Q) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2:Segment Performance ‘19 (10-Q) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Core Products 
+ 
+Model S 
+ 
+Introduced by Tesla in 2012, the Model S is a 5 - door electric powered sedan that starts at about $75,000. The Model S was the highest-selling plug-in electric car in 2015 and 2016. 
+ 
+The Model S is positioned in the market as a luxury sedan and the majority of Model S owners are male and over 45 years old with typical income about $100k. 
+ 
+Model 3 
+ 
+Starting production in 2017, the Model 3 is a 4-door electric sedan that costs around $31,000. The Model 3 is the best-selling electric car ever, with over 500,000 units sold. 
+ 
+The Model 3 is marketed as an affordable offering by Tesla, that still has many of the luxury features as the Model S. In the EV market, the Model 3 has managed to capture a 60% market share. 
+ 
+Model X 
+ 
+Produced by Tesla since 2015, the Model X is Tesla’s luxury SUV offering, with pricing starting around $75,000.  
+ 
+The Tesla Model X is positioned in the market as a luxury SUV, however has recently seen a decline in sales in 2020, making up less than 20% of Tesla’s sales volume. 
+ 
+Model Y 
+ 
+The Model Y is Tesla’s 2020 SUV, which is priced starting at $44,000.  
+ 
+Positioned as an affordable SUV option, the Model Y hopes to see the same success as the Model 3 (with both cars sharing around 75% of their parts). The Model Y began shipping in 2020 amidst the coronavirus pandemic.
+ 
+Figure 3 Tesla S 3 X Y Models (source) 
+ 
+ 
+Products in Tesla’s Pipeline 
+ 
+Roadster 
+ 
+Figure 4: Tesla Roadster (Tesla) 
+The Roadster is the 2020 version of Tesla’s sports car first released in 2008. Production is slated to start in mid to late 2021.  
+ 
+Tesla Semi 
+ 
+Figure 5: Tesla Semi (Tesla) 
+The Tesla Semi is an electric powered semi-truck first announced by Tesla in 2016. As of 2018, Tesla boasted around 2,000 pre-orders. Production is expected to start by the end of 2020.  
+ 
+Cybertruck 
+ 
+Figure 6: Tesla Cybertruck (Tesla) 
+First announced in 2019, the Cybertruck seems to many like it is out of a sci-fi movie. With a starting cost of around $40,000, the Cybertruck is slated to start production in late 2021.  
+ 
+ 
+Mergers & Acquisitions History 
+ 
+SolarCity Acquisition - $2.6 Billion 
+ 
+Tesla acquired SolarCity, a solar power and battery company, for $2.6 billion in 2016. The strategic rationale behind the deal was that Tesla expanded its line of electric products to include solar panels, and energy storage. Per Tesla’s statement on the acquisition: “The acquisition of SolarCity will create the world’s only integrated sustainable energy company, from energy generation to storage to transportation.” 
+ 
+Grohmann Engineering Acquisition - $135 Million 
+ 
+Tesla then acquired Grohmann Engineering, a German production engineering company, for $135 million in 2017. The acquisition helped to improve Tesla’s automated manufacturing process and allowed Tesla to improve the production speed, quality, and cut production costs at the same time. 
+ 
+Maxwell Technologies Acquisition - $218 Million 
+ 
+Tesla acquired Maxwell Technologies, a battery technology company, in 2019 for $218 million. Maxwell Technologies was a leader in battery technology before being acquired by Tesla, and has helped Tesla improve its batteries durability in their products. 
+ 
+ 
+Company Snapshot 
+ 
+Figure: Tesla CEO and Key Executive Team (Craft) 
+ 
+Key Suppliers 
+Tesla manufactures the electric motor, battery pack, and charger for their cars in house, several key suppliers provide other parts for production: 
+ 
+ 
+ 
+Competitive Landscape  
+ 
+Industry Overview 
+ 
+The global automotive industry, referring to light vehicles (passenger cars and light commercial vehicles) according to OICA, is estimated to reach 110 million units by 2026. Passenger cars accounted for the larger market share of 75.09% in 2017, with a market value of 73.36 million; it is expected to register a higher CAGR of 2.9% during the forecasting period. The commercial vehicle segment was valued at 24.1 million in 2017; it is projected to exhibit a CAGR of 2.0%. Based on the region, Asia-Pacific held the largest market share of 53.91%, sized at 52.25 million units in 2017 and is projected to register a CAGR of 2.74%. The market in Europe with a market share of 21.44% in 2017, sized at 20.92 thousand units; is projected to exhibit a CAGR of 2.27%, according to VynZ Research. 
+ 
+Figure 7: IHS Markit Light Vehicle Sales Forecasts(IHS) 
+ 
+However, even though the automotive sector – especially referring to light vehicles – has grown significantly over the last few decades, automotive manufacturing companies have begun to struggle to keep their business profitable. Increased price competition and downside pressures on margins, pushing down the combined EBITDA of the top manufacturers in an environment of stagnant revenue growth are leaving their mark on the industry. 
+ 
+Figure 8: Revenue, EBITDA, and Capex of the top 25 automotive manufacturers (Allianz Research) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fragmentation & Industry Dynamics 
+ 
+This being said, the automotive industry will be characterized by the following trends: 
+ 
+Strong consolidation: Potential mega deals in the automotive industry such as the Fiat-Peugeot merger, or the Renault-Nissan merger, as well as joint ventures such as the one between Daimler and Geely in China are only the beginning of a development which sees the industry shifting towards a strong consolidation track, which is crucial since sales across key markets are declining and consumer preferences are shifting towards electric vehicles. Indeed, joining forces may be the only way for many manufacturers to stay competitive, or even to survive. 
+ 
+Electric Vehicles (EV): The technological transition to emission-free individual mobility (e.g. technological improvements, investments in charging infrastructure) will have the most significant impact on the automotive industry. Furthermore, an increase in regulatory measures (e.g. CO2 emissions for new vehicle fleet must be reduced by 37.5% until 2030 acc. to EU guidelines; can only be met by implementing more electric vehicles to the fleet) makes the demand and supply towards traditional vehicles vanish, making them shift towards sustainable, and thus, purely electric vehicles. PwC estimates that >55% of new car sales could be electric or hybrid by 2030.  
+ 
+It is no secret anymore that electric vehicles (EVs) are about to become the most important catalyst for automakers to boost sales again after having faced a unit volume plateau over in 2017. In fact, the North America Automobiles Peer Group Index outperformed the S&P 500 at the beginning of 2020 mainly fueled by Tesla, which is the electric auto manufacturer par excellence. Nevertheless, legacy automakers are trying to catch up heavily investing in R&D, EV and BET, redesigning their product offering. By shifting their core business towards EVs legacy automakers seek a valuation boost. 
+ 
+Figure 9: Total Sales commercial and passenger (OICA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10: BI North America Automobiles Peer Group vs S&P500 (Bloomberg Intelligence) 
+ 
+Electric vehicles (EVs) do not burn fossil fuels directly like internal combustion engines and therefore have zero (local) emissions. There are two choices for powering EVs: 
+ 
+ 
+Figure 11: Fuel Cell Electric Vehicle (FCEV) 
+ 
+Figure 12: Battery Electric Vehicle (BEV) 
+ 
+ 
+Cumulative passenger EV sales worldwide were more than 3.5mn at the end of June 2018, according to Bloomberg New Energy Finance (NEF). Sales were largely driven by China, which is responsible for around 37% of passenger EVs sold around the world since 2011. Bloomberg NEF projects it will take just over six months to sell the next million EVs (BEV, PHEV and FCEV), reaching the 5mn milestone in March 2019. In China, subsidies have played a key role in driving EV sales. The government expects China's annual new energy vehicle (NEV) output to hit 2mn in 2020, and for NEV sales to make up 20% of the overall car market by 2025, Xinhua reports. 
+ 
+Figure 13: Cumulative passenger EV sales (UniCredit Research)  
+ 
+In contrast to the significant growth of BEV sales in recent years, FCEV technology has seemed rather stagnant. Only a few models are offered commercially in Japan, South Korea, California, and Germany (Honda Clarity, Hyundai ix35/Tucson, Toyota Mirai), and one model is available as a retrofit (Renault Kangoo ZE H2, retrofitted by Symbio FCell). 
+ 
+According to Information Trends, only 6,475 FCEVs had been sold by the end of 2017 (since 2013), more than half of which were registered in California, which puts the US (53%) at the forefront for FCV  
+adoption. Japan takes second place with 38%, while Europe stands at 9% (more than half of which are in Germany). On the manufacturer side, Toyota has delivered more than 75% of all hydrogen fuel cell cars ever made, with 13% and 11% coming from Honda and Hyundai, respectively. According to Reuters, Toyota has sold around 5,300 units of its Mirai FCV since its launch in 2015, while it has sold around 11.5mn gasoline hybrids since launching the Prius 20 years. 
+ 
+Figure 14: BEV PHEV FCEV growth and FCFV sales in units (UniCredit Research) 
+ 
+Technology: Increasing integration of third-party software (e.g. Apple Car Play). The growing use of in-house software applications (e.g. software lines of code in vehicles increased more than ten-fold since 2010). Autonomous driving and cloud-based updates (e.g. Tesla) 
+ 
+Ownership Structure: Environmentally driven preferences, the declining relevance of the car as a status symbol and the expansion of the 5G infrastructure are increasing the demand for shared mobility options 
+ 
+All these pressures are currently shaping industry valuations, which are heavily influenced by multiples trading at crisis levels mainly due to a downturn in stock prices, which show the concerns of investors towards automotive market players. 
+ 
+Figure 15: Historical P/E multiples since 2013 (Duff & Phelps 2018) 
+ 
+Moreover, the automotive sector has been one of the most hit by the Covid-19 crisis. What differentiates this crisis from other ones is the fact that the missing element is the supply itself rather than consumers’ willingness to spend. The lack of supply is represented by the many plants that had to be shut down, creating a vicious circle since it has been leading to massive layoffs, higher unemployment and, thus, a decrease in consumer demand. The pandemic will also increase production costs since new protocols and standards have been introduced to contain the spread of the virus within the plants. 
+ 
+Putting the above mentioned into a broader perspective, EV is still relatively weak in terms of volume growth. As of 2019, EVs accounted for less than 2% of the automobile market worldwide – meaning that legacy automakers will rather rely on high margin light vehicles to pull through the crisis. For example, Ford sold 367’000 F-Series pickups in the US in 1H of 2020 – about the same number Tesla sold globally all of last year. Light trucks make 81% of retail revenue for automakers and 76% of US volume in 1H of 2020, which will underpin the volume recovery for 2H of 2020 since no other segment offers such a revenue and profit contribution, according to Bloomberg Intelligence. 
+ 
+Summarizing, the weak EV growth in terms of sales (2.5% in 2019 in US) will lead to a slowdown in development pace letting Tesla alone satisfy the niche demand for this technology. In fact, Tesla made up 79% of BEV volume in 2019, according to Bloomberg Intelligence. 
+ 
+Figure 16: Battery Electric Vehicle Unit Sales in US 2019 (Bloomberg Intelligence) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmarking 
+ 
+Key Multiples 
+ 
+The key multiples were found using a comparable companies analysis consisting of automobile manufacturers as well as clean energy companies with varying high, mid, and low market caps. The table below shows Tesla’s EV/Sales is slightly lower than the average, their EV/EBITDA is also slightly lower than the average, their EV/EBIT is the highest value due to a  small EBIT value and a disproportionately high market cap, and there is no P/E value due to Tesla having negative earnings at the time of this analysis. 
+ 
+Figure 17: Key Multiples (Bloomberg) 
+ 
+ 
+ 
+ 
+ 
+Key Ratios 
+ 
+The key ratios were found using a comparable companies analysis consisting of automobile manufacturers as well as clean energy companies with varying high, mid, and low market caps. The table below shows Tesla’s gross profit margin is slightly lower than the average, their EBITDA margin is lower than the average, their EBIT margin is lower than the average, and their Net Income margin is the lowest at -4%. 
+ 
+Figure 18: Key Ratios (Bloomberg) 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 19: Key Growth Rates (Bloomberg) 
+ 
+ 
+ 
+ 
+ 
+Comparable Companies Analysis: Valuation 
+ 
+When valuing Tesla, the analysis used an EV/EBITDA multiple of 133.9x and an EV/Sales multiple of 10.1x. This gives Tesla an implied share price in the range of $246.96 to $292.34. This is between a 61% to 54% decrease from the current share price of $633.25 at the time of writing this report. 
+ 
+Figure 20: Implied Valuation – EBITDA and Sales Based (Bloomberg) 
+ 
+Discounted Cash Flow Analysis 
+ 
+For the DCF analysis, a WACC of 5.5% was used, as well as an exit EV/EBITDA multiple of 9.2x. This gives a current enterprise value of $123 billion, a current equity value of $102 billion, and an implied share price of $109.51, an 83% decrease from the current share price of $633.25 at the time of writing this report. 
+ 
+Figure 21: Enterprise Value and Implied Equity Value and Share Price (Bloomberg) 
+ 
+ 
+Opportunities 
+ 
+Market Opportunities 
+ 
+Geographical 
+ 
+Tesla’s largest market is the United States, where it is the largest EV manufacturer by far. It currently operates 3 factories in the country and has recently announced plans to build a fourth in Texas. The company’s continued reinvestment in the U.S. demonstrates its firm commitment to the market. 
+ 
+China represents Tesla’s fastest growing geographic region. Giga Shanghai, which opened earlier this year, allows the company to produce the Model 3 at a competitive price point, and it will begin producing the Model Y in 2021. So far, the strategy seems to be working. In China, during the second quarter, the Model 3 was the best selling electric car.  
+ 
+The next leg of Tesla’s international expansion will come in the form of Gigafactory Berlin-Brandenburg. The factory is expected to come online during 2021, and it should help Tesla expand its European presence. However, it’s impossible to ignore the iconic German brands that will ultimately become its competition. 
+ 
+Demographic 
+ 
+Tesla's clientele is currently dominated by three characteristics. According to a group of studies, they are far more likely to be wealthy, older, and male than some other combination. However, that appears to be changing. Tesla’s lower price point sedan, the Model 3, has a lower median age than its more high end counterpart. That correlation will likely carry through from the Model X to the more affordably priced Model Y. This offers a growth opportunity for Tesla. If it is able to continue expanding its more cost-competitive lineup, it can continue to cultivate a younger customer base who is already far more likely to be environmentally conscious. 
+ 
+Ability to gain market share 
+ 
+While Tesla’s electric car market share will shrink, because the company was an early starter and competition is now catching up, it is all but certain that their total market share in the automotive industry will do the opposite. Its automotive arm has consistently unveiled new products that were met with overwhelming consumer demand, and they are now building the infrastructure to meet that demand more readily. 
+ 
+Product Opportunities 
+ 
+Opportunities to introduce new products 
+Tesla has consistently shown the ability to innovate and attract new customers, but has, at times, had trouble delivering on those products on time. A key example is the company’s solar roof. It was more than three years after the product was first revealed that the solar roof began to be delivered to customers in California. It’s closer to 4 years for the rest of the country. 
+ 
+Tesla’s Model 3 and Model Y have also attracted significant demand and made the company’s cars more accessible to middle class families. The Model 3 starts at $33,690 and the latter starts at $43,690, these price points have helped to make the Model 3 the world’s best selling electric vehicle. 
+ 
+Research and Development 
+Tesla’s spending on research and development has been aggressive for a company with its revenues, but relatively steady in recent years. In 2019, 2018, and 2017, the company’s R&D spend was $1.34B, $1.46B, and $1.38B respectively. Its major competitors do consistently outspend Tesla because of their vastly greater financial resources. In 2019 alone, General Motors spent $6.8B, more than the last three years for Tesla combined. 
+ 
+Pipeline 
+Tesla’s pipeline for vehicles appears to be strong and is being led by three strong, and very different, new launches. First off is the Tesla Cybertruck which was met with some scepticism, but its pre order numbers proved the critics wrong. A report in June pegged orders at over 650,000 vehicles, stunning demand for a vehicle still over a year from its launch. It’s also preparing for the highly anticipated launch of the Tesla semi-truck, and for the relaunch of Tesla's first vehicle, the Roadster. 
+ 
+Other Opportunities 
+ 
+Possibility to increase margins 
+Tesla's margins actually shrunk in 2019 as the company made the pivot to more mainstream cars rather than their higher-margin Model S and Model X. The company’s 21% gross margin was superior to the average carmaker, but not far off from other luxury brands, a category Tesla certainly falls into. 
+ 
+Possibility for M&A 
+Considering the company’s organic growth and ability to innovate from within, it appears unlikely that Tesla will make any major acquisitions in the near future. However, after the run-up, the stock has had and the CEO’s comment that he thought the stock was too expensive at a price half of what it's trading at today, making an acquisition in an all-stock transaction may be prudent if Tesla could find an interesting target. 
+ 
+ 
+Threats 
+ 
+Competitive Threats 
+ 
+Losing market share 
+Tesla’s market share has been expanding in recent years, due in large part to the launch of the Model three. The more mainstream vehicle has grown its EV market share in the U.S. to over 50% and the recent completion of their Chinese factory has helped the company expand in their second largest market. 
+ 
+However, new product launches from some of Tesla’s chief competitors have the potential to undermine the company’s dominance. For example, the details released surrounding the Hummer EV have proven the ability of competitors to deliver products on par with Tesla’s. The top of the line model boasts 1,000 horsepower, can go from 0 to 60 miles per hours in approximately 3 seconds, and an estimated range above 350 horsepower. 
+ 
+GM has also committed to spending $27 billion on electric and autonomous vehicles by 2025, and it also announced that the company will release 30 electric vehicles globally by the same year. While the numbers are certainly eye-popping, other automakers have committed to similarly aggressive plans. 
+ 
+New market innovations 
+On Tesla's battery day in September, the company made a number of key announcements. While some were disappointed when the company didn’t release a million mile battery, it did announce a tabless battery which will increase both range and power. 
+ 
+Musk also said that the company is planning to release a $25,000 car in three years by consistently lowering the cost of battery production. This would be a major step forward for the company, and if the cost reductions that make this prospective model possible materialize, it could indicate major margin improvements on current vehicles in production. 
+ 
+Product Threats 
+ 
+Cost increases 
+Tesla has actually been reducing the prices of its vehicles as the business’s costs have been lowered by economies of scale and technological innovation. By passing on some of these cost savings, it has helped to place its product within the price range of more consumers. 
+ 
+Quality decrease 
+Tesla vehicles were once held in high regard by critics, however in recent years, influential reviewers such as Consumer Reports have soured on the vehicles. A lack of reliability and a number of production inconsistencies, ranging from human hair being embedded in paint to a glass roof flying off, have hurt the brand’s reputation. As a result, in Consumer Reports’ ranking, Tesla has been forced down to second from the bottom out of 26 automakers. 
+ 
+Threats to the business model 
+While has been made about Tesla’s four straight quarters of GAAP profitability, it may not be all that it seems. Tesla is able to pile up regulatory credits from different sources around the world because it sells low emissions vehicles. Other automakers need to buy these credits in order to remain in compliance and sell their gas or diesel fueled product lines. In the second quarter of 2020, Tesla posted net income attributable to common shareholders of  $104 million. At the same time, it reported revenues of $428 million from selling regulatory credits (which it earns at no additional cost to Tesla). That means Tesla owes its entire profit margin to a revenue stream that will decrease as other car companies begin producing more electric vehicles. 
+ 
+Tesla’s legal issues and management issues tend to be one in the same. While Elon Musk has revolutionized the electric vehicle market and continually defied expectations, he has at times, proven to be a loose cannon, which has caused trouble for both Musk and the company. In 2018 the CEO and founder tweeted “Am considering taking Tesla private at $420. Funding secured.” The stock price skyrocketed and got him in trouble with the SEC. Musk was forced to step down as chairman of the board, he and Tesla each paid a $20 million fine to settle the issue without admitting guilt, and a few governance changes were made. 
+ 
+Elaboration of Investment Thesis  
+ 
+Opportunities/threats summary 
+Tesla, as a company, has a great number of advantages. Chief among them is battery technology and production capacity. There is no other major car manufacturer that can currently produce anywhere near the number of batteries Tesla can, so the company benefits from a significant first-mover advantage. They also have a massive electric charger network which makes recharging Tesla’s very convenient. Because of that network, a Tesla is a more feasible alternative to gasoline or diesel cars for which filling up is a simple endeavour. 
+ 
+By being first to market on a large scale and initially focusing exclusively on the high-end segment, Tesla has managed to build a strong brand for itself as a company that produces reliable luxury products. The company has successfully retained the “luxury” perception despite offering vehicles priced for a broader audience. That could prove a major advantage when other brands begin introducing comparable cars, but they simply don’t have the reputation to beat out luxury brand pricing cars similarly.  
+ 
+However, no company exists in a vacuum. Tesla’s competitors have the scale, are well capitalized, profitable, and investing heavily to compete. While Tesla had a very large head-start, GM, Ford, Honda, Toyota, and others are closing that gap rapidly. Each of these companies is in the process of rolling out competitor products, some at even lower price points. 
+ 
+Long Term Outlook  
+ 
+Tesla is unlikely to fail. Despite the fact that its operations alone are not currently profitable, margins will improve as its factories begin to ramp up production capacity, giving a boost to the bottom line. Additionally, costs of core inputs like lithium ion batteries have continued to fall, a saving that Tesla could keep to itself or split with customers to reduce the price of its vehicles. 
+ 
+Why it is not reflected in the valuation 
+ 
+The factors that have helped Tesla get to its current price are a mix of rampant speculation and overly optimistic stories. The first is relatively simple to demonstrate. Take August 31, 2020 for example. On that day the car company executed a 5-for-1 split for its stock, and the stock closed up 12.57% when there was no other material news. Last time we checked, one five dollar bill is worth no more than 5 singles, but people speculating in the stock ignored that fact and drove the price up. This is a stark example, but it completely ignores the 61% jump that occurred between the actual announcement of the split and the day it occurred. 
+ 
+The belief that investors are too optimistic about the company’s future is far more subjective. It stems from the core belief that while some have chosen to assign massive premiums to the company for services that it doesn’t yet provide, that just doesn’t seem prudent. Especially for a company which has repeatedly missed timelines for core promises. The most prominent example is autonomous driving.  
+ 
+Elon Musk has repeatedly promised to meet, and then fallen short of timelines he’s set for one of Tesla’s most anticipated features. While that in and of itself is troubling, what’s more worrisome is that many believe that its promise of robotaxies will become a major part of Tesla’s business. As a result, they are predicting some earnings from that segment. However, in doing so, they ignore the regulatory and liability issues, the safety issues, and the fact that the technology to do it does not yet exist. There are several other examples similar to autonomous driving and robotaxies. While they can add value to Tesla if the company follows through and executes well, most appear to be moonshots or too far off to accurately predict. 
+ 
+The rest of this argument is clear. It is unlikely that Tesla, as a car company alone, can earn anything near what is necessary to justify its current valuation. The market cap of Tesla currently sits in excess of $450 billion. Now contrast that with the market cap of Toyota, Honda, GM, and Ford combined, which is less than $350 billion. Tesla would need to capture an unheard of amount of market share to justify its current valuation, and they’re facing increasingly tough competition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+10-Q 
+https://ir.tesla.com/ 
+
+10-Q 
+https://ir.tesla.com/ 
+
+source 
+https://haidesignguru.com/project/tesla-sexy-cars/ 
+
+Tesla 
+https://www.tesla.com/roadster 
+
+Tesla 
+https://www.tesla.com/semi 
+
+Tesla 
+https://www.tesla.com/cybertruck 
+
+Craft 
+https://craft.co/tesla/executives 
+
+IHS 
+https://www.cargroup.org/wp-content/uploads/2019/02/Wall.pdf 
+
+Allianz Research 
+https://www.eulerhermes.com/en_global/news-insights/economic-insights/global-automotive-2020-another-lost-year.html 
+
+OICA 
+https://www.oica.net/category/sales-statistics/ 
+
+the only exhaust emission is water 
+https://www.youtube.com/watch?v=LSxPkyZOU7E 
+
+Only a few models are offered commercially in Japan, South Korea, California, and Germany 
+https://hydrogencouncil.com/wp-content/uploads/2017/11/Hydrogen-scaling-up-Hydrogen-Council.pdf 
+
+Duff & Phelps 2018 
+https://www.duffandphelps.com/-/media/assets/pdfs/publications/mergers-and-acquisitions/automotive-industry-insights-winter-2018.pdf 
+
+build a fourth in Texas 
+https://www.cnbc.com/2020/07/22/tesla-will-build-its-next-gigafactory-near-austin-texas.html 
+
+group of studies 
+https://cleantechnica.com/2019/06/01/what-do-we-know-about-tesla-owners/#:~:text=Demographics%20of%20a%20Tesla%20Owner&text=Compared%20to%20a%20median%20age,owner%20is%2046%20years%20old.&text=Males%20own%2077%25%20of%20Model,%2C%20and%20women%20own%2023%25 
+
+delivered to customers 
+https://www.tesla.com/support/energy/solar-roof/learn/overview 
+
+650,000 vehicles 
+https://electrek.co/2020/06/22/tesla-cybertruck-pre-orders-rose-over-650000-report/ 
+
+market share in the U.S.  
+https://electrek.co/2020/02/04/tesla-electric-car-sales-us-market-share/ 
+
+$27 billion on electric and autonomous vehicles 
+https://www.cnbc.com/2020/11/19/gm-accelerating-ev-plans-with-additional-7-billion-announces-new-pickup.html 
+
+tabless battery 
+https://www.theverge.com/2020/9/22/21450840/tesla-battery-day-production-elon-musk-tabless-range-cathode-cobalt-plaid 
+
+Consumer Reports have soured on the vehicles 
+https://www.cnn.com/2020/11/19/tech/tesla-model-y-reliability-consumer-reports/index.html 
+
+revenues of $428 million 
+https://ir.tesla.com/node/20906/html 
+
+Musk was forced to step down 
+https://www.nytimes.com/2018/09/29/business/tesla-musk-sec-settlement.html 
+

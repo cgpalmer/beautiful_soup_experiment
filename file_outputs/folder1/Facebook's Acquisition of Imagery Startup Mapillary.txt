@@ -1,0 +1,296 @@
+Facebook's Acquisition of Imagery Startup MapillaryOct 20, 2020 
+8 min read 
+Facebook's Acquisition of Imagery Startup Mapillary 
+Facebook's Acquisition of Imagery Startup Mapillary 
+By Michael Lipsky (Stern, New York University), Alex Ha (Ivey, University of Western Ontario),  Blanka Mona (University of Edinburgh), Sidd Sharma (University College London) and Mark Bekherman (Wharton, University of Pennsylvania) 
+By Michael Lipsky (Stern, New York University), Alex Ha (Ivey, University of Western Ontario),  Blanka Mona (University of Edinburgh), Sidd Sharma (University College London) and  
+ 
+Bidder Information: Facebook 
+Bidder Information: Facebook 
+ 
+Company Overview 
+Company Overview 
+ 
+Facebook is a Social media company, owning and operating multiple social media platforms such as Whatsapp, Instagram, and Snapchat with roughly 2bn monthly users. Its business model operates around advertising, using user insights and data.  
+Facebook is a Social media company, owning and operating multiple social media platforms such as Whatsapp, Instagram 
+ and Snapchat with roughly 2bn monthly users.  
+ business model operates around advertising, using user insights and data.  
+ 
+Founded: 2004  
+Founded: 2004 
+CEO/Chairman: Mark Zuckerberg 
+CEO/Chairman: Mark Zuckerberg 
+Number of employees: 52,534 
+Number of employees: 52,534 
+Key shareholders: Mark Zuckerberg, Eduardo Saverin, Jan Koum (Whatsapp founder and former Ceo) 
+Key shareholders: Mark Zuckerberg, Eduardo Saverin, Jan Koum (Whatsapp founder and former Ceo) 
+ 
+Financial Summary 
+Financial Summary 
+ 
+Market cap: $710.87 billion 
+Market cap: $710.87 billion 
+EV:$663.16 billion  
+EV:$663.16 billion  
+LTM Revenue: $75.16 billion 
+LTM Revenue: $75.16 billion 
+LTM EBITDA: $34.08 billion 
+LTM EBITDA: $34.08 billion 
+LTM EV/Revenue: 8.82 
+LTM EV/Revenue: 8.82 
+LTM EV/EBITDA: 18.99 
+LTM EV/EBITDA: 18.99 
+ 
+Figure 1: Facebook Competition Financial Summary 
+Figure 1: Facebook Competition Financial Summary 
+ 
+Target Information: Mapillary 
+Target Information: Mapillary 
+ 
+Mapillary is a Swedish street-level imagery platform. It operates globally by crowdsourcing images, from which they extract data to create immersive street levels maps in an automated fashion. Mapillary has used 1,302,596,691 images at the time of writing this report.  
+Mapillary is a Swedish  
+ imagery platform. It operates globally by crowdsourcing images, from which they extract data to create immersive street levels maps in an automated fashion. Mapillary has used 1,302,596,691 images at the time of writing this report.  
+ 
+Founded: 2014  
+Founded: 2014  
+CEO/Chairman: Jan Erik Solem:  
+CEO/Chairman: Jan Erik Solem:  
+Number of employees: 45 
+Number of employees: 45 
+Key shareholders: Sequoia, BMW i Ventures 
+Key shareholders: Sequoia, BMW i Ventures 
+ 
+ 
+Financial Summary  
+Financial Summary  
+ 
+Total Funding: $24.5million 
+Total Funding: $24.5million 
+Seed Round (2015): $1.5 million 
+Seed Round (2015): $1.5 million 
+Series A funding (2016): $8 million 
+Series A funding (2016): $8 million 
+Series B funding (2018): $15 million 
+Series B funding (2018): $15 million 
+ 
+ 
+Deal Overview 
+Deal Overview 
+ 
+On June 18, Facebook announced its acquisition of Mapillary, a crowdsourced street-level imagery platform. While the price is yet to be revealed, Facebook’s primary focus of breaking into Augmented Reality has become obvious, through acquiring Mapillary. Facebook will leverage Mapillary’s core competency of its global network of image contributors and its ability to connect these images across time to create accurate street-level views. Meanwhile, its computer vision and machine learning technology allow it to piece together this mosaic of images into an immersive map that rivals Google.  
+On June 18, Facebook announced its acquisition of Mapillary, a crowdsourced street-level imagery platform. While the price is yet to be revealed, Facebook’s primary focus of breaking into Augmented Reality has become obvious, through acquiring Mapillary. Facebook will leverage Mapillary’s core competency of its global network of image contributors and its ability to connect these images across time to create accurate street-level views. Meanwhile, its computer vision and machine learning technology  
+ it to piece together this mosaic of images into an immersive map that rivals Google.  
+ 
+Figure 2: Mapillary’s Street Imagery Coverage as of June 2020 (GISuser) 
+ as of June 2020 ( 
+) 
+ 
+Deal Rationale 
+Deal Rationale 
+ 
+Facebook: Mapillary will accelerate Facebook’s AR and VR development in Oculus 
+Facebook: Mapillary will accelerate Facebook’s AR and VR development in Oculus 
+ 
+Ever since acquiring Oculus VR in 2014, Facebook has invested in several versions of standalone VR headsets. At last year’s Oculus Connect developer conference, Facebook announced its vision of creating Live Maps to allow users wearing its glasses to move around a city. Mapillary could help bridge the gap in resources and expertise on the Oculus team and make this vision a reality.  
+Ever since acquiring Oculus VR in 2014, Facebook has invested in several versions of standalone VR headsets. At last year’s Oculus Connect developer conference,  
+Facebook announced its vision of creating Live Maps 
+ to allow users wearing its glasses to move around a city. Mapillary could help bridge the gap in resources and expertise on the Oculus team and make this vision a reality.  
+ 
+Facebook: Mapillary’s geomap technology removes Facebook’s reliance on Google 
+Facebook: Mapillary’s geomap technology removes Facebook’s reliance on Google 
+ 
+Mapillary’s street-level imagery technology will add geo-spatial information to Facebook Place Data, including its Marketplace function, which connects millions of small businesses using location data. By bringing the geomap in-house, Facebook can replace Google Maps with Mapillary. It also gives Facebook yet another way to track its users and creates a new medium of data collection for advertising purposes. 
+Mapillary’s street-level imagery technology will add geo-spatial information to Facebook Place Data, including its Marketplace function, which connects millions of small businesses using location data. By bringing the geomap in-house, Facebook can replace Google Maps with Mapillary. It also gives Facebook yet another way to track  
+ users and creates a new 
+medium of data collection for advertising purposes. 
+ 
+Mapillary: Facebook will provide Mapillary access to capital and engineering expertise 
+Mapillary: Facebook will provide Mapillary access to capital and engineering expertise 
+ 
+Prior to the acquisition, Mapillary generated revenue by licensing street imagery rights to municipal governments and urban planners, however Mapillary will now make its images open and free for commercial users, paving the way for new use cases in the corporate sphere. 
+Prior to the acquisition, Mapillary generated revenue by licensing street imagery rights to municipal governments and urban planners, however Mapillary will now make its images open and free for commercial users, paving the way for new use cases in the corporate sphere. 
+ 
+According to Mapillary CEO Jan Erik, not much will change for Mapillary’s pre-acquisition customer base. Thus far, users have been able to freely access the imagery on the platform for noncommercial purposes, and this will remain unchanged. However, Mapillary will now make its images open and free for commercial users, paving the way for new use cases in the corporate sphere.  
+According to Mapillary CEO Jan Erik, not much will change for Mapillary’s pre-acquisition customer base. Thus far, users have been able to freely access the imagery on the platform for noncommercial purposes, and this will remain unchanged.  
+However, Mapillary will now make its images open and free for commercial users, 
+ paving the way for new use cases in the corporate sphere.  
+ 
+In addition to helping Facebook with geospatial data and augmented reality, Mapillary will gain access to Facebook’s capital, marketing expertise, and brand name as a result of the transaction. This will allow Mapillary to achieve the scale necessary to take on tech giants and compete with Google Street View. 
+In addition to helping Facebook with geospatial data and augmented reality, Mapillary will gain access to Facebook’s capital, marketing expertise, and brand name as a result of the transaction. This will allow Mapillary to achieve the scale necessary to take on tech giants and compete with Google Street View. 
+ 
+ 
+Short-term outlook 
+Short-term outlook 
+ 
+The Acquisition of Mapillary Reversed Mapillary’s Original Profitability 
+The Acquisition of Mapillary Reversed Mapillary’s Original Profitability 
+According to CEO Jan Erik of the 7-year-old Swedish startup, not much will change for Mapillary’s pre-acquisition customer base. Thus far, users have been able to freely access the imagery on the platform for non-commercial purposes, and this will remain unchanged. However, Mapillary will now make its images open and free for commercial users, paving the way for new use cases in the corporate sphere. Mapillary will now be focusing on expanding Facebook’s OpenStreetMap capabilities with Facebook’s engineers and capital - removing Mapillary’s needs for capital as well as its commercialisation strategy in order to sustain themselves financially. 
+According to CEO Jan Erik of the  
+ Swedish startup, not much will change for Mapillary’s pre-acquisition customer base. Thus far, users have been able to freely access the imagery on the platform for  
+ purposes, and this will remain unchanged. However, Mapillary will now make its images open and free for commercial users, paving the way for new use cases in the corporate sphere. Mapillary will now be focusing on expanding Facebook’s OpenStreetMap capabilities with Facebook’s engineers and capital - removing Mapillary’s needs for capital as well as its commercialisation strategy in order to sustain themselves financially. 
+ 
+“Historically, all of the imagery available on our platform has been open and free for anyone to use for non-commercial purposes. Moving forward, that will continue to be true, except that starting today, it will also be free to use for commercial users as well.” 
+“Historically, all of the imagery available on our platform has been open and free for anyone to use for non-commercial purposes. Moving forward, that will continue to be true, except that starting today, it will also be free to use for commercial users as well.” 
+Jan Erik Solem, CEO of Mapillary. 
+Jan Erik Solem,  
+CEO of Mapillary 
+. 
+  
+  
+ 
+Figure 3: Facebook’s Place User Interface (Current with Google’s Map Plug-in) 
+Figure 3: Facebook’s Place User Interface (Current with Google’s Map Plug-in) 
+ 
+Mapillary’s use-cases for social networking behemoth such as FB Place & Oculus 
+Mapillary’s use-cases for social networking behemoth such as FB Place & Oculus 
+ 
+In the future, Facebook will replace Google Maps with Facebook’s in-house mapping function. Although Facebook will incur additional expenses with no additional stream of revenue, through establishing its mapping solution, Facebook will be able to extract more data from users including travel data and destination searches for its core advertisement businesses. 
+In the future 
+ Facebook will replace Google  
+ with Facebook’s in-house mapping function. Although Facebook will incur additional expenses with no additional stream of revenue, through establishing its mapping solution, Facebook will be able to extract more data from users including travel data and destination searches for its core advertisement businesses. 
+ 
+On the other hand, the three billion miles of street imagery from Mapillary could highly complement Oculus’ VR development. It further enables Facebook to create real-world scenarios in VR/AR settings, where no other competitors have come close in terms of the level of expertise and data collections. VR games or enterprise solutions like Grand Theft Auto or training software will be made possible with both Oculus and Mapillary’s technology.  
+On the other hand, the three billion miles of street imagery from Mapillary could highly complement Oculus’ VR development. It further enables Facebook to create real-world scenarios in VR/AR settings, where no other competitors have come close in terms of the level of expertise and data collections. VR games or enterprise solutions like Grand Theft Auto or training  
+ will be made possible with both Oculus and Mapillary’s technology.  
+ 
+The acquisition could also have a humanitarian bend, as Facebook has been providing nonprofits and humanitarian agencies with its Marketplace location datasets. Facebook has already been using its location density and network coverage maps to inform disaster relief efforts; Mapillary’s data will only improve FB Marketplace’s capabilities in that space.  
+The acquisition could also have a humanitarian bend, as Facebook has been providing nonprofits and humanitarian agencies with its Marketplace location datasets. Facebook has already been using its location density and network coverage maps to inform disaster relief efforts; Mapillary’s data will only improve FB Marketplace’s capabilities in that space.  
+ 
+ 
+Competitive Behavior (Google & the Rest of Tech Companies) 
+Competitive Behavior (Google & the Rest of Tech Companies) 
+ 
+According to Statista, Google occupies over 92.5% of the search engine market and over 70% of the consumer mapping market followed by Waze (10%) and Apple Map (9%). The reason Google has been so successful in these markets is that they commoditized their services, which has made it difficult for other players to break-in without capital and secondary platform support.  
+According to  
+Statista 
+, Google occupies over 92.5% of the search engine market and over 70% of the consumer mapping market followed by Waze (10%) and Apple Map (9%). The reason Google has been so successful in these markets is  
+ they commoditized their services, which has made it difficult for other players to break-in without capital and secondary platform support.  
+ 
+Despite Google’s significant position in its consumer mapping business, they do not invest or pay as much attention to Google Maps than to their other businesses, such as cloud services Google Cloud, autonomous technology Waymo, and content platform Youtube. Facebook’s entry will strengthen the competition in the consumer mapping space which will drive competition between the two, as a result improving overall quality to end-consumers.  
+Despite Google’s significant position in its consumer mapping business, they do not invest or pay as much attention to Google  
+ than to their other businesses, such as cloud services Google Cloud, autonomous technology Waymo 
+ and content platform Youtube. Facebook’s entry will strengthen the competition in the consumer mapping space which will drive competition between the two, as a result improving overall quality to end-consumers.  
+ 
+For the rest of tech companies, as the street imagery industry becomes more proficient and mature, it will be extremely hard for companies to break into the industry. The barriers to entry will significantly increase as Facebook incorporates its street imagery technology in VR/AR and consumer mapping functions. The third company with the level of capital and interest in expanding to the imagery industry is Amazon.  Amazon has previously partnered up with Mapillary to co-develop solutions for Amazon’s workers to logistically navigate shipping addresses and warehouses. However, the question Amazon needs to address is whether Street Imagery is a better opportunity to invest in compared to its alternatives, its current technology is built for Amazon delivery workers only. 
+For the rest of tech companies, as the street imagery industry becomes more proficient and mature, it will be extremely hard for companies to break into the industry. The barriers to entry will significantly increase as Facebook incorporates its street imagery technology in VR/AR and consumer mapping functions. The third company with the level of capital and interest in expanding to the imagery industry is Amazon.  Amazon has previously partnered up with Mapillary to co-develop solutions for Amazon’s workers to logistically navigate shipping addresses and warehouses. However, the question Amazon needs to address is whether Street Imagery is a better opportunity to invest  
+ compared to its alternatives, its current technology is built for Amazon delivery workers only. 
+ 
+Figure 4: Image Classification Tool in Mapillary’s Street Imagery Application 
+Figure 4: Image Classification Tool in Mapillary’s Street Imagery Application 
+ 
+Long-term outlook 
+Long-term outlook 
+ 
+Facebook Bets On Virtual/Augmented Reality Market Growth 
+Facebook Bets On Virtual/Augmented Reality Market Growth 
+ 
+Augmented reality technology saw its record growth in 2019. Commercial support for AR is positioned to be strong, with big tech names like Microsoft, Amazon, Apple, Facebook, and Google making serious commitments. As of May 2019, the installed user base for AR-supporting mobile devices reached 1.5 billion. Industry players in the augmented reality world expect 2020 to be a year marked by an uptick in the pace of industry growth. 
+Augmented reality technology saw its record growth in 2019. Commercial support for AR is positioned to be strong, with big tech names like Microsoft, Amazon, Apple, Facebook 
+ and Google making serious commitments. As of May 2019, the installed user base for AR-supporting mobile devices 
+ reached 1.5 billion 
+. Industry players in the augmented reality world expect 2020 to be a year marked by an uptick in the pace of industry growth. 
+  
+Experts predict the AR/VR industry to reach more than $25B by 2025—and the growth will continue steadily. That’s the bright future of augmented reality, and it will be defined by the investments from the following business domains and spheres, which find its practical potential pretty enticing. Facebook looks to leverage the acquisitions of Mapillary and Scape Technologies to develop its augmented reality. Advancements in augmented reality will benefit Oculus Quest 2 as well as machine learning. Facebook’s main focus for AR will be on Project Aria. Project Aria’s goal is to create wearable augmented reality glasses to help with everyday tasks. Facebook will integrate Mapillary’s street-level map content along with machine learning, as machines that will use cameras and sensors to better understand a user’s environment, to provide a seamless navigation experience.  
+Experts predict the AR/VR industry to reach more than  
+$25B by 2025 
+—and the growth will continue steadily. That’s the bright future of augmented reality, and it will be defined by the investments from the following business domains and spheres, which find its practical potential pretty enticing. Facebook looks to leverage the acquisitions of Mapillary and Scape Technologies to develop  
+ augmented reality. Advancements in augmented reality will benefit Oculus Quest 2 as well as machine learning. Facebook’s main focus for AR will be  
+ Project Aria. Project Aria’s goal is to create wearable augmented reality glasses to help with everyday tasks. Facebook will integrate Mapillary’s street-level map content along with machine learning, as machines  
+ will use cameras and sensors to better understand a user’s environment, to provide a seamless navigation experience.  
+ 
+Figure 5: Facebook’s Investors Presentation 2019 
+Figure 5: Facebook’s Investors Presentation 2019 
+ 
+Revenue and Cost Synergies 
+Revenue and Cost Synergies 
+ 
+While Facebook will incur more costs with no new revenue initially, Mapillary will directly contribute to Facebook’s mission of creating a more connected world. Facebook will leverage Mapilllary’s mapping capabilities to improve their location density maps, movement maps, and network coverage maps, which are used primarily to provide real-time information for disaster-struck areas. Facebook extending Mapillary for commercial purposes will challenge Google Maps’ monopoly and provides an opportunity for increased ad revenue from commercial businesses. Mapillary will also be implemented into Facebook Marketplace to better connect local consumers, which will allow Facebook to charge fees for sellers to boost their listings. Overall, this acquisition provides Facebook with the means to challenge Google’s monopoly over digital mapping. 
+While Facebook will incur more costs with no new revenue initially, Mapillary will directly contribute to Facebook’s mission of creating a more connected world. Facebook will leverage Mapilllary’s mapping capabilities to improve their location density maps, movement maps, and network coverage maps, which are used primarily to provide  
+ information for  
+ areas. Facebook extending Mapillary for commercial purposes will challenge Google  
+ monopoly and provides  
+opportunity for increased ad revenue from commercial businesses. Mapillary will also be implemented into Facebook Marketplace to better connect local consumers, which will allow Facebook to charge fees for sellers to boost their listings. Overall, this acquisition provides Facebook with the means to challenge Google’s monopoly over digital mapping. 
+ 
+Industry Implications 
+Industry Implications 
+ 
+This acquisition poses a major threat to Google’s control over the digital mapping industry. Facebook’s opening Mapillary for commercial purposes follows the trend of integrating social media and augmented reality into mapping platforms. Facebook looks to compete with Google, who integrated Yelp into Google Maps, by showing trending restaurants on their maps. Commercial use of Mapillary will allow for increased ad revenue as restaurants will be able to pay to boost their position on a trending list. The implementation of Mapillary on Facebook’s augmented reality will rival Google’s AR directions. Facebook looks to further gain a competitive edge in advanced mapping by combining Mapillary with Facebook’s advanced machine learning to provide robotic and logistic solutions, such as predicting traffic patterns. In conclusion, Facebook’s acquisition of Mapillary provides an opportunity for advanced mapping and AR capabilities for next-generation technology challenging the existing digital mapping industry.  
+This acquisition poses a major threat to Google’s control over the digital mapping industry. Facebook’s opening Mapillary for commercial purposes follows the trend of integrating social media and augmented reality into mapping platforms. Facebook looks to compete with Google, who integrated Yelp into Google Maps, by showing trending restaurants on their maps. Commercial use of Mapillary will allow for increased ad revenue as restaurants will be able to pay to boost their position on a trending list. The implementation of Mapillary on Facebook’s augmented reality will rival Google’s AR directions. Facebook looks to further gain a competitive edge in advanced mapping by combining Mapillary with Facebook’s advanced machine learning to provide robotic and logistic solutions, such as predicting traffic patterns. In conclusion, Facebook’s acquisition of Mapillary provides  
+opportunity for advanced mapping and AR capabilities for  
+ technology challenging the existing digital mapping industry.  
+  
+ 
+Barriers to Closure of the Deal 
+Barriers to Closure of the Deal 
+ 
+Facebook’s acquisition experience 
+Facebook’s acquisition experience 
+ 
+Facebook has acquired over 80 companies since its inception, of which many are arguably some of the most successful acquisitions in the industry. Thus, the company’s experience in integrating various firms, should be beneficial in the acquisition of Mapillary. Although the vast majority of Facebook’s acquisitions have been businesses based in the United States, the corporate culture of this Swedish start-up should not be too foreign, so should not impede the successful integration of the company.  
+Facebook has acquired over 80 companies since its inception, of which many are arguably some of the most successful acquisitions in the industry. Thus, the company’s experience in integrating various firms, should be beneficial in the acquisition of Mapillary. Although the vast majority of Facebook’s acquisitions have been businesses based in the United States, the corporate culture of this Swedish start-up should not be too foreign, so should not impede the successful integration of the company.  
+ 
+Facebook has faced rising antitrust concerns 
+Facebook has faced rising antitrust concerns 
+ 
+Big tech companies such as Facebook, Google, Amazon, and Apple have become increasingly targeted by regulators over antitrust concerns. For instance, in recent months the FTC has investigated Facebook’s acquisition of Instagram and Whatsapp, with some sources saying this may result in a lawsuit against Facebook. While growing regulatory issues may pose a threat to Facebook’s acquisition of Mapillary, there are two main reasons to believe that this will not be the case. Firstly, Facebook itself has recently backed out of acquisition where it feared antitrust issues. For instance, in 2019 Facebook itself abandoned plans to acquire Houseparty over fears of antitrust issues. This signals that Facebook is increasing its scrutiny when evaluating acquisition options, so the company acquiring Mapillary despite ongoing regulatory challenges reflects that Facebook believes regulatory concerns should not be an issue in this acquisition. Secondly, as EU regulators are typically stricter than US regulators, Mapillary increasing its operations in North America again decreases the regulatory risk involved in this deal.  
+Big tech companies such as Facebook, Google, Amazon, and Apple have become increasingly targeted by regulators over antitrust concerns. For instance, in recent months the FTC has investigated Facebook’s acquisition of Instagram and Whatsapp, with  
+some sources 
+ saying this may result in a lawsuit against Facebook. While growing regulatory issues may pose a threat to Facebook’s acquisition of Mapillary, there are two main reasons to believe that this will not be the case. Firstly, Facebook itself has recently backed out of acquisition where it feared antitrust issues. For instance, in 2019 Facebook itself abandoned plans to acquire Houseparty  
+over fears of antitrust issues 
+. This signals that Facebook is increasing its scrutiny when evaluating acquisition options, so the company acquiring Mapillary despite ongoing regulatory challenges reflects that Facebook believes regulatory concerns should not be an issue in this acquisition. Secondly, as EU regulators are typically stricter than US regulators, Mapillary increasing its operations in North America again decreases the regulatory risk involved in this deal.  
+ 
+ 
+High Public Scrutiny on Facebook as Facebook’s privacy bleach gauged attention 
+High Public Scrutiny on Facebook as Facebook’s privacy bleach gauged attention 
+ 
+On July 29, 2020, the US Congress has invited the CEOs from Big Tech including Facebook, whereas congressman has made claims about “No one, let alone a foreign company (Referring to Facebook), can be allowed to interfere in our nation’s affairs. They must be investigated immediately and when found guilty, punished”. Regulations on technology companies have been a controversial topic for public regulators, Facebook and Google were encountering enormous public sentiments onto their data collection system, which were closely tied to their operating advertising business model.  
+ July 29 
+ 2020, the US Congress has invited the CEOs from Big Tech including Facebook, whereas congressman has made claims about “No one, let alone a foreign company (Referring to Facebook), can be allowed to interfere in our nation’s affairs. They must be investigated immediately and when found guilty, punished”. Regulations on technology companies have been a controversial topic for public regulators, Facebook and Google were encountering enormous public sentiments onto their data collection system, which were closely tied to their operating advertising business model.  
+ 
+Facebook has decided to conduct the acquisition of Mapillary in a secretive way where there has not been any press and company announcement except for the 8K and Facebook Blog posts. The financial term of the deal was not released yet Facebook and Mapillary refused to comment on the specifics of the deal - As a way to minimize the traction, Facebook would attract from the public and media.  
+Facebook has decided to conduct the acquisition of Mapillary in a secretive way where there has not been any press and company announcement except for the 8K and Facebook Blog posts. The financial term of the deal was not released yet Facebook and Mapillary refused to comment on the specifics of the deal - As a way to minimize the traction 
+ Facebook would attract from the public and media.  
+ 
+Street imagery legislation 
+Street imagery legislation 
+ 
+The street imagery industry has been faced with rising scrutiny by regulators, particularly driven by privacy concerns. For instance, Google has been faced with multiple lawsuits over its Street View platform. While Mapillary has made efforts to automatically blur personal information such as faces and license plates, this technology is still prone to mistakes. As the street imagery industry continues to grow, Facebook can expect that regulation of the industry will only continue to increase. Therefore, as Facebook’s exposure to this industry will rise considerably with the acquisition of Mapillary, the company will have to expend resources on ensuring it complies with evolving street imagery regulations. 
+The street imagery industry has been faced with rising scrutiny by regulators, particularly driven by privacy concerns. For instance, Google has been faced with multiple lawsuits over its Street View platform. While Mapillary has made efforts to automatically blur personal information such as faces and license plates, this technology is still prone to mistakes. As the street imagery industry continues to grow, Facebook can expect that regulation of the industry will only continue to increase. Therefore, as Facebook’s exposure to this industry will rise considerably with the acquisition of Mapillary, the company will have to expend resources on ensuring it complies with evolving street imagery regulations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+GISuser 
+https://gisuser.com/2020/06/swedish-startup-mapillary-has-been-acquired-by-facebook-think-crowdsourced-database-of-street-level-imagery/ 
+
+Facebook announced its vision of creating Live Maps 
+https://www.fool.com/investing/2020/06/20/facebook-buys-swedish-mapping-app.aspx 
+
+However, Mapillary will now make its images open and free for commercial users, 
+https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html 
+
+CEO of Mapillary 
+https://blog.mapillary.com/news/2020/06/18/Mapillary-joins-Facebook.html 
+
+Statista 
+https://www.statista.com/statistics/865413/most-popular-us-mapping-apps-ranked-by-audience/ 
+
+ reached 1.5 billion 
+https://mobidev.biz/blog/augmented-reality-future-trends-2018-2020#:~:text=As%20of%20May%202019%2C%20the,the%20pace%20of%20industry%20growth 
+
+$25B by 2025 
+https://mobidev.biz/blog/augmented-reality-future-trends-2018-2020#:~:text=Experts%20predict%20the%20AR%2FVR,the%20growth%20will%20continue%20steadily.&text=While%20gaming%20will%20remain%20dominant,expected%20to%20pick%20up%20steam 
+
+some sources 
+https://eandt.theiet.org/content/articles/2020/09/ftc-may-be-gearing-up-for-facebook-antitrust-lawsuit/ 
+
+over fears of antitrust issues 
+https://www.cnbc.com/2019/08/12/facebook-reportedly-ditched-plans-to-buy-houseparty-over-antitrust-fears.html#:~:text=Facebook%20reportedly%20ditched%20plans%20to%20buy%20a%20social%20networking%20competitor%20over%20antitrust%20fears,-Published%20Mon%2C%20Aug&text=Facebook%20considered%20acquiring%20Houseparty%20but,with%20the%20video%20chat%20app 
+

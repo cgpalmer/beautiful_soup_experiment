@@ -1,0 +1,298 @@
+Big Tech and Its​ Pandemic Spending SpreeJul 29, 2020 
+5 min read 
+Big Tech and Its​ Pandemic Spending Spree 
+Big Tech and Its​ Pandemic Spending Spree 
+By Cameron Caldwell (University of Glasgow) and Shannon Keegan (Wake Forest University) 
+By Cameron Caldwell (University of Glasgow) and Shannon Keegan (Wake Forest University) 
+ 
+ 
+ 
+Trend Summary  
+Trend Summary  
+ 
+The tech sector as a whole has weathered the coronavirus crisis well. In particular, record valuations and large cash balances have left the Big Tech companies with the desire for consolidation. Indeed, the Big Tech 5,  Alphabet, Amazon, Apple, Facebook and Microsoft, have announced over 20 deals this year alone. 
+The tech sector as a whole has weathered the coronavirus crisis well. In particular, record valuations and large cash balances have left the Big Tech companies with the desire for consolidation. Indeed, the Big Tech 5,  Alphabet, Amazon, Apple, Facebook and Microsoft, have  
+announced over 20 deals this year 
+ alone. 
+ 
+This represents a change in sentiment from previous recessions, where Big tech retreated from significant M&A activity during downturns. The tech giants have been targeting their spending on smaller companies, however, this hasn’t come without scrutiny as Antitrust advocates scrabble to convince regulators to block their activity. 
+This represents a change in sentiment from previous recessions, where Big tech retreated from significant M&A activity during downturns. The tech giants have been targeting their spending on smaller companies, however, this hasn’t come without scrutiny as Antitrust advocates scrabble to convince regulators to block their activity. 
+ 
+ 
+Trend Overview 
+Trend Overview 
+ 
+Large tech companies have proven themselves pandemic-proof, and have taken advantage of the current market state through acquisitions of startups. Companies like Facebook and Amazon thrive in such an environment, widening an already significant competitive moat between themselves and the rest of the industry. To illustrate, Facebook’s messaging activity is up 50% since lockdown, and in the midst of mass furloughs, Amazon hired 100,000 new employees. 
+Large tech companies have proven themselves pandemic-proof, and have taken advantage of the current market state through acquisitions of startups. Companies like Facebook and Amazon thrive in such an environment, widening an already significant competitive moat between themselves and the rest of the industry. To illustrate,  
+Facebook’s messaging activity is up 50% since lockdown, and in the midst of mass furloughs, Amazon hired 100,000 new employees. 
+ 
+Tech M&A dropped 43% in the first quarter year over year (CNBC). Mid market transactions have been all but halted; smaller companies simply do not have the cash to weather the storm of lockdown and lack any kind of forecast regarding future market performance in these uncertain times. This left Big Tech with a significantly cheaper acquisition runway composed of attractive targets whose valuations have been reduced  due to COVID-19.  
+Tech M&A dropped 43% in the first quarter year over year (CNBC) 
+. Mid market transactions have been all but halted; smaller companies simply do not have the cash to weather the storm of lockdown and lack any kind of forecast regarding future market performance in these uncertain times. This left Big Tech with a significantly cheaper acquisition runway composed of attractive targets whose valuations have been reduced  
+ due to COVID-19.  
+ 
+The Coronavirus will ultimately act to consolidate the already top-heavy tech industry. After over 750bn aggregate investment in tech startups since 2010, a more cautious approach to investment in tech startups will likely be adopted. Overvalued startups will fail or be acquired, and in the interest of preserving jobs and other pressing concerns, antitrust issues regarding Big Tech will largely be ignored. 
+The Coronavirus will ultimately act to consolidate the already top-heavy tech industry. After over  
+750bn aggregate investment in tech startups since 2010 
+, a more cautious approach to investment in tech startups will likely be adopted. Overvalued startups will fail or be acquired, and in the interest of preserving jobs and other pressing concerns,  
+antitrust issues regarding Big Tech will largely be ignored. 
+ 
+ 
+Trend Drivers  
+Trend Drivers  
+ 
+What is their goal? 
+What is their goal? 
+Big tech wants to neutralize its competition and strengthen promising business segments, and have taken advantage of the pandemic to more easily make acquisitions that would have been attractive even in a normal environment. Specialized startups can aid the arms race of AI, automated driving, and cloud computing. This is evident in Amazon’s acquisition of Zoox, which allowed them to gain an advantage in the increasingly relevant self-driving car space.  
+Big tech wants to  
+neutralize its competition and strengthen promising business segments, 
+ and have taken advantage of the pandemic to more easily make acquisitions that would have been attractive even in a normal environment. Specialized startups can aid the arms race of AI, automated driving, and cloud computing. This is evident in Amazon’s acquisition of Zoox, which allowed them to gain an advantage in the increasingly relevant self-driving car space.  
+ 
+What makes this possible? 
+What makes this possible? 
+The big tech companies have an abundance of cash on their balance sheets, a combined 560bn in cash and equivalents to be exact. While these companies are largely benefitted by lockdown measures, any headwinds they did encounter were negligible because of their superior solvency. 
+The big tech companies have an  
+abundance of cash on their balance sheets 
+, a combined 560bn in cash and equivalents to be exact. While these companies are largely benefitted by lockdown measures, any headwinds they did encounter were negligible because of their superior solvency. 
+ 
+ 
+Further Trend Analysis 
+Further Trend Analysis 
+ 
+Despite significant momentum during lockdown, regulation in the M&A space may halt Big Tech’s spring spree. 
+Despite significant momentum during lockdown, regulation in the M&A space may halt Big Tech’s spring spree. 
+Antitrust regulators have always been cautious of large, well-established firms acquiring vulnerable and growing companies. While the idea of Big Tech acquiring a small cap or startup company doesn't mean much over one acquisition, if this process is strategically multiplied, Big Tech firms could take control of the whole market and create structural oligopolies or even monopolies. This process is evident in the increasing volume of deals that the big five companies have completed in the last 20 years. 
+Antitrust regulators have always been cautious of large, well-established firms acquiring vulnerable and growing companies. While the idea of Big Tech acquiring a small cap or startup company doesn't mean much over one acquisition, if this process is strategically multiplied, Big Tech firms could take control of the whole market and create structural oligopolies or even monopolies. This process is evident in the increasing volume of deals that the big five companies have completed in the last 20 years. 
+ 
+Graph: Timeline of Tech Giants’ Billion-Dollar Acquisition (CB Insights) 
+Graph: Timeline of Tech Giants’ Billion-Dollar Acquisition ( 
+CB Insights 
+) 
+ 
+ 
+ 
+This process strengthens an already staggering competitive advantage in the market between smaller firms and the Big Tech, which is suboptimal for consumers and creates a tough barrier to entry for potential competition. Big tech consolidation has evoked significant criticism, especially during this period, as they have strong enough balance sheets to continue neutralizing competition through tuck-in acquisitions. Smaller companies do not have the same resources and had to put deals on hold to focus on keeping business operations running. 
+This process strengthens an already staggering competitive advantage in the market between smaller firms and the Big Tech, which is suboptimal for consumers and creates a tough barrier to entry for potential competition. Big tech consolidation has evoked significant criticism, especially during this period, as they have strong enough balance sheets to continue neutralizing competition through tuck-in acquisitions. Smaller companies do not have the same resources and had to put deals on hold to focus on keeping business operations running. 
+ 
+To combat this and to reign in Big Tech spending, Cortez and Warren proposed a Pandemic Anti-Monopoly Act back in April 2020, which would see all M&A blocked by companies with a market cap of over $100m or with revenues exceeding $100m. Furthermore, the UK have also made amendments to the 2002 Enterprise Act, calling for more reviews of M&A transactions in artificial intelligence, cryptographic authentication technology and advanced materials sectors by companies with turnover of greater than £1 million. 
+To combat this and to reign in Big Tech spending,  
+Cortez and Warren proposed a Pandemic Anti-Monopoly Act back in April 2020 
+, which would see all M&A blocked by companies with a market cap of over $100m or with revenues exceeding $100m. Furthermore, the UK have also  
+made amendments to the 2002 Enterprise Act 
+, calling for more reviews of M&A transactions in artificial intelligence, cryptographic authentication technology and advanced materials sectors by companies with turnover of greater than £1 million. 
+ 
+However, the likelihood of these efforts to block the Big Tech from getting even bigger may be short lived. While it seems there is support for increased regulation against Big Tech, it’s likely it will never be implemented to a great enough extent required to call a halt on their spending. This is because of the influence and pres in sure these firms can have on governments and politics in all countries.  
+However, the likelihood of these efforts to block the Big Tech from getting even bigger may be short lived. While it seems there is support for increased regulation against Big Tech, it’s likely it will never be implemented to a great enough extent required to call a halt on their spending. This is because of the influence and pres in sure these firms can have on governments and politics in all countries.  
+ 
+While we all enjoy our brand new iPhone and the services that the Big Tech firms provide, will there come a day when the weight these companies have within the market results in less favourable outcomes for consumers? 
+While we all enjoy our brand new iPhone and the services that the Big Tech firms provide, will there come a day when the weight these companies have within the market results in less favourable outcomes for consumers? 
+ 
+ 
+Deals to Know About 
+Deals to Know About 
+ 
+Alphabet/North 
+Alphabet/North 
+ 
+Announcement Date: 30/06/2020 
+Announcement Date: 30/06/2020 
+Acquirer: Alphabet 
+Acquirer: Alphabet 
+Target: North  
+Target: North  
+Value: N/A (estimated $180 million) 
+Value: N/A ( 
+estimated $180 million 
+) 
+Rationale: 
+Rationale: 
+North’s “technical expertise” will contribute to Google’s future product development and it’s team will be fully integrated with Google. 
+After the failed launch of Google Glass seven years ago it’s unclear whether Google will use the team's expertise to re-launch and have a second shot at launching smart glasses or whether the team will be deployed elsewhere. 
+ 
+Facebook/Giphy 
+Facebook/Giphy 
+ 
+Announcement Date: 15/05/2020 
+Announcement Date: 15/05/2020 
+Acquirer: Facebook Inc. (NASDAQ: FB) 
+Acquirer: Facebook Inc. (NASDAQ: FB) 
+Target: Giphy 
+Target: Giphy 
+Value: N/A (estimated $400 million) 
+Value: N/A ( 
+estimated $400 million 
+) 
+Rationale: 
+Rationale: 
+The companies began talking regarding a partnership before the pandemic, however the pandemic posed a good opportunity to acquire the popular GIF search tool, especially after having generated the majority of the services traffic.  
+Giphy is already integrated within Facebook and some of it’s apps and the acquisition will mean Giphy will be rolled out across even more Facebook apps. 
+ 
+Other recent acquisitions by Facebook: Mapillary, Dawn 
+Other recent acquisitions by Facebook:  
+Mapillary 
+,  
+Dawn 
+ 
+Apply/Next VR 
+Apply/Next VR 
+ 
+Announcement Date: 14/05/2020 
+Announcement Date: 14/05/2020 
+Acquirer: Apple 
+Acquirer: Apple 
+Target: Next VR 
+Target: Next VR 
+Value: N/A (estimated $100 million) 
+Value: N/A (estimated $100 million) 
+Rationale: 
+Rationale: 
+ 
+Next VR has a plethora of experience in virtual reality and sports & entertainment and the company has patented a new technology that upscales video streams. 
+It is still unclear how Apple may use the technology NextVR has built, however Apple is reportedly working on augmented reality glasses and headsets to compete against Oculus by Facebook. 
+ 
+Other recent acquisitions by Apple: Voysis, Darksky, Fleetsmith 
+Other recent acquisitions by Apple:  
+Voysis 
+,  
+Darksky 
+,  
+Fleetsmith 
+ 
+Amazon/Zoox 
+Amazon/Zoox 
+ 
+Announcement Date: 25/06/2020 
+Announcement Date: 25/06/2020 
+Acquirer: Amazon 
+Acquirer: Amazon 
+Target: Zoox 
+Target: Zoox 
+Acquirer Advisors: N/A 
+Acquirer Advisors: N/A 
+Target Advisors: Qatalyst Partners 
+Target Advisors: Qatalyst Partners 
+Value: N/A (estimated $1.2 Billion) 
+Value: N/A (estimated $1.2 Billion) 
+Rationale: 
+Rationale: 
+The deal is in-line with Amazon’s continuing expansion in delivery services. 
+Zoox will  continue operating as a standalone business for now, however it is widely predicted that this move is a part of Amazon’s larger logistics strategy to reduce fulfilment and logistics related costs. 
+ 
+Microsoft/Softomotive 
+Microsoft/Softomotive 
+ 
+Announcement Date: 19/05/2020 
+Announcement Date: 19/05/2020 
+Acquirer: Microsoft 
+Acquirer: Microsoft 
+Target: Softomotive 
+Target: Softomotive 
+Value: N/A 
+Value: N/A 
+Rationale: 
+Rationale: 
+The acquisition will “accelerate and expand Microsoft's Robotic Process Automation capabilities”. 
+Softomotive will integrate with Power Automate and the acquisition is expected to achieve cost synergies as their technology allows for the automation of repetitive and tedious processes. 
+ 
+Other recent acquisitions by Microsoft: Affirmed Networks, Metaswitch Networks, AMR Software, Cyber X 
+Other recent acquisitions by Microsoft:  
+Affirmed Networks 
+,  
+Metaswitch Networks 
+,  
+AMR Software 
+,  
+Cyber X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+announced over 20 deals this year 
+https://www.ft.com/content/04a62a26-42aa-4ad9-839e-05d762466fbe 
+
+Facebook’s messaging activity is up 50% since lockdown, and in the midst of mass furloughs, Amazon hired 100,000 new employees. 
+https://www.economist.com/leaders/2020/04/04/big-techs-covid-19-opportunity 
+
+Tech M&A dropped 43% in the first quarter year over year (CNBC) 
+https://www.cnbc.com/2020/06/01/tech-deals-nosedive-during-pandemic-but-bain-predicts-a-sharp-rebound.html 
+
+ due to COVID-19.  
+https://www.economist.com/briefing/2020/04/04/technology-startups-are-headed-for-a-fall 
+
+750bn aggregate investment in tech startups since 2010 
+https://www.economist.com/leaders/2020/04/04/big-techs-covid-19-opportunity 
+
+antitrust issues regarding Big Tech will largely be ignored. 
+https://www.economist.com/leaders/2020/04/04/big-techs-covid-19-opportunity 
+
+neutralize its competition and strengthen promising business segments, 
+https://www.wsj.com/articles/large-tech-companies-prepare-for-acquisition-spree-11590053401 
+
+abundance of cash on their balance sheets 
+https://www.ft.com/content/04a62a26-42aa-4ad9-839e-05d762466fbe 
+
+CB Insights 
+https://www.cbinsights.com/research/tech-giants-billion-dollar-acquisitions-infographic/ 
+
+Cortez and Warren proposed a Pandemic Anti-Monopoly Act back in April 2020 
+https://www.ft.com/content/35442f52-2230-4867-96fe-2975532a1098 
+
+made amendments to the 2002 Enterprise Act 
+https://www.lexology.com/library/detail.aspx?g=523c01c5-9e48-415c-abaf-28862861be38 
+
+Alphabet/North 
+https://www.cnbc.com/2020/06/30/google-acquires-north-augmented-reality-glasses-start-up.html 
+
+estimated $180 million 
+https://venturebeat.com/2020/06/30/google-acquires-holographic-glasses-startup-north/ 
+
+Facebook/Giphy 
+https://www.digitaltrends.com/news/facebook-buys-giphy-for-400-million/?utm_source=onesignal&utm_medium=push&utm_content=directua&utm_campaign=2020 
+
+estimated $400 million 
+https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html 
+
+Mapillary 
+https://techcrunch.com/2020/06/18/mapillary-facebook/ 
+
+Dawn 
+https://techcrunch.com/2020/06/22/facebook-acquires-vr-studio-behind-lone-echo/ 
+
+Apply/Next VR 
+https://www.neowin.net/amp/apple-confirms-acquisition-of-nextvr-a-provider-of-virtual-reality-events/ 
+
+Voysis 
+https://uk.pcmag.com/web-sites/125529/apple-snatches-ai-startup-to-smarten-siri 
+
+Darksky 
+https://www.cnbc.com/2020/03/31/apple-buys-popular-weather-app-dark-sky.html 
+
+Fleetsmith 
+https://venturebeat.com/2020/06/24/apple-acquires-fleetsmith-a-multi-device-deployment-and-management-firm/ 
+
+Amazon/Zoox 
+https://www.focusfinance.org/post/amazon-s-1-2-billion-acquisition-of-zoox 
+
+Microsoft/Softomotive 
+https://flow.microsoft.com/en-us/blog/microsoft-acquires-softomotive-to-expand-low-code-robotic-process-automation-capabilities-in-microsoft-power-automate/ 
+
+Affirmed Networks 
+https://blogs.microsoft.com/blog/2020/03/26/microsoft-announces-agreement-to-acquire-affirmed-networks-to-deliver-new-opportunities-for-a-global-5g-ecosystem/ 
+
+Metaswitch Networks 
+https://blogs.microsoft.com/blog/2020/05/14/microsoft-announces-definitive-agreement-to-acquire-metaswitch-networks-expanding-approach-to-empower-operators-and-partner-with-network-equipment-providers-to-deliver-on-promise-of-5g/ 
+
+AMR Software 
+https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/ 
+
+Cyber X 
+https://cyberx-labs.com/press-releases/microsoft/ 
+

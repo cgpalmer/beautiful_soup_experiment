@@ -1,0 +1,226 @@
+Moderna at the Edge of its Line of DefenceOct 27, 2020 
+13 min read 
+Moderna at the Edge of its Line of Defence 
+Moderna at the Edge of its Line of Defence 
+By Mihir Gupta, Ameya Joshi, Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+By Mihir Gupta, Ameya Joshi, Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+ 
+ 
+Stock Name: Moderna Inc.  
+Ticker: NASDAQ:MRNA    
+Sector: Health Care  
+Industry: Biotechnology, Biological Products         
+CMP: $70.53 (as on 23rd October 2020) 
+Recommendation: Hold 
+Target: $72.5 - $73.5 
+Duration: 1 - 2 weeks 
+ 
+ 
+Company Overview 
+ 
+ 
+ 
+Product Offerings   
+ 
+Moderna Inc.’s product offerings are segmented into two core modalities. These are the core modalities and exploratory modalities. These modalities are further sub-segmented into the following segmentations:  
+Core modalities: These are the main treatments that have been through preclinical development and are most likely to reach the commercial stage. The sub-segmentation is as follows: 
+Exploratory modalities:  
+ 
+Sector and Industry Overview  
+ 
+As usual, we have utilised a Top-Down approach in order to analyse the industry from a medium short-term perspective. Our analysis is centred around identifying whether the price movement is being driven by a strong market sentiment or through outlying events. As price movements that are dependent on outlying events have increased susceptibility to rapid reversals, we believe that the evidence of a stock’s trends is stronger if the stock is moving in the same direction as its competitors. 
+We have started our approach by briefly considering the general market which will be discussed in greater detail in a parallel report. We have used the NASDAQ Composite as a benchmark for the wider market as Moderna is listed within it.  
+ 
+Graph 1: Cup and Handle Formation and RSI for NASDAQ Composite (Investing.com as on 25/10/2020) 
+ 
+We can see that after a solid uptrend that lasted for several months, the index is now in the process of forming a cup and handle pattern. This demonstrates that the market is currently experiencing a period of consolidation and is primed to break out soon (for more information - see our report on Logitech International!). The RSI indicator is currently in its mid-range but is rising. This shows that it could return to its almost overbought levels it maintained while the index was in its uptrend, further indicating a bullish breakout. 
+ 
+As the market is in a period of uncertainty, it is key to identify the winning and losing sectors within the index from a medium-short term perspective by identifying their performances in the last six months, three months, and five days. This will give an indicator for the future performance of the index. 
+ 
+Graph 2: S&P 500 Sectoral Performances for the last 6 months (Barchart.com as on 25/10/2020) 
+ 
+Graph 3: S&P 500 Sectoral Performances for the last 3 months (Barchart.com as on 25/10/2020) 
+ 
+Graph 4: S&P 500 Sectoral Performances for the last five days (Barchart.com as on 25/10/2020) 
+ 
+We can conclude that the recovery after the COVID-19 market crash was led by the Consumer Discretionary, Information Technology and Industrial sectors. The recovery has been slowed by the Energy, Real Estate, and Healthcare sectors. This gives us an insight toward Moderna’s immediate future, as it is a part of the Biotechnology industry (as it specialises in developing drugs and vaccines based solely on research of Messenger RNA) which is part of the Healthcare sector. We have analysed the S&P 500 Healthcare Index in order to better understand the Healthcare sector.  
+ 
+Graph 5: Technical Chart of S&P 500 Healthcare (Investing.com as on 25/10/2020) 
+ 
+This index, like many others, fell in March and quickly recovered its losses in the first half of April. However, instead of entering a steady uptrend, the index entered a consolidation period that lasted from the 20th of April until the 6th of June. This uncertainty in the market could be seen as a reflection of the socio-political uncertainties that resulted from the pandemic. 
+ 
+The Healthcare sector was more involved than others during these times as the rapid increase in demand for medical literature led many (often contradictory) articles being published on COVID-19 and potential vaccine development. The uncertainty in the markets was mirrored in the Healthcare Index as there was no strong trend that could be identified during this time period. Indeed, right after the significant bearish movement on the 11th of June, the healthcare sector saw a very weak uptrend – almost demonstrating movement to what can be expected from ranging markets. This is a strong symbol of undetermined general opinion. Another confirmation for this lack of general market sentiment is the steady decrease in the volume of trade in the past six months. In the past five days, the S%P HC Index saw a retraction of 0.13% indicating that we are still in unknown territory. 
+ 
+We assert that tracking industries within an index is all the more important if the index is neutral. What we are looking to identify is if there are opposing trends between industries that are pushing a sector to move in two different directions simultaneously, or if all industries within the sectors are achieving neutral returns. 
+We will now inspect the industries within the Healthcare sector more closely in order to determine the type of movement that is occurring. 
+ 
+Graph 6: Industry Performance for the last 3 months (Eresearch.fidelity.com as on 25/10/2020) 
+ 
+Graph 7: Industry Performance for the last 1 year (Eresearch.fidelity.com as on 25/10/2020) 
+ 
+Graphs 6 and 7 provide an extensive overview of the major industry drivers within the health sector. As it can be observed from Graph 7, Biotechnology (the one that Moderna primarily functions within) has been the key driver of the health sector as it has grown by 7.11%, beating the overall health sector and the S&P 500 (which has been used as a representative for the overall US markets). However, much of the growth in this industry can be attributed to the hype generated from the prospect of a potential vaccine for SARS-CoV-2. This is evident in Graph 7 as the Biotechnology industry saw unprecedented gains between May and July but is now entering a period of correction. 
+ 
+Graph 6 paints a more accurate picture of the immediate future of the Biotechnology industry. While the US markets and the overall health sector have been growing since the COVID-19 crash, Biotechnology has been in a period of decline since July, and in recent days has seen a correction of -9.34%. However, with markets expecting a viable vaccine by Q2 FY 2021, it is likely we will see a substantial pickup in the industry with the winners enjoying unprecedented gains. 
+ 
+In order to understand this better, we have analysed the charts of Moderna’s three main competitors: Sarepta Therapeutics Incorporated (a Biotechnology firm),  AstraZeneca Plc, and Johnson and Johnson (both in the process of developing vaccines) 
+ 
+Graph 8: Technical Chart of  Sarepta Therapeutics Inc. (Investing.com as on 25/10/2020) 
+ 
+As can be seen in Graph 8, Sarepta Therapeutics Inc falls in line with the industry and sector trends seen in Graph 7 and Graph 6. It overshot in its recovery and reached new highs of 175 points in July but has since returned to the same 137.5 support level it was testing before the COVID-19 crash. However, as Sarepta Therapeutics is not in the process of making a vaccine, it does not offer the best reflection of Moderna’s price action.  
+ 
+Graph 9: Technical Chart of  AstraZeneca PLC (Investing.com as on 25/10/2020) 
+ 
+Graph 10: Technical Chart of  Johnson and Johnson (Investing.com as on 25/10/2020) 
+ 
+AstraZeneca Plc and Johnson & Johnson are both developing vaccines which make them better candidates to represent Moderna. As can be seen in Graph 9 and Graph 10, AstraZeneca is emerging from a bearish head and shoulders pattern, while Johnson and & Johnson is witnessing a period of consolidation having broken down from the bearish rising wedge pattern it had formed, indicating a bearish outlook on both stocks. However, both companies could see some buying action in the immediate-term due to being given the green light to continue their vaccine trials (as they had been put on hold). 
+ 
+Overall, all the relevant sector and competitor analysis we have conducted in this segment lead us to believe that in the immediate-term, Biotechnology will continue its trend of correction after its prices were inflated in the fallout of the COVID-19 crash in March. However, as the industry’s price action is very sensitive to news regarding vaccines, we expect this industry to see prices pick up again in the short-term as the likelihood of a vaccine being developed becomes more certain. 
+ 
+ 
+Forecast Analysis  
+ 
+Graph 11: Forecast Plot for Moderna Inc. (R-Studio) 
+ 
+Graph 12: ACF and PACF Plot for Moderna Inc. (R-Studio) 
+ 
+We used the statistical programming interface RStudio to algorithmically forecast the directional movement of Moderna’s stock price. Our customised model indicates some buying pressure in the immediate future (the x-axis represents time in days, while the y-axis represents stock price). The 95% and 80% confidence interval (the dark and light grey areas) indicate that price movement is set to increase in the new two weeks (we have performed a 20 day forecast). However the last few days predicted show a potential reversal, perhaps completing the right shoulder of the head and shoulder pattern that has been set up. 
+ 
+The ACF and PACF plots of the residual values of the model indicate how well the Autoregressive and Moving Average orders we have built the differenced model upon function. As the majority of points lie in between the bounded intervals, we can reasonably believe that the orders are well estimated. Furthermore, the Mean Absolute Percentage Error of the model is 3.68% indicating generally high levels of accuracy in our forecast. 
+ 
+ 
+Technical Outlook for the Stock 
+ 
+Support and Resistance Analysis 
+ 
+Graph 13: Support and Resistance Levels for Moderna Inc. (Investing.com as on 24/10/2020) 
+ 
+As on 23rd October 2020, Moderna Inc’s share price closed at $70.53 after having lost 0.44% since the start of the trading session. Given the sector that the company belongs to, there is no doubt that the past few months have meant extreme volatility in terms of its price action. Although, this fact may be evident from looking at Graph 13, just as an additional insight - ever since March 2020, the share price for the stock has witnessed at least 13 trading sessions where the share price either gained or lost 10% in a single trading day. In fact, although this one point that we will elaborate on later in the ‘Trend and Pattern Analysis’ section, the way the current share price action remains - it is extremely tough to extract a distinct trend in which the price action is headed. As one would rightly assume, a major proportion of this volatility may be attributed to the uncertainty in successful clinical trials for a COVID-19 vaccine.  
+ 
+As per our analysis, we believe that the immediate support and resistance levels for the stock are at $68.0 and $72.8 respectively (as highlighted by the yellow triangles in Graph 13). Furthermore, some of the other crucial levels in addition to the immediate support and resistance levels are $77.0 and $80.0 on the upside (as highlighted by the orange and blue rectangles on the upside in Graph 13) respectively) and $63.0 and $55.0 on the downside (as highlighted by the orange and blue rectangles on the downside in Graph 13) respectively).  
+ 
+Graph 14: Fibonacci Levels for Moderna Inc.  (Investing.com as on 24/10/2020) 
+ 
+The strength of these levels is further highlighted by plotting the Fibonacci levels for the price action on a downward basis from the highest point of the candle formed on 28th July 2020 and extending it to the lowest point of the candle formed on 8th September 2020. In light of this plot, we notice that $69.20 and $72.72 are indeed crucial retracement levels (0.5 and 0.618 retracement levels respectively) which as highlighted earlier are close to the immediate support and resistance levels recognised by us.  
+ 
+Trend Analysis  
+ 
+Graph 15: Trend Analysis for Moderna Inc. (Investing.com as on 24/10/2020) 
+ 
+Owing to the combination of the sector as well as the unprecedented times that we are in at the moment, the price action of the stock has not been able to establish a distinct trendline. In fact, the growing volatility in the markets and especially the pharmaceutical sector due to the uncertainty attached with the vaccine trials and mounted to this haphazard movement in the price action of the stock. As a result, rather than conducting a long term trend and pattern analysis, we have limited ourselves to only analyzing significant price action movements since the beginning of July. Keeping that in mind, the first observation that we make is that having breached its rising trendline, the price action entered a distinct decreasing parallel corridor forming a continuous lower-low lower-high formation (as shown by the black lines in Graph 15).  
+ 
+Nonetheless, this trendline was breached on 15th September 2020, when the price broke out of its resistance bound and although it did retest the level it broke out from the subsequent days, on a cumulative basis, the stock gained approximately 30.00% in that rally from mid-September to mid-October (as highlighted by the pink lines in Graph 15). However, once again this rising trendline has been breached and the price action has broken down, forming lower-lows and lower-highs once again (as shown by the blue lines in Graph 15). From what it looks like, we believe that the price action seems to have retested the level it broke down, which would imply that the stock may witness some move towards the downside i.e. at least till its immediate support and even the next crucial level below that.  
+ 
+Moving Average, MACD and DMI Analysis   
+ 
+Graph 16: Exponential Moving Average, MACD and DMI Analysis for Moderna Inc.  (Investing.com as on 24/10/2020) 
+ 
+Once again, Moving Average analysis is always useful for spotting the trend of a stock, as well as for right timing the entry and exit points. Here, we believe the best strategy is to use three Exponential Moving Averages of length 9, 21 and 55 days. Generally, we have a negative outlook of the stock when the 21 days EMA crosses down the 55 days one, followed by the 9 days one crossing down the 21 days EMA. This is exactly what is happening here and what happened at the beginning of September: the shortest EMA is crossing down the medium one, that is very near to crossover with the long one in the downward direction.  
+ 
+However, even if these are clear signs that the uptrend that lasted from March until the first half of July is finished, it doesn’t necessarily mean that this is the right time to short the stock. Indeed, in the last couple of months, the three EMAs are very near each other, making the crossover signals very unstable and difficult to be read with precision. Moreover, the volume levels are very low compared to the ones in the past months, meaning that there are still lots of doubts between the general public about the latest price movements. 
+ 
+More significant and clear conclusions can be obtained from the MACD analysis. The MACD shows a downtrend signal with the 12 days EMA crossing down the 28 days one and the difference between them - that can be seen in the red histogram - is getting bigger. This crossover occurred on the 19th of October, meaning we have a potential downtrend for this week that needs to be watched. As for the DMI analysis, no important signal at the moment, but since the bullish (blue) and bearish (red) indicators are very near each other, it would be interesting to see if there’s a crossover in favour of the bears in the next couple of days. 
+ 
+To sum up, we believe that even if a few interesting signals emerge from this paragraph, it would be better to be careful because of the very general neutral position that surrounds this security and only go short if something very noticeable happens, followed by a good and rising slice of public involvement. 
+ 
+RSI and Stochastic Analysis 
+ 
+Graph 16: RSI and Stochastic Analysis for Moderna Inc.  (Investing.com as on 24/10/2020) 
+ 
+We would like to end this report with a note on the RSI and Stochastic Oscillator. Firstly, with respect to the Relative Strength Index of Moderna Inc. for a 14 day period, we observe that although the indicator for the stock has been in the neutral zone since the first week of July, the movement within the zone itself has certain characteristics. The most distinct one being the 45 level bound acting as a crucial resistance support. Although this level was tested very recently, it has not been able to pick up significantly thereon. Resultantly, our opinion would be to follow the movement of the indicator very closely with an emphasis on the movement around the 45 level bound.  
+ 
+Finally, as far as the Stochastic Oscillator is concerned about, the most distinct observation we can make is that it is currently hovering in the oversold region. Resultantly, we believe that we may face a couple of days where buyers enter in order to square their positions because of which the recommendation is to hold the stock. Especially for those looking to scalp. However, in the medium to long term we continue to have a bearish outlook for the stock.  
+ 
+ 
+News Event Box 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Moderna Inc 
+https://www.modernatx.com/about-us 
+
+top pharmaceutical employer by Science for the past 5 years 
+https://www.modernatx.com/pipeline/therapeutic-areas/mrna-therapeutic-areas-infectious-diseases 
+
+strategic alliances 
+https://www.modernatx.com/about-us/moderna-facts 
+
+significant growth in revenue 
+https://www.bloomberg.com/profile/company/MRNA:US#:~:text=Moderna%2C%20Inc.,%2Doncology%2C%20and%20cardiovascular%20diseases 
+
+product offerings 
+https://www.modernatx.com/modalities-mrna-vaccines-therapeutics-and-immuno-oncology 
+
+introducing the necessary antigens into the immune system. 
+https://www.aaps.ca/blog/prophylactic-vs-therapeutic-vaccines-explained-for-students-in-pharmaceutical-courses#:~:text=Prophylactic%20Vaccines%20Are%20Designed%20to,immune%20to%20the%20associated%20illness 
+
+developed 7 programmes in this area 
+https://www.modernatx.com/modalities-mrna-vaccines-therapeutics-and-immuno-oncology 
+
+in a way that secretes protein outside cells 
+https://www.aaps.ca/blog/prophylactic-vs-therapeutic-vaccines-explained-for-students-in-pharmaceutical-courses#:~:text=Prophylactic%20Vaccines%20Are%20Designed%20to,immune%20to%20the%20associated%20illness 
+
+lines of investigation 
+https://www.modernatx.com/pipeline 
+
+Investing.com 
+https://www.investing.com/indices/nasdaq-composite-chart 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings 
+
+Investing.com 
+https://www.investing.com/indices/s-p-500-health-care-chart 
+
+Eresearch.fidelity.com 
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/industries.jhtml 
+
+Eresearch.fidelity.com 
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/industries.jhtml 
+
+Investing.com 
+https://www.investing.com/equities/sarepta-chart 
+
+Investing.com 
+https://www.investing.com/equities/astrazeneca-chart 
+
+Investing.com  
+https://www.investing.com/equities/johnson-johnson-chart 
+
+Investing.com 
+https://www.investing.com/equities/moderna 
+
+Investing.com 
+https://www.investing.com/equities/moderna 
+
+Investing.com 
+https://www.investing.com/equities/moderna 
+
+Investing.com 
+https://www.investing.com/equities/moderna 
+
+Investing.com 
+https://www.investing.com/equities/moderna 
+
+30,000 volunteers required for testing 
+https://www.pmlive.com/pharma_news/moderna_completes_enrolment_of_phase_3_covid-19_vaccine_trial_1354682 
+
+seasonal flu vaccine 
+https://news.alphastreet.com/moderna-mrna-set-to-take-advantage-of-opportunity-in-vaccines/ 
+
+strategic research collaboration 
+https://pipelinereview.com/index.php/2020091775891/More-News/Moderna-and-Vertex-Establish-New-Collaboration-to-Treat-Cystic-Fibrosis-Using-Gene-Editing.html 
+

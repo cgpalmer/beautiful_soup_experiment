@@ -1,0 +1,82 @@
+EMEA Industry AnalysisSep 7, 2020 
+7 min read 
+EMEA Industry Analysis 
+EMEA Industry Analysis 
+By Krystal Yip (University of Warwick), Noah Al-Hachich (Vienna University of Economics and Business), and Rayan Singh (University of St. Gallen) 
+ 
+Report Head: Timur Kurbanov (New York University Shanghai) 
+ 
+Healthcare Industry 
+ 
+Healthcare M&A activity in EMEA will be slowed down drastically by government hesitance to approve inbound cross-border transactions. Currently in the European Union, legislation provides governments with the right to examine deals to protect national security interests if a buyer attempts to control more than 25% of the shares of a healthcare company. Recent legislation lowered this threshold to 10%. Due to increased regulatory scrutiny, the trend of decreased healthcare M&A’s foreign acquisitional demand will likely continue. The reason behind the slowdown may not necessarily only be more deals being rejected by governments. Each transaction will include a longer regulatory approval process, which will slow the rate at which deals are finalized and agreed. 
+ 
+1.1 – Slowdown of M&A Activity 
+ 
+Regulatory behavior to stop deals has already been demonstrated in Q2 in Germany. German cabinet members prevented the acquisition of Curavec, a German biotech firm working on a COVID-19 vaccine, from a U.S. buyer. This pattern of regulatory intervention will likely continue to exert downward pressure on M&A activity, particularly in important national security relevant industries like healthcare. 
+ 
+ 
+Figure 1.1: Global Healthcare M&A Deals in Q2 since 2015 
+ 
+While regulations played a moderate role in depressed M&A activity this quarter, the slowdown can be largely attributed to the coronavirus pandemic. In Q2 2020, global healthcare M&A volume dropped 19% to 327 transactions, compared with the previous quarter’s 404 announced deals. The most negatively hit sectors were the Behavioral Health Care, Home Health and Hospice. This is because hospitals experienced major distress and restructuring as elective surgeries were put on hold to deal with the critically ill COVID-19 patients. 
+ 
+1.2 – Major Industry Deals 
+ 
+Even though there may be a dip in M&A in the short term, health executives are expecting a resurgence of appetite down the road. In fact, according to MergerMarket, UAE-based Foundation Holdings is planning to buy a 50% stake in healthcare and education companies within the Gulf Region. If struck, the deal size could head towards the USD 40M range. Additionally, Danish pharmaceutical giant Novo Nordisk A/S has recently acquired Corvidia Therapeutics Inc. for a total consideration of up to USD 2.1B. The acquisition will add zilitivekimab, an experimental treatment for certain patients with kidney diseases who are at risk of major adverse cardiovascular events, to Novo’s pipeline. As such, reasonable advice for companies within the industry would be to diversify their portfolio for a post-pandemic environment and reinvest. 
+ 
+The reward that healthcare companies would enjoy by finding a COVID-19 vaccine would be like winning the lottery, and there has been a heavy M&A focus in EMEA on firms with exciting prospects. Most notably, British-Swedish pharma firm Astrazeneca announced a partnership with the University of Oxford “for the global development and distribution” of a coronavirus vaccine. There may be a surge in M&A activity within healthcare aimed at distributing a working vaccine. Matching firms with strong research and development with pharma companies that can produce on scale will become increasingly important in the race for a COVID-19 cure, as the demand for a vaccine is massive. There may also be a surge in joint partnerships between research institutions and pharma companies, similar to Astrazeneca and Oxford’s relationship, as a potential alternative to M&A. 
+ 
+ 
+Technology, Media & Communication 
+ 
+Despite the recent deterioration of global and sector economic confidence, technology executives have been rather optimistic about the speed of recovery for the TMT industry with 63% expecting a V-shaped recovery, compared with the 38% of non-tech respondents. 
+ 
+Figure 1.2: UK M&A TMT: Volume Trend (in $ Bn.) 
+ 
+2.1 – Current Deal Landscape 
+ 
+EMEA Telecom M&A is expected to get a boost by the new EU ruling. In 2016, the European Commission blocked the planned merger of mobile network operators Three and O2 in the UK. However, recently, CK Hutchison Holdings Ltd. won its European Union court fight to overturn the rule, making it easier to get deals past the merger of watch dogs. It is likely there will be more M&A activity within the telecom industry due to the relaxed regulations. In Q2, O2 agreed to merge with Virgin Media in a deal worth an estimated USD 38.8B. The transaction will create the UK’s largest phone and internet operator. 
+ 
+Spain’s Telefonica is also currently in talks with Liberty Global over a possible merger of their U.K operations in a deal that would create a new television and mobile company. Collectively, the two companies are valued at £28B including debt and anticipated synergies. The deal will radically reshape the UK’s telecoms industry, creating a competitor to the country’s current top operator BT Group. British telecoms operator Vodafone has also been engaging in numerous cross-border M&A activities; in March 2020, they acquired 100% holdings of Monaco Telecom for EUR 242M and in Jan 2020, Vodafone signed with Saudi Telecom to pursue a 55% holding for EU 2.2B. As mentioned in their Q2 report, Vodafone are looking to reduce their cost base through the deployment of technology. Therefore, recent activity has exhibited the resilience of the telecommunications industry and increasing buyers’ appetite amidst the pandemic. 
+ 
+While total deal volume decreased over Q1 2020 and Q2 of last year, the total deal value was high largely due to massive M&A deals like O2-Virgin Media. There was a moderate decrease in the number of transactions which reflects less momentum behind increased deal values. M&A levels may come under pressure from the lack of deal activity if bigger telecoms companies slow down their M&A levels. Moreover, heightened cyber-attacks and a 66% increase in GDPR data breach notifications across the European markets (Belgium, France, and Germany) may also inhibit the growth of telecoms M&A through 2020. 
+ 
+2.2 – Middle East Tech Growth  
+ 
+Middle East deal activity within the TMT industry remained stable in Q2, backed by 27 deals worth a total $2.5B. The number of tech deals constituted 21.7% of the total deal amount for the Middle East, rising from 17.6% during Q2 2019. What is notable about this is that coronavirus seems to have modestly sped up activity in the high-tech industry, which aligns with M&A trends in the U.S. The growth in deal value in the Middle East was not backed by one or two mega-deals, rather, by increasing deal volume. This suggests a positive outlook for the rest of 2020 in terms of deal activity for the region, compared to their European and African counterparts. 
+ 
+Smaller TMT companies were less likely to have immediate cash needs compared to firms in other sections, resulting in a lack of eager sellers in M&A. TMT firms have been more resilient to or even benefited from the pandemics. On the 23rd of June 2020, cochairman of Global M&A for Goldman Sachs Tim Ingrassia described the impact of COVID-19 on companies’ M&A strategies, which partly explains depressed TMT M&A activity in Q2. Ingrassia characterized the current deal making environment as a buyer’s market. He highlighted that cash-ready acquirers were opportunistically looking for deals while smaller firms were reluctant to sell at lower relative valuation levels. 
+ 
+2.3 – Rise in Sell-side Deals 
+ 
+Within sectors like energy, which were massively affected by the pandemic, numerous deals have been fueled on the seller-side by the financing needs of targets. For example, smaller energy companies who experienced overnight shocks in both commodity prices and volume demanded faced massive liquidity shortages they had to resolve to avoid bankruptcy. For the most part, smaller TMT companies were far more resilient through the pandemic and were less desperate compared to other sectors to sell at low valuations. As the stock market has rebounded sharply and valuations of some tech companies have even begun to exceed pre-pandemic levels. Consequently, a return to seller-side motivation to enter deals at higher valuations will likely return, if tech valuations remain at an elevated level. 
+ 
+ 
+Aerospace Industry 
+ 
+3.1 – Collapse of the Airline Industry  
+ 
+The European commercial aviation industry has taken an especially strong hit in the past quarter, mainly driven by the spread of the COVID-19 pandemic and the accompanying global groundings. Q2 included the most severe outbreaks of the pandemic in EMEA particularly. International travel restrictions caused by virus-related concerns led to both a collapse in air traffic for business and touristic purposes. These factors led to large uncertainty around the future of commercial aviation and created the belief that aviation will take years to recover, as supported by the IATA. 
+ 
+However, even before COVID-19, the scandal around the 737MAX airplane model as well as slowdowns in important markets were contributing to the decline in M&A activity and overall industry health. The effect on the defense industry, which is heavily interlinked with the aerospace sector, has been less significant and of a different nature. However, both industries shared an ecosystem that brings upon important implications on M&A activity. 
+ 
+3.2– M&A Activity Overview 
+ 
+As like other sectors, M&A activity in the aviation industry following the outbreak of COVID-19 has sharply declined by 100% in EMEA. According to S&P Market Intelligence, in Q2 2020, we have seen no M&A deals in EMEA aviation. That being said, deal making will likely resume going forward, driven by divestitures, activity by financial sponsors, and portfolio reshaping. The changing industry landscape will provide lucrative M&A opportunities in Europe. In Q3, we have already observed a first announcement of a deal between TAP and Atlantic Gateway, possibly setting in motion a series of follow-on M&A in the industry. 
+ 
+The nature of M&A deals in the industry is also likely to change. Due to changes in expected growth and build rates in the aviation industry, firms pursuing vertical integration may re-evaluate business cases, shifting the type of M&A activity observed in the industry. Additionally, in desperation for short-term liquidity, struggling airlines seek cash injections which can be achieved by divesting non-essential assets. 
+ 
+In contrast to commercial aviation, the defense industry has seen a decent amount of M&A activity in Europe in Q2. Shifting geopolitical tensions and heightened uncertainty in general means demand for defense has not fallen off. However, it could not completely offset the strong negative trend in M&A activity in the aviation industry. 
+ 
+Figure 1.3: Aerospace & Defense M&A Deal Value in EMEA (in $ Bn.) 
+ 
+To name an example, Russian arms manufacturer Motovilicha Plants has recently been acquired by Paslentia Investments. M&A activity has been particularly strong in Eastern Europe, with Russia leading. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+

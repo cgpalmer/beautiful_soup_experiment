@@ -3,18 +3,24 @@ from urllib.request import urlopen as ureq
 from bs4 import BeautifulSoup as soup
 import os
 import time
+import pandas as pd
 start = time.time()
 print("starting")
 
+all_title = []
+all_content = []
+all_links_and_added_text = []
+
+
 # # List of iframe links below
 iframes = ["https://social-blog.wix.com/custom-feed-widget?pageId=ixlsv&compId=comp-kbwc8pql&viewerCompId=comp-kbwc8pql&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3314&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C4%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C4%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=o03vp&compId=comp-ket2ztx1&viewerCompId=comp-ket2ztx1&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=993&height=607&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C8%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C8%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=irlo9&compId=comp-kcazzhz0&viewerCompId=comp-kcazzhz0&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=290&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C3%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C3%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=ejf88&compId=comp-kbwnckqx&viewerCompId=comp-kbwnckqx&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3296&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C10%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C10%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=motbs&compId=comp-kbwo1f6o&viewerCompId=comp-kbwo1f6o&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=658&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C13%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C13%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=g74dm&compId=comp-kbwo1zpx&viewerCompId=comp-kbwo1zpx&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3404&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C15%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C15%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=irlo9&compId=comp-kcazzhz0&viewerCompId=comp-kcazzhz0&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=290&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C16%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C16%22%7D",
-            "https://social-blog.wix.com/custom-feed-widget?pageId=impac&compId=comp-kbwo282j&viewerCompId=comp-kbwo282j&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3262&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C17%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C17%22%7D"
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=o03vp&compId=comp-ket2ztx1&viewerCompId=comp-ket2ztx1&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=993&height=607&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C8%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C8%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=irlo9&compId=comp-kcazzhz0&viewerCompId=comp-kcazzhz0&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=290&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C3%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C3%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=ejf88&compId=comp-kbwnckqx&viewerCompId=comp-kbwnckqx&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3296&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C10%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C10%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=motbs&compId=comp-kbwo1f6o&viewerCompId=comp-kbwo1f6o&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=658&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C13%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C13%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=g74dm&compId=comp-kbwo1zpx&viewerCompId=comp-kbwo1zpx&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3404&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C15%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C15%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=irlo9&compId=comp-kcazzhz0&viewerCompId=comp-kcazzhz0&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=290&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C16%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C16%22%7D",
+            # "https://social-blog.wix.com/custom-feed-widget?pageId=impac&compId=comp-kbwo282j&viewerCompId=comp-kbwo282j&siteRevision=2588&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&width=920&height=3262&instance=ui6twEcmgE2Seo_QrA3iefKVQB0OvBzDMyJNUCCajnU.eyJpbnN0YW5jZUlkIjoiNTQ0Y2FmYzAtMTAwOC00NDllLWExMjktODA4YWQ4MDhiMzJjIiwiYXBwRGVmSWQiOiIxNGJjZGVkNy0wMDY2LTdjMzUtMTRkNy00NjZjYjNmMDkxMDMiLCJtZXRhU2l0ZUlkIjoiMDg4MDljZDctNDhiMy00MmZiLWE0NzAtNTI0YTBkMWZiM2RkIiwic2lnbkRhdGUiOiIyMDIxLTAyLTE0VDIxOjQ5OjAzLjk3NVoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjIzMTRiZmVjLWQ4NjYtNDYyNC1hNzU5LTg2MWNiMGQ5MDc2ZSIsImJpVG9rZW4iOiI1Y2NjMzMxNy01OGJiLTA2NjUtMDU1OS1kMmMwZDUxNzAwZjEiLCJzaXRlT3duZXJJZCI6ImM2NDc1ZmVhLTllNTEtNGE2MS04NjM2LTkyNjVmNDM4MjcwMyJ9&currency=GBP&currentCurrency=GBP&vsi=908a90f0-af79-41da-9590-29612c72b3ca&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C17%22%2C%22BSI%22%3A%2207af3657-02bd-4729-ba90-958bc7091995%7C17%22%7D"
             ]
 folder_num = 1
 for iframe_link in iframes:
@@ -48,8 +54,6 @@ for iframe_link in iframes:
 
     link_href = list(dict.fromkeys(link_href))
 
-    print(link_href)
-
         
     for individual_blog in link_href:
 
@@ -66,10 +70,13 @@ for iframe_link in iframes:
 
         # Find the title from the individual blog
 
-        title = blog_soup.find("span", {"class": "blog-post-title-font"}).getText()
-        
+        title = blog_soup.find("span", {"class": "blog-post-title-font"})
+
+        title = title.getText()
+
         f = open(f"file_outputs/folder{folder_num}/{title}.txt", "w+")
         f.write(title)
+        all_title.append(title)
         f.close()
     
 
@@ -85,7 +92,7 @@ for iframe_link in iframes:
         f=open(f"file_outputs/folder{folder_num}/{title}.txt", "a+")
         for text in range(len(all_spans)):
             just_text = all_spans[text].getText()
-    
+            all_content.append(just_text)
             f.write(f"{just_text} \r\n")
         
 
@@ -96,7 +103,11 @@ for iframe_link in iframes:
             href_text = all_href[href].getText()
             f.write(f"{href_text} \n")
             f.write(f"{just_href} \n\r\n")
-
+            combined_text_href = href_text + just_href
+        links_string = " "
+        links_string = links_string.join(combined_text_href)
+            # print(combined_text_href)
+        all_links_and_added_text.append(links_string)
         f.close()
         
       
@@ -117,5 +128,23 @@ for iframe_link in iframes:
 
     folder_num = folder_num + 1
 
-end = time.time()
-print("Time taken: " + str(end - start))
+print(all_title)
+print(all_content)
+links_string = " "
+links_string = links_string.join(all_links_and_added_text)
+print(links_string)
+
+
+# all_links_and_added_text = str(all_links_and_added_text)
+houseitems = [{'title':all_title, 'all_content': all_content, 'all_links_and_added_text': all_links_and_added_text} for i in all_title]
+df1 = pd.DataFrame(houseitems)
+print(df1)
+
+
+df1.to_csv(index=False, path_or_buf="office_sorted.csv")
+# df = pd.DataFrame([all_title, all_content, links_string],  columns =  ["title", "content", "links_and_added_text"])
+# print(df)
+
+
+# end = time.time()
+# print("Time taken: " + str(end - start))

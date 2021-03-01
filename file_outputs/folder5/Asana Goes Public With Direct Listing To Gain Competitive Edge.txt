@@ -1,0 +1,144 @@
+Asana Goes Public With Direct Listing To Gain Competitive EdgeNov 13, 2020 
+10 min read 
+Asana Goes Public With Direct Listing To Gain Competitive Edge 
+Asana Goes Public With Direct Listing To Gain Competitive Edge 
+By Cameron Caldwell, Rachel Hill (University of Glasgow), and Alex Messick (University of California, Los Angeles) 
+By Cameron Caldwell, Rachel Hill (University of Glasgow), and Alex Messick (University of California, Los Angeles) 
+ 
+ 
+Overview of the Deal 
+ 
+Management software company Asana acquired a market value of circa $3.4 billion after its September 2020 direct listing. The establishment of a $21 reference price per share by the New York Stock Exchange was well exceeded, originally opening at $27 per share trading over a third over the reference price within their first 10 hours on the market. A direct listing is a less popular method of publicly raising capital through transforming private to public shares rather than the distribution of new shares that occurs in an IPO. Asana was therefore able to enter the market and share its stock quicker than through an IPO with the ability to bypass the IPO underwriting stage.   
+  
+Now holding the market valuation of around $3.4 billion, double that of their November 2018 valuation of $1.5 billion, Asana is still relatively small within the tech industry; yet, being recognised as one of three of Forrester’s market leaders for ‘Collaborative Work Management Tools for Enterprise,’ Asana has the potential to become one of the largest competitors in work software.   
+ 
+ 
+Macroeconomic Trends 
+ 
+The New York Stock Exchange saw a record number of IPO listings in September, and the direct listing of Asana on the 30th of September completed the month in style along with one other direct listing, two traditional IPO’s, and one SPAC listing. Appetite has clearly returned for IPO’s after months of uncertainty, stemming from the original sell-off at the beginning of the pandemic. In a market where investors were willing to sell higher-risk assets, it made sense for some companies to delay their listings because of fears investors would stay clear. However, with the recent rebound in markets, September marked the resurgence of IPOs and we could expect this to be the case for the remainder of 2020 at least as organisations resume their IPO agendas. 
+ 
+The tech sector weathered the coronavirus well, with increases in remote working causing greater usage of team and project management software. In the UK, over 50% of the workforce were regularly working from home, up 25% from the previous year. Not only did this force previous luddites to embrace digital transformation, but tech-savvy consumers also began to use work applications more often. At the same time, executives and management began to consider the best remote working applications to invest in to manage their teams in times of uncertainty. 
+ 
+The market for productivity and team management tools is fairly competitive, with software available from the Big Tech firms like Microsoft as well as startups like Shift. Indeed, all firms have been trying to capitalise on the increase in remote working by investing in large scale marketing campaigns and research & development to try and create a greater competitive advantage and boost sales. 
+ 
+Sought to be one of the big players in the industry, Slack, a close competitor of Asana also went public via a direct listing in 2018, and Palantir, an American software analytics firm, also went public via a direct listing on the same day as Asana. With Asana following in Slack’s footsteps, there is the possibility that more tech and software companies will consider listing in this way in the future because if cash balances remain strong, either from strong sales or funding rounds, an injection in capital might not be necessary and it would enabler a simpler listing compared with the traditional IPO process. 
+ 
+ 
+Company Details  
+ 
+Asana (NYSE:ASAN) is a productivity application that helps teams become more efficient. Used in all types of organisation from startups to blue chips in over 190 countries, the platform encourages greater team collaboration and engagement, through being able to manage projects, calendars, dashboards and teams all within one application. It also features useful integrations with widely known products like Microsoft Teams and Gmail and the founders, Dustin Moskovitz and Justin Rosenstein, come to Asana with extensive experience at Google and Facebook respectively. 
+ 
+Founded in: 2008 
+Headquartered in: San Francisco, California, US 
+CEO: Dustin Moskovitz 
+Number of Employees: 900 
+Market Cap: $3.4B 
+EV: $3.65B 
+ 
+Figure 1: Current Capital Structure of Asana (Capital IQ) 
+ 
+IPO Details of Asana 
+ 
+Asana’s stock opened at $27 and ended closing at $28.8, allowing for no shares to be traded at the reference price enabling the alleviation of Asana’s valuation up 10%. Within their first day of entering the publicly traded market Asana was able to gain value of $4.2 bn despite not raining capital. Asana’s filing details their growth targets in their pursuit to expand in customer numbers targeting larger firms, as well as within their smaller-scaled current base, whilst pursuing the establishment of the brand rather than pursuit of raising capital.  
+  
+Asana’s debut to the publicly traded market in late September was established with the trading of just above 30 million Class A shares from the existing 75 million. Asana’s Class A shares have the right to only one voting share, in comparison Asana’s Class B shares equating with a 10 votes share. Asana’s direct listing, despite cutting the associated expenses of going public through an IPO was not without high potential risk. Asana’s direct listing follows after major direct listings of Slack in June 2019 and Spotify’s of 2018, however major disparity lies between Asana to the successful direct listings before. Direct listings whilst cutting out the underwriting stage, as Moskovitz states the attractiveness of the “efficient pricing” direct listings offer, they miss out on the marketing drive that occurs with an IPO. A stark difference of size and awareness of Asana and companies such as Slack exists, whereby Slack’s market cap whilst going public was at $19.5bn in stark contrast to Asana’s $3.4bn allowing for greater investment potential.  
+  
+Despite Asana’s rapid growth in the last 12 months, the impact of COVID does not go unnoticed with predicted growth to slow from 71% to around half of its current expansion. Asana is considered within the ‘Software as a Service’ stock bracket; whereby ‘The Rule of 40’ is viewed as a reliable tool in providing an overview of the stock's health. The rule uses the aggregate of the company's profit and growth rate is above 40% the company is a benchmark for good health. Asana’s LTM rule of 40 score sits at 42%, yet currently lying at 10% their current growth rate does not account for their losses. Under the current structure of shares CEO Moskovitz holds a 39% voting power share along with co-founder, Rosenstein holding 17.5% Asana’s stock is undoubtedly closely-held which allows for Asana to maintain great control over Asana and it’s future. 
+ 
+“In a traditional IPO where the underwriters may be pricing it at a particular price and then you see a 20%, 30% or sometimes even 50% increase in the stock, as the CFO you’re thinking, are you leaving money on the table?” 
+Tim Wan, Asana CFO 
+ 
+Estimation of Asana’s value is said to be placed around the $5 bn marks which would see Asana’s value to be of 26.2x of their expected revenue, well over that of its near competitors- Smartsheet and Atlassian. With such estimation, Asana is among the highest valued software companies. Despite Asana's extensive losses and the reduction in their growth speed, one can be sceptical of the valuation in that the value has placed too much emphasis on recent growth leading to conclude of its likely overvaluation. 
+ 
+Figure 2: Asana Competitor Financials 
+ 
+Projections and Assumptions 
+ 
+Why was this deal done? 
+ 
+With its derelict listing, Asana aimed to achieve liquidity for current shareholders by allowing them to sell shares via a stock exchange, and most importantly, at a cost lower than a traditional IPO. Indeed, with the November election looming, Asana were also keen to list before the November 5th election to avoid listing amongst potential times of greater uncertainty. 
+ 
+However, equally, it might seem strange that Asana didn’t take the traditional IPO route. Currently, Asana has a long road ahead to achieve profitability having reported a consistent loss since 2008 and while revenue for this year has surpassed $140 million, greater capital injection from a traditional IPO would have been welcomed. Ultimately, Asana prioritised the factors above over an immediate cash injection and did so at a low cost. 
+ 
+Short-term Analysis 
+ 
+Asana’s short-term outlook is characterized by several factors that are unique within the ever-expanding workplace management industry. For starters, Asana’s direct sale business model has allowed them to gain competitive traction in mid-market and enterprise consumers early on. The number of customers spending over $50,000 annualized has increased 160% YoY, while their net retention rate of all paid subscriptions is up 140%. This reflects a healthy and growing relationship with top blue-chip clients like AT&T, Alphabet, and NASA, as these firms continue to upgrade their subscriptions and increase Asana’s cashflow.  
+ 
+Unlike traditional enterprise software, which is sold “top-down”, Head of Product, Alex Hood illustrated how Asana’s growth has primarily been derived from “bottom-up” sales. In other words, Asana has seen growth start with individual workers utilizing the free entry-level services, who then vouch for the product suite and lead to premium services being paid at scale throughout their respective firms. While the majority of users today have free subscriptions, the free-to-paid conversion rate has increased from 3.6% at the end of FY2018 to 4.7% by Q2 2020. With an emphasis on ease-of-use, flexibility, and engagement with SaaS tools, like team planning, throughout all levels of a client’s organization, Asana has proven to offer a unique take within the increasingly competitive productivity space.  
+ 
+To emerge as one of the leaders within the industry, Asana needs to sustain its sales growth and address its rising costs. Reported losses grew from $50.9M in 
+fiscal year 2019 to $118.6M this fiscal year. Gross margins have notably remained high at 86% during the same period, with Q2 2020 revenue reported at $52M and up 57% YoY. However, when compared to 2020’s Q1 YoY growth rate of 71%, investors have become alarmed whether the company's increase in sales had already seen its peak. This is where the majority of uncertainty comes into play: do these results reflect plateauing sales growth or are the figures largely due to short-term COVID headwinds, as expressed by key management in their Q3 earnings report? With this in mind, while clearly proving to be an attractive and unique competitor in a growing, high-demand market, investors should undoubtedly warrant a degree of caution proceeding forward with Asana. 
+ 
+Long-term Analysis 
+ 
+Asana’s initial success could be the company’s first step to capturing a competitive portion of the projected $32B work management market by 2023. While the collaboration and productivity space are currently worth $23B, COVID-induced work from home shifts and widening enterprise software applicability are both projected to lead to sustainable long term growth within the industry. Despite being used by nearly two-thirds of fortune 500 companies today, Asana believes they’ve only captured less than 3% penetration of their total addressable market. This reflects an opportunity to service 1.25 billion information workers internationally within the future. 
+ 
+Yet, Asana recognizes that in order to recognize this growth potential, they have to invest significantly in long-term customer acquisition strategies. Given the fragmented, competitive, and ever-evolving industry they operate in, diversifying themselves will be increasingly important, especially when considering their setbacks in foregoing IPO underwriting and marketing. In tackling this challenge, Asana has implemented a customer-focused RnD team while focusing on expanding the accessibility and user intuitiveness of its product suite. This unique workplace management platform has already received credibility from both IDC and Forrester who have named the group as one of the top three industry leaders. 
+ 
+Additionally, Asana’s early success reflects the ability of startup SaaS companies to explore entering the market without a traditional IPO. Their direct listing illustrated that despite tech startups’ rising losses and hiked negative changes in working capital, investors will still be willing to pay a premium based on projected growth rates and the prospect of long-term profitability. Sustaining this market performance will depend on the company’s ability to keep margins high, cut costs over time, and position themselves as an emerging leader within the space. Assuming they reach these targets, the late-stage startup has the potential to follow, and even surpass, the successes of Spotify and Slack’s direct listings. 
+  
+Risks and Uncertainties    
+ 
+With less than one full quarter under its belt as a public company, Asana’s short-term outlook faces just as much uncertainty as it does promise and potential. Of particular interest to investors, the deceleration of sales within the last quarter has proved especially worrisome. This risk becomes even further alarming when we consider how losses and costs both had spiked within the same timeframe as revenue growth declining. Yet, in their most recently released quarterly earnings report, management had disclosed that various impacts can affect sequential growth rates, and thus fluctuations within the percentages should not alarm investors. For instance, the introduction of a small team pricing package in Q1 2020 helped bolster growth up to 71% YoY. As a result, management assured investors that the drop in growth in Q2 wasn’t a reflection of a negative internal trend. Furthermore, Asana disclosed that they “wouldn’t model the same sequential growth rate” for future quarters as seen in Q1.  
+ 
+Similarly, the firm highlighted how increasing operating expenses and losses are a reflection of the business investing in growth, rather than an inefficient business model. While this presents one of the greatest risks to reaching profitability, Asana sees expanding losses as a necessary and beneficial step early on in their development. The growing costs can be directly attributable to increasing headcount and marketing efforts, of which are particularly important given the lack of heightened investor interest tied to traditional IPO underwriting. Overall, these short term losses are perceived as essential to setting the firm up to capture a dominant portion of the future $32B workplace management market. 
+ 
+Perhaps the most uncertain risk to the firm is still the ambiguous near term future of COVID-19. This presented the company with its largest setback toward the beginning and middle of 2020. Given that the virus is far from being completely controlled and has seen a recent third spike in cases more severe than the first two, especially in the U.S, the firm may continue to see prolonged short-term COVID headwinds. Though it presents long-term tailwinds due to the resultant work-from-home movement it has propelled, elevated churn rates may arise again as the severity of COVID continues to worsen. 
+ 
+Overall, the company’s internal risks have largely been addressed by management, but the external factors tied to COVID’s impact on the markets still looms as a major uncertainty. While concern and precautionary measures have simmered and largely been overshadowed by the US election and its geopolitical implications, nearly all businesses will have to brace for COVID’s uncertainties as we enter the beginning of a new year. 
+ 
+“All these companies are moving to remote work for the first time, getting that clarity has become an ever more important business imperative. We’re well matched to the moment,” 
+Dustin Moskovitz, Asana CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+$1.5 billion 
+https://www.forbes.com/sites/bizcarson/2018/11/29/dustin-moskovitz-asana-funding-valuation/?sh=a3a7aaa4aaa5 
+
+Forrester’s 
+https://resources.asana.com/rs/784-XZD-582/images/2018-forrester-wave-report-asana.pdf 
+
+record number of IPO listings 
+https://markets.businessinsider.com/news/stocks/record-ipo-month-october-outlook-nyse-president-cunningham-public-market-2020-9-1029637063 
+
+ 50% of the workforce were regularly working from home 
+https://www2.deloitte.com/ch/en/pages/human-capital/articles/how-covid-19-contributes-to-a-long-term-boost-in-remote-working.html 
+
+direct listing in 2018 
+https://www.theguardian.com/technology/2019/jun/20/slack-ipo-stocks-app-public-latest-share-prices-beat-expectations 
+
+same day as Asana. 
+https://techcrunch.com/2020/09/30/palantir-asana-public-debut/ 
+
+(NYSE:ASAN)  
+https://www.nyse.com/quote/XNYS:ASAN 
+
+from startups to blue chips in over 190 countries 
+https://www.investopedia.com/asana-asan-ipo-what-you-need-to-know-5080476#:~:text=Asana%20made%20its%20public%20debut,company%20founded%20by%20ex%2DFacebookers.&text=Asana's%20valuation%20is%20%243.99%20billion,s%20(WORK)%20%2413.76%20billion 
+
+up 10% 
+https://markets.businessinsider.com/news/stocks/asana-stock-price-first-day-direct-listing-public-trading-debut-2020-9-1029637038# 
+
+predicted growth 
+https://grizzle.com/asana-stock-guide-asan-collaboration-disruptor-or-just-another-tool/ 
+
+‘The Rule of 40’ 
+https://www.bain.com/insights/hacking-softwares-rule-of-40/ 
+
+42% 
+https://grizzle.com/asana-stock-guide-asan-collaboration-disruptor-or-just-another-tool/ 
+
+10% 
+https://www.thestreet.com/ipo/news/asana-direct-listing-launch 
+
+surpassed $140 million 
+https://www.investopedia.com/asana-asan-ipo-what-you-need-to-know-5080476 
+

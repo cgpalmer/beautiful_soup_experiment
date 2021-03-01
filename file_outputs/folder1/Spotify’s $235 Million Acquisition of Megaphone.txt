@@ -1,0 +1,206 @@
+Spotify’s $235 Million Acquisition of MegaphoneJan 4 
+8 min read 
+Spotify’s $235 Million Acquisition of Megaphone 
+Spotify’s $235 Million Acquisition of Megaphone 
+By Aidan Berry (University of California, Los Angeles), Alex Ha (Ivey Business School), Giangualberto Castoldi (IE Business School), Mark Blekherman (Wharton Business School), Nicolas Bojenko (University of Sussex), Sid Sharma (University College London) 
+ 
+ 
+ 
+Key Details: 
+ 
+ 
+Bidder Information: Spotify 
+ 
+Company Overview 
+ 
+Spotify is an audio streaming service that allows users to digitally stream over 60 million tracks and over 1.9 million podcasts for free. Spotify premium is a subscription service where users can benefit from improved sound quality and ad free streaming experience. It is also possible to download podcasts or songs for offline listening. 
+ 
+Founded: 2006 
+CEO/Chairman: Daniel Elk 
+Number of employees: 4,405 
+Key shareholders: Baillie Gifford & Co, T. Rowe Price Associates, Morgan Stanley Investment Management 
+ 
+Financial Summary 
+ 
+Market cap: $52.63 billion 
+EV: $51.05 billion 
+LTM Revenue: $7.56 billion 
+LTM EBITDA: - $0.55 billion 
+LTM EV/Revenue: 6.75 
+LTM EV/EBITDA: -92.69 
+ 
+ 
+Target Information: Megaphone 
+ 
+Company Overview 
+ 
+Megaphone is a provider of podcast technology. Their tools enable over 20,000 content creators to effectively manage their podcast business and help with targeted advertising to reach unique audience segments from 60,000+ audience segments using the Megaphone Targeted Marketplace. 
+ 
+Founded: 2015 
+CEO/Chairman: Brendan Monaghan 
+Number of employees: 5 
+ 
+ 
+Deal Overview  
+ 
+In November 2020, Spotify confirmed it had entered a definitive agreement to acquire Megaphone for $235 million, representing 23% of Spotify’s cash balance at the end of 2019. This seems to be the next piece of the puzzle from turning into the dominant player to the podcast world.  Spotify has already acquired Gimlet Media, a podcast network, and a podcast creation app, Anchor. The acquisition of Megaphone is in the light of a Q3 2019 earning call where Daniel Ek, the CEO of Spotify commented that ‘monetization of podcasts .. is something that we’re going to start looking at in 2020.’ This deal is aimed at penetrating the podcast ad market through the power of the Megaphone Targeted Marketplace and Spotify’s Streaming Ad Insertion service. 
+ 
+ 
+Megaphone Business Model 
+ 
+Megaphone is an end-to-end platform manager for creators to publish, monetize, and measure their podcasts with its user-friendly product surface (See Exhibit 1). Major functions include customer segmentation, marketing campaigns, monetization tools, audio-editing tools.  
+ 
+Figure 1: Megaphone Product Functions 
+Figure 1: Megaphone Product Functions 
+ 
+However, unlike most social platform managers like Soundcloud, Podbean, Zencastr, Megaphone’s value proposition lies within its advertising campaign technological infrastructure. Podcasts Ads operating on Megaphone are populated upon podcast download, the messaging is personalized according to the listener’s profile (i.e. age, nationality, gender) and listening habits (frequency, podcast choices, first/frequent listener, etc). As a result, creators are enabled to benefit from more efficient ad targeting executions.  
+ 
+ 
+Deal Rationale 
+ 
+Megaphone’s hosting platform is the biggest value-add to Spotify, as it will now be able to scale and monetize its SAI technology. Introduced only earlier this year, Spotify’s proprietary SAI technology allows it to optimize the ads that users hear in each podcast based on their geolocation, age, music preferences, podcast listening history, Spotify friends, and other data. Jason Richman, Spotify’s VP of Global Advertising Business and Platform, explained that the acquisition was ultimately “a big play for scale.” Spotify can now roll out its advertising optimization software across a broader portfolio of podcasts and generate higher returns on the advertiser front. From a competitive standpoint, the acquisition will further increase the profit potential for advertisers and cement Spotify as the podcast service of choice.  
+ 
+Seller Rationale: Larger Distribution Channel 
+ 
+Partnering with Spotify allows Megaphone to reach a larger audience and expand upon creators’ already impressive offering of shows and podcasts. Namely, Spotify will offer its unique “Streaming Ad Insertion” to podcast publishers utilizing Megaphone’s services. Additionally, Spotify boasts more than a million podcasts on the app. Megaphone will not have to worry as much about marketing and outreach now that they have access to myriad shows. Without having to worry about distribution, Megaphone can spend more of its time working on its services and offerings.  
+ 
+The acquisition will undoubtedly pressure other companies to offer a certain level of flexibility in terms of advertising and publishing. As Spotify podcast publishers can now decide how their podcasts are monetized, it incentivizes new publishers to distribute their podcast and advertisers to target specific niches on Spotify.  
+ 
+ 
+ShortTerm Outlook  
+ 
+In the short run, the acquisition will allow Spotify to scale and monetize SAI by bringing to more than 20,000 publishers on Megaphone’s platform. Thus far, SAI has been a premium, niche product, and the advertiser demand has outstripped Spotify’s inventory. Megaphone will allow Spotify to fill the gap and use the size of Spotify’s and Megaphone’s combined audience to attract new consumer advertisers. Moreover, the acquisition will further solidify Spotify’s position as the premier end-to-end solution for podcast creators. From Megaphone’s advanced video editing tools and volume forecasting software to Spotify’s trademark SAI technology, the broad podcast creation toolkit will now be centralized under the Spotify brand.  
+ 
+Figure 2: Spotify Historical Acquisition Timeline 
+Spotify Historical Acquisition Timeline 
+ 
+Spotify’s historical acquisition strategy has allowed it to grow its core competencies and improve user experience. Spotify’s historical acquisition focus is on developing its core music streaming service by increasingly investing in data-driven music discovery techniques with the acquisition of Tunigo in 2014 and Sonalytic in 2017, and Spotify’s cutting-edge, targeted music recommendation algorithm with the acquisition of Niland. In 2019, Spotify decided to double down in the podcast industry, with the acquisitions of Parcast and Anchor FM, to expand Spotify’s library of podcast offerings. 
+ 
+In 2020 February, Spotify acquired The Ringer, a sports & pop culture podcast network, to continue expanding its product offerings and make these podcasts only available on Spotify. As the podcast industry continues to get competitive, Spotify is likely to continue its acquisition strategy to expand its podcast platform and integrate SAI tools within podcast publishers. 
+ 
+In addition, Spotify has conducted strategic partnerships with Joe Rogan, Michelle Obama, and Kim Kardashian West with exclusive streaming licenses, marking Spotify’s intention to expand its audio library beyond music.  
+ 
+Spotify has come to dominate the music streaming industry since its launch in 2008 through three key growth strategies: cost leadership, market development, and market penetration.  
+ 
+For one, Spotify is a cost leader in that its ad-based business model supports a broad base of free users, who have access to radio-style streaming. Second, Spotify has developed the market demand for music streaming through tactical brand-name partnerships.  
+Back in 2010, for example, Spotify partnered with Facebook to allow its users to send songs to their friends through the social media platform. More recently, Spotify and Hulu announced a joint plan in 2018 to allow customers to access both services for $12.99 per month; for reference, Spotify Premium costs $9.99 per month, while Hulu’s is $7.99. In 2019, Spotify expanded its reach by partnering with Amazon to stream its free music service on Alexa devices. These partnerships and joint ventures have allowed Spotify to increase exposure via different content platforms to capture market share.  
+ 
+Spotify’s third growth strategy is market penetration. By 2016, Spotify had conquered six unique country markets in Asia, despite the idiosyncrasy of each one. Spotify did so through “localization,” i.e. by tailoring their offerings to local tastes and adjusting their pricing to local expectations. Network effects have abetted Spotify’s international expansion, as the value of Spotify’s platform grows with every additional user and artist. Meanwhile, its economies of scale have increased profitability, as its growing brand value and increasingly large user base have decreased fixed costs per customer over time.  
+ 
+ 
+Long-Term Outlook - Industry Outlook 
+ 
+In the United States, the number of individuals who listen to podcasts has increased tremendously, reaching an estimated 102 million monthly listeners in 2020. The entire industry has seen a phenomenal increase in demand. This growth is expected to result in 131 million monthly users by 2024. It is no wonder Spotify has made such a push to dominate the market. Podcasting revenue is expected to hit $1.1 billion in 2021; this growth will benefit the many publishers and advertising companies that take advantage of the acquisition between Spotify and Megaphone and their new ad based systems. This deal contributes to the $800 million worth of acquisitions Spotify has made in the space.  
+ 
+Figure 3: Monthly Podcast Service User Growth 2008 - 2020 
+Monthly Podcast Service User Growth 2008 - 2020 
+ 
+2020 marked another terrific year for the industry. There was a 5% gain in monthly listening, compared to 6% in 2019. Spotify specifically reached 1.9 million podcasts in 2020, compared to 1.68 million for Apple. For those Americans that regularly listen to podcasts, the average listening time was 6 hours, 39 minutes. Advertising has also seen many benefits from the increased consumption of podcasts. Roughly 54% of podcasts listeners stated they were more likely to buy something from a brand after hearing its advertisement on a podcast.  
+ 
+The introduction of dynamically targeted ads to the podcast industry could be pivotal for companies looking to accelerate advertising revenue. Roughly 90% of Spotify's revenue comes from its subscription service, however, new advertising technology could serve as a catalyst not only for Spotify but other streaming services as well. Spotify has placed an emphasis on audio services rather than strictly music services, a trend which will be replicated by companies like Apple, Amazon, and Google.  
+ 
+In the future, podcast publishers will begin to expect more flexibility in their capabilities. This includes “the opportunity to opt-in to have their content monetized, matching their listeners with even greater demand from advertisers.” This flexibility will be expected from other streaming services as well, and if it is not met, Spotify can expect to absorb those publishers.  
+ 
+Figure 4: Music Streaming Market Share 
+Music Streaming Market Share 
+ 
+In regards to the demand side of the industry, consumers clearly have a preference towards Apple and Spotify for their podcasting desires. As COVID-19 subsides, consumer consumption will increase as well, as individuals commute and travel, and those who started listening to podcasts during quarantine continue. Apple currently maintains roughly 19% of the user market with Spotify at 30%. The competition will be fierce as streaming services look to make acquisitions in order to maintain their place within the market. It was revealed that this month Apple is in talks with Wondery, which demonstrates that Apple is a rising threat as it looks to expand further into the podcast industry.  
+ 
+ 
+Long-Term Outlook - Competitive Analysis - Apple Music and Spotify 
+ 
+Figure 5: Apple Music Subscribers/Spotify Subscribers 
+Figure 5: 
+Apple Music Subscribers/Spotify Subscribers 
+ 
+The investment and therefore development of the podcast platform within Spotify’s application, has allowed Spotify to materialize a strong competitive advantage over its competitors. As of the first quarter of 2020, Spotify remains at arm’s length of its fiercest competitor, Apple Music, which recorded a little over half the number of paid memberships to its services in comparison to Spotify. Furthermore, if we observe other metrics, we will see that Spotify remains ahead on all fronts.  
+ 
+In a statement released by Spotify they disclosed that “relative to Apple, the publicly available data shows that our monthly engagement is roughly 2x as high and our churn is at half the rate” (Spotify, 2019). It is important to understand that Spotify continues to grow at a steady rate and therefore it must look for ways to innovate its service. Bring new features or further developing the podcast platform can help them maintain their advantage over Apple Music. 
+  
+ It is also important to highlight that Spotify has not quite yet established itself as the dominant company within the podcast industry. Yes, on a larger scale, it is competing with Apple Music, but in the podcast industry, it still faces fierce competition from companies. As a matter of fact, “Spotify isn’t the only company hoping that its exclusive podcasts will compel listeners to pay for access.  
+ 
+Stitcher offers Stitcher Premium, and Luminary, which raised $100 million to launch a subscription-based podcast service, just announced its star-studded show lineup. Spotify has steep competition”(Boyd, 2020). Spotify needs to take into consideration that they are not the only players in the podcast industry, however, they are certainly moving in the right direction to dominate a large portion of it.  
+ 
+ 
+Long Term Outlook - COVID Implications 
+ 
+As the Covid-19 pandemic continues, it is important to highlight the effects the lockdowns have had on podcast consumption. A great portion of the world population stayed home and did not commute to work. Initially, commuting was identified as the primary time frame for podcast listening and therefore, in its absence, experts believe the demand for podcasts would decrease. However, “U.S. weekly podcast downloads were up 20% for the week ending April 19 compared to the first week of January, Podtrac said” (Lee,2020). This can be attributed to the fact that individuals who stayed home had a surplus of time which they devoted listening to their favourite podcasts. 
+ 
+If we take a look at podcast producers, rather than listeners, it is also interesting to underline that Spotify is facilitating the production of podcasts so it can be a simple process carried out at home. In fact, “because podcasts can be produced remotely without crews, the pandemic has not disrupted Spotify’s slate of shows” (Lee, 2020).  
+ 
+Spotify has been able to keep the engine running on its podcast platform and its investment in Megaphone will further prompt podcasters to produce content as they will have better means to advertise and manage their content. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+over 60 million tracks and over 1.9 million podcasts 
+https://newsroom.spotify.com/company-info/ 
+
+over 20,000 content creators  
+https://www.megaphone.fm/ 
+
+60,000+ audience segments 
+https://www.megaphone.fm/ 
+
+23% of Spotify’s cash balance  
+https://www.bamsec.com/filing/156459020004357?cik=1639920 
+
+Q3 2019 earning call 
+https://investors.spotify.com/financials/default.aspx 
+
+Spotify Historical Acquisition Timeline 
+https://newsroom.spotify.com/ 
+
+102 million monthly 
+https://variety.com/2020/digital/news/spotify-buys-megaphone-podcast-advertising-1234826863/ 
+
+131 million monthly 
+https://variety.com/2020/digital/news/spotify-buys-megaphone-podcast-advertising-1234826863/ 
+
+$1.1 billion 
+http://www.radioworld.com/news-and-business/business-and-law/podcasting-to-break-billion-dollar-barrier-in-2021#:~:text=With%20expected%20growth%20of%2014.7,of%20last%20year's%202020%20prediction.%20%E2%80%A6 
+
+Monthly Podcast Service User Growth 2008 - 2020 
+https://www.iab.com/wp-content/uploads/2020/07/Full-Year-2019-IAB-Podcast-Ad-Rev-Study_v20200710-FINAL-IAB_v2.pdf 
+
+5% 
+https://www.thepodcasthost.com/listening/podcast-industry-stats/ 
+
+6% 
+https://www.thepodcasthost.com/listening/podcast-industry-stats/ 
+
+1.9 million podcasts 
+https://newsroom.spotify.com/2020-12-01/the-trends-that-shaped-streaming-in-2020/#:~:text=Most%20Popular%20Podcasts%20Globally,there's%20now%20something%20for%20everyone 
+
+1.68 million 
+https://www.thepodcasthost.com/listening/podcast-industry-stats/ 
+
+6 hours, 39 minutes 
+https://www.convinceandconvert.com/content-marketing/podcast-statistics-for-2020-charts-and-data/ 
+
+54% 
+https://www.oberlo.com/blog/podcast-statistics 
+
+the opportunity to opt-in to have their content monetized, matching their listeners with even greater demand from advertisers 
+https://investors.spotify.com/financials/press-release-details/2020/Spotify-Announces-Strategic-Acquisition-of-Podcast-Technology-Leader-Megaphone/default.aspx 
+
+Music Streaming Market Share 
+https://www.statista.com/topics/3170/podcasting/#:~:text=Podcasting%20is%20an%20increasingly%20popular,around%2020%20million%20each%20year 
+
+19% 
+https://www.statista.com/statistics/943537/podcast-listening-apps-us/#:~:text=In%202020%2C%20the%20most%20commonly,percent%20in%20the%20previous%20year 
+
+30% 
+https://www.statista.com/statistics/943537/podcast-listening-apps-us/#:~:text=In%202020%2C%20the%20most%20commonly,percent%20in%20the%20previous%20year 
+
+Figure 5: Apple Music Subscribers/Spotify Subscribers 
+https://www.statista.com/statistics/604959/number-of-apple-music-subscribers/ 
+

@@ -1,0 +1,239 @@
+Indigo’s Incidental Pennant FormationFeb 19 
+9 min read 
+Indigo’s Incidental Pennant Formation 
+Indigo’s Incidental Pennant Formation 
+By Sukrith Kumar (University College London), Ameya Joshi  (University College London) and Mihir Gupta (University College London) 
+ 
+ 
+Stock Name: Interglobe Aviation Ltd. 
+Ticker: NSE: INDIGO         
+Sector: Aviation   
+
+ 
+CMP: 1,611 (as on 17th February 2020) 
+Recommendation: Buy on Dip / Sell on Rise
+
+ 
+Target: Rs. 1,640 - 1,650 
+Stop Loss: Rs. 1,550 
+Duration: 2-3 weeks
+
+ 
+ 
+Company Overview 
+ 
+ 
+ 
+Sector and Industry Overview  
+ 
+The global aviation industry has experienced a lot of volatility over the last year due to the COVID-19 Pandemic. However, by evaluating the differences in economic recoveries between regions, and the projected pathways for the aviation industry, we can analyse IndiGo’s outlook relative to its competitors.  
+ 
+Graph 1: Chart of Annual Passenger Growth in India (Accessed on Statista.com on 15/02/2021) 
+Statista.com 
+ 
+ 
+India ranked as the third-largest aviation market in terms of passengers and is said to hold this position until 2024, and is currently trailing behind the USA and China. With IndiGo holding a 48% market share of passengers in India as of 2020, the company can be considered a dominant force in the aviation industry. As shown in Graph 1, the passenger growth rate in India sustained a CAGR of 15.4% from FY 2014-19.  
+hold this position until 2024 
+48% market share 
+ 
+The Indian economy is reflecting the country’s return to normalcy following COVID-19, as analysts at Nomura expect real GDP to contract by 6.7% in FY 2021 but grow by 13.5% in FY 2022. This is further reflected by India’s Union Budget Report of 2021, which eased taxation laws to spark growth in the markets.  
+real GDP to contract by 6.7% in FY 2021 but grow by 13.5% in FY 2022 
+ 
+As India seems to be on a path to recovery from COVID-19 faster than many countries in the West, this could be a signal that airlines, especially those that operate domestically, are set to see a bullish rally in their stock prices. 
+  
+Graph 2: Relationship between NIFTY 50 and IndiGo relative to NIFTY 200 (Accessed on equitymaster.com on 15/02/2021) 
+equitymaster.com 
+ 
+IndiGo’s sectoral index is the NIFTY 200, which is an index that aims to mirror the behaviour of companies that have a mid-large market capitalisation. The graph above demonstrates the price of the NIFTY 50 and IndiGo price movement relative to the NIFTY 200. They appear to be closely tracked, indicating a strong correlation between the two indices which increases confidence that they will remain to track each other closely going forwards.  
+ 
+Graph 3: Table of Market Capitalisation for Indian Airlines (Accessed on moneycontrol.com on 15/02/2021) 
+moneycontrol.com 
+ 
+ 
+Graph 4: Table of Net Profit for Indian Airlines (Accessed on moneycontrol.com on 15/02/2021) 
+moneycontrol.com 
+ 
+ 
+Graph 5: Table of Total Assets for Indian Airlines   (Accessed on moneycontrol.com on 15/02/2021) 
+moneycontrol.com 
+ 
+As the above tables demonstrate, IndiGo dominates the Indian Airline industry. As mentioned before, IndiGo has a market share of 48% of total passengers, and this is reflected in its total asset value and market capitalisation. However, IndiGo’s net profit ranking has been beaten by Global Vectra, a helicopter company that is not in the business of commercial flight travel. Therefore, the two are incomparable.   
+ 
+IndiGo’s main competition in terms of size is Air India. Air India is government-owned and is known for its historic losses. However, the government has announced that they are now willing to sell their entire stake in Air India. With private owners, Air India could be a competitive rival for IndiGo in the coming years but we do not consider that as a factor in the short-medium term.  
+ 
+Despite dominating the Indian Airline industry, IndiGo should look to expand its international flights segment going forwards if it aims to be a more serious competitor on the world stage. Currently, 80% of airport activity in India is from domestic flights, and only 28% of IndiGo’s destinations are international. This is limited to travel in Asia. With India’s increasingly strong presence on the global stage, an indicator of IndiGo’s continual domination of the Indian Airline Industry would be any future plans of launching transcontinental flights.  
+ 
+ 
+Forecast Analysis  
+ 
+Graph 6: ARIMA Forecast for IndiGo over the next 20-day period (Captured on RStudio on 15/02/2021) 
+ 
+ 
+Graph 7: NIFTY 50 Forecast conditional on 20-day Emerging Market Citi Surprise Index movement (Captured on Toggle.ai on 17/02/2021) 
+ 
+ 
+We used the statistical programming interface RStudio to algorithmically forecast the directional movement of Indigo’s stock price. Our customised model shows that stock will continue to rise in the short term but will likely continue to test its immediate resistance. Our RMSE value for this forecast is 30.05 units, indicating high accuracy, but the wide range of values within the 95% and 80% confidence intervals give rise to uncertainty regarding this forecast. However, our forecast accuracy is strengthened by looking at our other analytical sections, which have independently produced the same results.  
+ 
+Through this cohesive independent reproduction, we have greater confidence in our recommendation going forward. Additionally, we have also plotted an index forecast for NIFTY 50 using Toggle.ai’s ‘Analytics’ tool to garner a basic understanding of the potential trajectory of the index. This forecast has been plotted conditional on the past 20-day movement of the Citi Economic Surprise Index for Emerging Markets. 
+ 
+ 
+Technical Outlook for the Stock 
+ 
+Support and Resistance Analysis 
+ 
+Graph 8: Support and Resistance Levels (1)  for Interglobe Aviation (Investing.com as on 16/02/2021) 
+Investing.com 
+ 
+ 
+ 
+On 5th February 2021, IndiGo’s share price closed at INR 1680.85. Following the pandemic crash in March 2020, the share price witnessed muted growth until June, where it entered a short decline. In August, however, there was a surge, with the share price entering a rising channel between the months of September and November (highlighted by blue lines in Graph 8), with the stock being a net ‘gainer’ throughout the pandemic phase.  
+ 
+Over the last few months, following a large gap up in mid-November, the share price has remained in a relatively stable, parallel channel (highlighted by pink lines in Graph 8), aside from a sudden gap-down on 22 December (highlighted in blue in Graph 8), which was quickly corrected by market forces. The share price is expected to remain within this range, given the doji pattern exhibited on 5 February.  
+ 
+Graph 9: Support and Resistance Levels (2)  for Interglobe Aviation (Investing.com as on 16/02/2021) 
+Investing.com 
+ 
+ 
+Currently, we believe that the immediate support and resistance levels for IndiGo’s share price are INR 1,518 and INR 1,760 respectively (highlighted by purple lines in Graph 9). Monitoring historic price movement, the stock seems to be in a consolidation period currently, only having tested the immediate resistance level on 8 January (highlighted in yellow in Graph 9), and the immediate support on 27 November and 21 December (highlighted in pink in Graph 9), however the corrections meant that the share price remained within the specified consolidation phase. In the short-medium term, we expect the stock to continually test the immediate resistance, given our bullish outlook based on our technical analysis. The introduction of a COVID-19 vaccine drive in India is encouraging for their travel industry and will likely be reflected by bullish sentiment echoed in the market moving forward. 
+ 
+Trend and Pattern Analysis  
+ 
+Graph 10: Trend and Pattern Analysis for Interglobe Aviation (Investing.com as on 17/02/2021) 
+Investing.com 
+ 
+ 
+ 
+Our analysis suggests that although the share price has been in a parallel channel since early November, it has been developing a rising trendline with higher lows since early December (as shown by the rising black line in Graph 10 ). Furthermore, although the share price has been under pressure in the last trading week due to enhanced selling pressure, trading volumes suggest that this pressure is wearing out and may only last to hinder the share price growth this week. From a pattern formation perspective, we believe that the share price is forming a rising pennant line formation (as shown by the two black lines in Graph 10) which may result in a significant breakout if the right buying volume impetus is witnessed.   
+ 
+Moving Average and MACD Analysis 
+ 
+Graph 11: 5-20 days Moving Averages for Interglobe Aviation (Investing.com as on 16/02/2021) 
+Investing.com 
+ 
+ 
+Plotting the 5-day (orange line) and 20-day Simple Moving Average (SMA) (purple line) allows us to observe price trends by filtering out the minor short-term price movements that could skew the overall pattern. By using a long-term and short-term indicator, one can determine crossovers and interpret the buy/sell signals from the share price data. Towards the end of last year, there was clearly strong buying sentiment in the market, with three ‘golden crossovers’ in the space of two months, with the 5-day SMA crossing above the 20-day SMA on 5th November, 4th December and 30th December (highlighted in yellow in Graph 11).  
+ 
+In the last month, however, there have been sell signals from the movement of 5-day and 20-day SMA, with the 5-day SMA falling below the 20-day SMA on 14th January for a 3 week period (highlighted in blue in Graph 11). We believe this to be a short-term departure and infer that the price action will continue to remain in its consolidation phase and potentially rise upwards until immediate resistance is breached and another ‘golden crossover’ occurs. 
+ 
+Graph 12: MACD Analysis for Interglobe Aviation (Investing.com as on 16/02/2021) 
+Investing.com 
+ 
+ 
+Monitoring the Moving Average Convergence Divergence (MACD) indicator further helps to indicate the momentum in the market for IndiGo’s share price. We find that the 26-day and 12-day Exponential Moving Average are moving almost together, with the histogram barely indicating any trend in the upward or downward direction. The last crossover between the two EMAs occurred on 11 January (highlighted in Graph 12), which has led to a possible downtrend, with both EMAs breaching the baseline.  
+ 
+We find that the trend tends to accelerate when there is a crossover (both in upward and downward directions), as it did on 14th December (highlighted in Graph 12), leading to a swift downtrend (shown by the negative histogram values and the 12-day EMA falling below the 26-day EMA). Similarly, we saw a positive crossover on 4th February, which indicates that a potential uptrend is due in the short-medium term. This is an indication of a strong buy signal and bullish sentiment in the market, although one must be watchful of the relatively low volumes accompanying this trend, which could mean that this trend does not last in the long run.   
+ 
+Bollinger Band Analysis  
+ 
+Graph 13: Bollinger Band Analysis  for Interglobe Aviation (Investing.com as on 16/02/2021) 
+Investing.com 
+ 
+ 
+Our Bollinger Band analysis shows that the majority of the movement has remained within the bounds of the band, despite a breach of the lower bound (i.e. -2SD bound) as a result of a morning star pattern in the candlesticks between 21-23 January (highlighted in yellow in Graph 13). This breach has been supplemented with the stock testing the lower bound over the last month, however without breaching the level.  
+ 
+Although this could be a bearish signal, we find that when the lower bound is tested, the share price tends to consolidate and breach the 20-day MA, because of heavy buying in the market. As a result, following the bullish outlook in the short-medium term, it is advised to hold the stock during the current consolidation phase and wait until the upper bound is convincingly broken, or until the 20-day MA is breached, before selling. 
+  
+RSI and Stochastic Analysis 
+ 
+Graph 14: RSI and Stochastic Analysis  for Interglobe Aviation (Investing.com as of 16/02/2021) 
+Investing.com 
+ 
+ 
+In line with our findings from previous indicators and technical analysis, we find that the Relative Strength Index (RSI) for IndiGo seems to show that the stock has been in a neutral phase since November 2020. Since 13 November, where the 70.00 upper bounds were breached, the buying power has returned to a neutral setting in the market and appears to remain in this region in the short term. There are no red flags that have emerged from the RSI indicator, however, there has been some significant bullish sentiment since the start of February that will be interesting to follow in the short-medium term. 
+ 
+Monitoring the movements within the stochastic oscillator, we find that the stock breached the 20.00 lower bound twice in a two-week period towards the end of January, which indicates that the stock was oversold in January and could provide a bearish outlook. Since this double-dip in the stochastic oscillator, the stock has witnessed a surge from 11.79 (oversold) towards 76.97 (nearing overbought territory). Although the stock is neutral currently, there is evidence to support a bullish outlook in the short-medium term, with the stock potentially breaching the 80.00 upper bound in the next few weeks.  
+ 
+ 
+News Event Box   
+ 
+In July 2020, IndiGo planned to raise over $268 million via leaseback of planes and other assets. This move is to increase liquidity, to help the company move through the steepest quarterly loss it has experienced in five years  
+raise over $268 million 
+ 
+IndiGo is set to launch 22 new domestic flight routes on 28th March 2021 in an expansionary move.  
+22 new domestic flight routes 
+ 
+IndiGo’s parent company Interglobe Aviation reported an $85 million loss at the end of Q3 FY 2020, however, this is half of the reported loss between July - September 2020, potentially indicating a turnaround.  
+$85 million loss 
+ 
+Wadia Group’s GoAir is set to IPO at ₹3000 crore. The airline has an 8.6% share of passengers 
+₹3000 crore 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+2005 by parent company InterGlobe Aviation 
+https://www.goindigo.in/about-us.html 
+
+market capitalisation is INR 646 billion 
+https://www.moneycontrol.com/india/stockpricequote/transportlogistics/interglobeaviation/IA04 
+
+latest financial statements 
+https://www.goindigo.in/content/dam/goindigo/investor-relations/annual-report/2019-20/Annual-Report-InterGlobe-Aviation-Limited-FY-2019-2020.pdf 
+
+18 new destinations 
+https://www.goindigo.in/about-us.html 
+
+Statista.com 
+https://www.statista.com/statistics/588028/passengers-boarded-by-type-by-indian-air-carriers/ 
+
+hold this position until 2024 
+https://www.ibef.org/industry/indian-aviation/infographic 
+
+48% market share 
+https://www.ibef.org/industry/indian-aviation/showcase/indigo 
+
+real GDP to contract by 6.7% in FY 2021 but grow by 13.5% in FY 2022 
+https://www.moneycontrol.com/news/business/economy/economic-activity-on-verge-of-normality-gdp-to-grow-13-5-in-fy22-nomura-6516051.html 
+
+equitymaster.com 
+https://www.equitymaster.com/share-price/N200/NIFTY200-0/NIFTY-200-Share-Price?utm_source=key-sector-quote&utm_medium=website&utm_campaign=get-quote&utm_content=list-of-nifty-200#tdChartTitle 
+
+moneycontrol.com 
+https://www.moneycontrol.com/stocks/marketinfo/marketcap/bse/airlines.html 
+
+moneycontrol.com 
+https://www.moneycontrol.com/stocks/marketinfo/marketcap/bse/airlines.html 
+
+moneycontrol.com 
+https://www.moneycontrol.com/stocks/marketinfo/marketcap/bse/airlines.html 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+Investing.com 
+https://www.investing.com/equities/interglobe-aviation-ltd-chart 
+
+raise over $268 million 
+https://uk.finance.yahoo.com/news/indigo-parent-interglobe-posts-quarterly-103314231.html 
+
+22 new domestic flight routes 
+https://economictimes.indiatimes.com/topic/Indigo-Airlines 
+
+$85 million loss 
+https://www.flightglobal.com/airlines/indigo-narrows-losses-in-third-quarter/142176.article 
+
+₹3000 crore 
+https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/goair-plans-ipo-to-raise-3000-crore/articleshow/80739170.cms 
+

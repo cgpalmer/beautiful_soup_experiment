@@ -1,0 +1,161 @@
+NASDAQ to Face the Test of TimeDec 8, 2020 
+5 min read 
+NASDAQ to Face the Test of Time 
+NASDAQ to Face the Test of Time 
+By Mihir Gupta (UCL), Ameya Joshi  (UCL), Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+By Mihir Gupta (UCL), Ameya Joshi  (UCL), Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+ 
+ 
+ 
+Index Overview 
+Index Overview 
+ 
+Originally created by the National Association of Securities Dealers (NASD) to help improve the speed of trading via a computerized system, the NASDAQ is one of the largest stock and securities exchanges globally, only second to the New York Stock Exchange (NYSE) in market capitalization. Unlike other exchanges, NASDAQ is one of the few that has no physical trading floor, with all their OTC (over the counter) stocks traded through the computerized network, attracting some of the largest blue-chip technology companies to trade on this exchange.  
+Originally created by the  
+National Association of Securities Dealers 
+ (NASD) to help improve the speed of trading via a computerized system, the NASDAQ is one of the largest stock and securities exchanges globally, only second to the New York Stock Exchange (NYSE) in market capitalization. Unlike other exchanges, NASDAQ is one of the few that has no physical trading floor, with all their OTC (over the counter) stocks traded through the computerized network, attracting some of the largest blue-chip technology companies to trade on this exchange.  
+The technology and dot com boom over the last two decades has been exemplified by the movement of the NASDAQ index. The main index, that is referred to as the NASDAQ, is in fact the NASDAQ Composite, which is a market index fund following the general trends of the NASDAQ. The NASDAQ Composite is made up of over 30,000 stocks, but the main index is the NASDAQ-100, which includes the top 100 stocks in the exchange – companies such as Apple and Microsoft. 
+The technology and dot com boom over the last two decades has been exemplified by the movement of the NASDAQ index. The main index, that is referred to as the NASDAQ, is in fact the NASDAQ Composite, which is a market index fund following the general trends of the NASDAQ. The  
+NASDAQ Composite 
+ is made up of over 30,000 stocks, but the main index is the NASDAQ-100, which includes the top 100 stocks in the exchange – companies such as Apple and Microsoft. 
+ 
+The top 10 companies with the greatest weighting, hence largest market capitalization, in the NASDAQ index, are as follows: 
+The top 10 companies with the greatest weighting, hence largest market capitalization, in the NASDAQ index, are as follows: 
+ 
+Table 1: Top 10 companies with the maximum weightage on NASDAQ-100 
+Table 1: Top 10 companies with the maximum weightage on NASDAQ-100 
+ 
+Forecasting Analysis  - NASDAQ  
+Forecasting Analysis  - NASDAQ  
+ 
+Graph 1: Time-Series projection  for NASDAQ (RStudio) 
+Graph 1: Time-Series projection  for NASDAQ (RStudio) 
+ 
+We used the statistical programming language R to provide a 20 day forecast for the NASDAQ Index. Our findings show that the |NASDAQ is on the verge of reaching a new level of resistance and is likely to witness a correction in the coming days. However, the projection does account for some buying movement within the index as per the grey 95% and light grey 80% confidence intervals. Overall, we believe this forecast to have a high accuracy as the Mean Absolute Percentage Error (MAPE) 99.2%. 
+We used the statistical programming language R to provide a 20 day forecast for the NASDAQ Index. Our findings show that the |NASDAQ is on the verge of reaching a new level of resistance and is likely to witness a correction in the coming days. However, the projection does account for some buying movement within the index as per the grey 95% and light grey 80% confidence intervals. Overall, we believe this forecast to have a high accuracy as the Mean Absolute Percentage Error (MAPE) 99.2%. 
+ 
+ 
+Technical Outlook for the Index - NASDAQ 
+Technical Outlook for the Index - NASDAQ 
+  
+  
+Support and Resistance Analysis 
+Support and Resistance Analysis 
+ 
+Graph 2: Significant Medium-Short Term Support and Resistance Levels for NASDAQ (Investing.com as on 2/12/2020) 
+Graph 2: Significant Medium-Short Term Support and Resistance Levels for NASDAQ ( 
+Investing.com 
+ as on 2/12/2020) 
+ 
+We begin by identifying key support and resistance levels that have been formed over the last three months. At the beginning of September the index concluded its previous uptrend and entered a ranging market inside the channel formed by the resistance level at 12108.07 and the support at 10520.22.  
+We begin by identifying key support and resistance levels that have been formed over the last three months. At the beginning of September the index concluded its previous uptrend and entered a ranging market inside the channel formed by the resistance level at 12108.07 and the support at 10520.22.  
+Another support level drawn by is the one at 10822.57, a level from which the index bounced back upwards at least in two different times: first, during the weeks of September, and later on the 3rd November, 2020. As far as the immediate target levels are concerned, we believe that 12,500 and 12,750 are two levels where the index could witness resistance due to the round number psychology at play.   
+Another support level drawn by is the one at 10822.57, a level from which the index bounced back upwards at least in two different times: first, during the weeks of September, and later on the 3rd November, 2020. As far as the immediate target levels are concerned, we believe that 12,500 and 12,750 are two levels where the index could witness resistance due to the round number psychology at play.   
+ 
+ 
+Trend and Pattern Analysis  
+Trend and Pattern Analysis  
+ 
+Graph 3: Trend and Ascending Triangle breakout analysis  for NASDAQ (Investing.com as on 03/12/2020) 
+Graph 3: Trend and Ascending Triangle breakout analysis  for NASDAQ ( 
+Investing.com 
+ as on 03/12/2020) 
+ 
+ 
+The ‘tech-sell’ off at the start of September, combined with the heightened uncertainty and volatility around the election day meant that the rising trendline in the NASDAQ was going to face a test of time. In fact, that is exactly, what happened - with the index entering a parallel channel which lasted for almost 3 months (as highlighted by the yellow rectangles in the Graph 3).  
+The ‘tech-sell’ off at the start of September, combined with the heightened uncertainty and volatility around the election day meant that the rising trendline in the NASDAQ was going to face a test of time. In fact, that is exactly, what happened - with the index entering a parallel channel which lasted for almost 3 months (as highlighted by the yellow rectangles in the Graph 3).  
+Nonetheless, the index stood the test of time and seems to be on-route to hit new highs. The index has gained significantly ever since the beginning of November. In fact, as per our observations, we believe that not only has the index established an upward trend (as highlighted by the balc line in Graph 3), but has also broken out of an ascending triangle formation. Although this has been driven by positive news from both the political as well as the medical space, we believe that a near term correction is bound to occur. We are expecting a short-term rotation of investors in terms of those willing to enter the market and gearing themselves for the Georgia run-off in January. However, we believe that this would only happen when investors find the right price to enter the market, which in our opinion stands at a level post some sort of a correction in the form of mild-medium selloff.  
+Nonetheless, the index stood the test of time and seems to be on-route to hit new highs. The index has gained significantly ever since the beginning of November. In fact, as per our observations, we believe that not only has the index established an upward trend (as highlighted by the balc line in Graph 3), but has also broken out of an ascending triangle formation. Although this has been driven by positive news from both the political as well as the medical space, we believe that a near term correction is bound to occur. We are expecting a short-term rotation of investors in terms of those willing to enter the market and gearing themselves for the Georgia run-off in January. However, we believe that this would only happen when investors find the right price to enter the market, which in our opinion stands at a level post some sort of a correction in the form of mild-medium selloff.  
+ 
+ 
+Moving Average and MACD Analysis  
+Moving Average and MACD Analysis  
+ 
+Graph 4: 9-days, 21-days and 55-days Exponential Moving Average and MACD Analysis for NASDAQ (Investing.com as on 2/12/2020) 
+Graph 4: 9-days, 21-days and 55-days Exponential Moving Average and MACD Analysis for NASDAQ ( 
+Investing.com 
+ as on 2/12/2020) 
+ 
+In order to conduct the Moving Average Analysis, we make use of a combination of three different Exponential Moving Averages of 9-days, 21-days and 55-days respectively. As we can see Graph 4, the short term EMA is currently over the medium term EMA, which is itself over the 55-day EMA, resulting in a triple positive crossover. This is a clear sign of a short term upward trend and of positive momentum. In fact, although the positive crossover that emerged in the first few days of November, seems to be persistent till now, we are of the short term belief that a correction is bound to occur.  
+In order to conduct the Moving Average Analysis, we make use of a combination of three different Exponential Moving Averages of 9-days, 21-days and 55-days respectively. As we can see Graph 4, the short term EMA is currently over the medium term EMA, which is itself over the 55-day EMA, resulting in a triple positive crossover. This is a clear sign of a short term upward trend and of positive momentum. In fact, although the positive crossover that emerged in the first few days of November, seems to be persistent till now, we are of the short term belief that a correction is bound to occur.  
+Even when we look at the MACD, we observe that a positive crossover at the start of November resulted in a short term bullish rally and although the long term line (i.e. the red line) was tested, the momentum sustained. However, with a decreasing buying momentum and potential profit booking, we believe that the index may face a correction, thereby resulting in the closing of the two MA lines as shown in the MACD.  
+Even when we look at the MACD, we observe that a positive crossover at the start of November resulted in a short term bullish rally and although the long term line (i.e. the red line) was tested, the momentum sustained. However, with a decreasing buying momentum and potential profit booking, we believe that the index may face a correction, thereby resulting in the closing of the two MA lines as shown in the MACD.  
+ 
+ 
+RSI and Stochastic Analysis 
+RSI and Stochastic Analysis 
+ 
+Graph 5: Stochastic and RSI Analysis for NASDAQ (Investing.com as on 01/12/2020) 
+Graph 5: Stochastic and RSI Analysis for NASDAQ ( 
+Investing.com 
+ as on 01/12/2020) 
+ 
+We will end our report with analysis of the Stochastic Oscillator and Relative Strength Index (RSI) of the NASDAQ Composite index over a 14-day period. The RSI has remained in the neutral zone since its correction in early September following a breach in the upside, indicating that the index was overbought at that time. Following this correction, the RSI has fluctuated in the neutral zone, showing that the index had stabilized, with a crucial support at the 40.00 level. However, in the last two weeks, there has been a steady increase in RSI, towards the 70 mark once again, showing that there is increasing buying pressure in the market. It will be interesting to observe whether a correction will occur in the following weeks and the extent of the current buying sentiment.  
+We will end our report with analysis of the Stochastic Oscillator and Relative Strength Index (RSI) of the NASDAQ Composite index over a 14-day period. The RSI has remained in the neutral zone since its correction in early September following a breach in the upside, indicating that the index was overbought at that time. Following this correction, the RSI has fluctuated in the neutral zone, showing that the index had stabilized, with a crucial support at the 40.00 level. However, in the last two weeks, there has been a steady increase in RSI, towards the 70 mark once again, showing that there is increasing buying pressure in the market. It will be interesting to observe whether a correction will occur in the following weeks and the extent of the current buying sentiment.  
+Historically, the RSI suggests that NASDAQ Composite has remained within the neutral zone, despite occasional departure, such as in September during the tech stocks’ crash. Given that the 70 mark has only been tested recently, we can maintain that the index is currently witnessing a move on the upside.  
+Historically, the RSI suggests that NASDAQ Composite has remained within the neutral zone, despite occasional departure, such as in September during the tech stocks’ crash. Given that the 70 mark has only been tested recently, we can maintain that the index is currently witnessing a move on the upside.  
+Finally, the Stochastic Oscillator analysis finds that the NASDAQ Composite index remains slightly overbought, after breaching the overbought zone, towards the end of November. The 80.00 level was breached on 24 November and has remained in this region until close on 1 December, agreeing with the RSI indicator that the index is currently overbought. The trend is likely to witness a correction, however, given that the indicator has dropped slightly since peaking at 97.17. It is anticipated that the index may drop in the coming few weeks, as a correction to the bulls having dictated the market over the last 14 days.  
+Finally, the Stochastic Oscillator analysis finds that the NASDAQ Composite index remains slightly overbought, after breaching the overbought zone, towards the end of November. The 80.00 level was breached on 24 November and has remained in this region until close on 1 December, agreeing with the RSI indicator that the index is currently overbought. The trend is likely to witness a correction, however, given that the indicator has dropped slightly since peaking at 97.17. It is anticipated that the index may drop in the coming few weeks, as a correction to the bulls having dictated the market over the last 14 days.  
+ 
+ 
+News Box 
+News Box 
+ 
+NASDAQ is  
+proposing a rule 
+ that would require at least some measure of diversity on the boards of directors of companies listed on the exchange. The rule, which needs the approval of the Securities and Exchange Commission to take effect, would require companies to have at least two  
+diverse directors 
+, including one  
+woman 
+ and one member of an "underrepresented" minority group, including Black people, Latinos or members of the LGBTQ+ community.   
+The  
+number of Americans 
+ has remained extraordinarily high amid widespread business restrictions to slow a rising tide of new COVID-19 infections and lack of additional fiscal stimulus, with over 775,000 applications for unemployment benefits over the last week. This could be coupled with a fresh wave of COVID-19 infections, to impact negatively on NASDAQ, and other key indices in the US. ( ) 
+With the 
+ UK planning to use Pfizer’s COVID-19 
+ vaccine in the large-scale, to be applied to the vulnerable patients, the Pfizer stock will be one to watch, in particular, over the next few weeks.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+National Association of Securities Dealers 
+https://www.thebalance.com/what-is-the-nasdaq-356343 
+
+NASDAQ Composite 
+https://www.investopedia.com/terms/n/nasdaq.asp 
+
+Investing.com 
+https://www.investing.com/indices/nasdaq-composite-chart 
+
+Investing.com 
+https://www.investing.com/indices/nasdaq-composite-chart 
+
+Investing.com 
+https://www.investing.com/indices/nasdaq-composite-chart 
+
+Investing.com 
+https://www.investing.com/indices/nasdaq-composite-chart 
+
+proposing a rule 
+https://edition.cnn.com/2020/12/01/investing/nasdaq-rule-board-of-directors-diversity/index.html 
+
+diverse directors 
+http://www.cnn.com/2020/08/12/success/board-diversity/index.html 
+
+woman 
+http://www.cnn.com/2019/05/29/success/board-diversity-women-minorities/index.html 
+
+number of Americans 
+https://www.nasdaq.com/articles/u.s.-weekly-jobless-claims-fall-still-at-very-high-levels-2020-12-03 
+
+ UK planning to use Pfizer’s COVID-19 
+https://www.bbc.com/news/health-55145696 
+

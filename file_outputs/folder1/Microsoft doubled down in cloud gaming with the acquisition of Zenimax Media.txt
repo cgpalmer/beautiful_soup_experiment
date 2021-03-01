@@ -1,0 +1,211 @@
+Microsoft doubled down in cloud gaming with the acquisition of Zenimax MediaNov 27, 2020 
+9 min read 
+Microsoft doubled down in cloud gaming with the acquisition of Zenimax Media 
+Microsoft doubled down in cloud gaming with the acquisition of Zenimax Media 
+Written By: Alex Ha (Ivey Business School), Michael Lipsky (New York University Stern), Mark Blekherman (Wharton, University of Pennsylvania), Siddharth Sharma (University College London) 
+ 
+ 
+ 
+Bidder Information: Microsoft 
+ 
+Company Overview 
+ 
+Microsoft is a multinational technology firm that develops and supports services, software, devices and solutions ranging from personal computers to supply chain software programs. It is also one of the big players in the console gaming market, leading the Xbox franchise.  
+ 
+Founded: 1975 
+CEO/Chairman: Satya Nadella/John W. Thompson 
+Number of employees: 156,439 
+Key shareholders: Vanguard Group, BlackRock, Bill Gates (Founder) 
+ 
+Financial Summary 
+ 
+Market cap: $1.64 trillion 
+EV: $1.57 trillion  
+LTM Revenue: $147.11 billion 
+LTM EBITDA: $68.12 billion 
+LTM EV/Revenue: 10.67 
+ 
+LTM EV/EBITDA: 21.97 
+ 
+ 
+Target Information: Zenimax 
+ 
+Company Overview 
+ 
+Zenimax is a video gaming holding company that develops and publishes video games. Zenimax owns some of the top game developers such Bethesda Game Studios (games such as The Elder Scrolls and Fallout having 18,200,00 and 15,500,00 players respectively) and id Software (games such as Doom and Quake with 6,500,00 and 1,200,00 players respectively) 
+ 
+Founded: 1999 
+CEO/Chairman: Robert A. Altman 
+Number of employees: 2,300 
+Key shareholders: Providence Equity Partners, SBS Broadcasting Group 
+ 
+Summary of Financial info  
+ 
+Total Funding: $574.9 million 
+Venture Round (2000): $10 million 
+Series D funding (2007): $300 million 
+Funding Round (2008): $9.9 million 
+Debt Financing (2009): $105 million 
+Private Equity Round (2010): $150 million 
+ 
+ 
+Deal Overview 
+ 
+In September 2020, Microsoft confirmed plans to acquire ZeniMax Media, the parent company of game developer Bethesda Softworks. Microsoft will pay USD $7.5B in cash, or the equivalent of 43.6% of its cash position on September 30, 2020, and receive Bethesda’s portfolio of talent of games, all of which will complement its Xbox offerings. Microsoft CEO Satya Nadella cited the growth of gaming and Bethesda’s “quality differentiated content” as two core reasons behind the deal, and the transaction fits with Microsoft’s history of expanding its game portfolio through strategic acquisitions. Per the terms of the deal, Microsoft will add the Bethesda franchises to the Xbox Game Pass, but Bethesda’s structure and leadership will remain intact (See Figure 1).  
+In September 2020, Microsoft confirmed plans to acquire ZeniMax Media, the parent company of game developer Bethesda Softworks. Microsoft will pay  
+USD $7.5B in cash 
+, or the equivalent of  
+43.6% of its cash position 
+ on September 30, 2020, and receive Bethesda’s portfolio of talent of games, all of which will complement its Xbox offerings. Microsoft CEO Satya Nadella cited the growth of gaming and Bethesda’s “ 
+quality differentiated content 
+” as two core reasons behind the deal, and the transaction fits with Microsoft’s history of expanding its game portfolio through strategic acquisitions. Per the terms of the deal, Microsoft will add the Bethesda franchises to the Xbox Game Pass, but Bethesda’s structure and leadership will remain intact (See Figure 1).  
+ 
+Microsoft Rationale  
+ 
+As the gaming industry projects USD $160B in game sales this year there is a shift in focus from consoles to user engagement. This shift in focus has led to major consolidation in the industry. Xbox has always lacked exclusive titles compared to Sony, until last year when they surpassed Sony’s 14 gaming studios. Microsoft has led the industry in acquisitions, now controlling 23 studios compared to Sony’s 17. They now control Fallout, Doom, Elder Scrolls, and Quake. By controlling these titles Microsoft is able to make them exclusive and offer them on Xbox Game Pass. This acquisition comes as the new Xbox is being released to further incentivize consumers in an effort to disrupt Sony’s Playstation market share.  
+ 
+Zenimax Rationale  
+ 
+One of Zenimax’s key pain points in the past few years has been monetizing their games. In fact, Zenimax has struggled to achieve the right balance between quality and price in their games, with some of their recent games especially falling flat. With Microsoft supplying the capital for future projects, the Bethesda team will be able to focus more on ideation and innovation rather than cost and profit considerations. Peter Hines, the SVP of Global Marketing at Bethesda, explained the acquisition as a means for Zenimax to gain “access to resources that will make us a better publisher and developer.”  
+ 
+Moreover, Zenimax will benefit from broader distribution, as its fans will now be able to access all of Bethesda’s games through the Xbox Game Pass. Likewise, Microsoft’s Xbox has long lagged behind Sony’s more exclusive and high-quality games, so Xbox users will likewise benefit from premier gaming titles like The Elder Scrolls and Wolfenstein (See Figure 1). Bethesda summarized the symbiotic nature of the transaction in a press release, stating that the biggest winners were the fans.  
+ 
+ 
+Short Term Outlook 
+ 
+Game Portfolio Vertical Integration 
+ 
+Zenimax Group as a game publisher, will have no operational changes within their game development and engineering, which ensures a smooth cost-efficient integration. However, it will join XBox’s studios and share their resources such as Xbox’s mass distribution channel. Strategically, Microsoft will be able to vertically integrate by saving the licensing fees and result in higher gross margins when rolling-out their games to the broader market.  
+ 
+Market Share Growth 
+ 
+With 2.7 billion people projected to play games this year and sales to exceed $160B Microsoft looks to continue to grow their market share by expanding their gaming portfolio. Microsoft's acquisition of Zenimax places pressures on Sony because games such as Deathloop and Ghostwire were supposed to be exclusively for PS5. Not only does this force Sony to pay down the line if they’d like to continue to offer these titles, but this can effectively sway consumers. By offering Zenimax titles to Xbox Game Pass, Microsoft looks to lead console sales this holiday season with a stronger game catalogue with titles such as Outer Worlds and Gears 5.  
+ 
+Cloud Partnership with Sony 
+ 
+In the past decade, Microsoft’s Xbox and Sony’s Playstation have dominated the gaming console segment, representing 34.90% and 65.09% of the market. Microsoft and Sony are seen as the biggest rivalries in the hardware gaming industry and yet led to different generations of hardware improvement for Playstations and Xboxes. 
+ 
+On May 16, 2019, Microsoft and Sony reached a strategic partnership to develop new cloud-based solutions for direct-to-consumer entertainment and AI solutions. First, Playstation’s (Sony) cloud gaming service, Playstation Now, will not be supported under Microsoft’s Azure cloud infrastructure, allowing quicker delivery and higher quality. Secondly, Sony’s cutting-edge image sensors technology will further complement Microsoft’s Azure AI technology in AI experiences (In-Game Action Preciseness, Controller Settings). Thirdly and most importantly, Microsoft and Sony’s games will be integrated under one platform, thus these games will be accessible on either Playstation or Xbox.  
+ 
+The Head of Xbox, Phil Spencer indicated that “When you talk about Nintendo and Sony, we have a ton of respect for them, but we see Amazon and Google as the main competitors going forward”. With the emergence of Amazon, Apple, and Google, the strategic partnership implied a common interest for Microsoft and Sony to leverage their first-to-market advantage and defend their market share in a collaborative way.  
+ 
+Cloud Gaming 3-Phase Transmission 
+ 
+The transition to cloud gaming is occurring in real-time and is part of the 2 phases of gaming; digitalisation of gaming and cloud gaming transmission. Both transitions can be explained by explaining the changes in the customer journey and the hardware. 
+ 
+Firstly, came physical to digital media. This is due to 2 main points. Firstly, the changes in the customer journey of selecting a game from buying a physical disc from a store to downloading a game from the relevant virtual store. Secondly, came the changes in hardware to make them either physical and digital or digital solely compatible, thus pushing legacy gamers away from solely relying on physical game media. This is shown in Figure 2, with the movement from the Xbox 360 to the Xbox One series, with the Xbox One S being digital only. Currently, gaming is transitioning into cloud gaming. The change in the customer journey goes hand in hand with the change in hardware requirements. Often, gamers could only play games limited by the capacity of their own console/PC. With cloud gaming, any hardware shortfalls are eliminated as one essentially plays the game by streaming the outputs onto their device whilst simultaneously streaming back the game inputs to a data centre server.  
+ 
+What this now means is that gamers can choose any game of their choosing in the knowledge that they now have the capacity to do so. Now with software innovations such as Xbox Game Pass and Playstation Now, gamers can purchase games and then stream the gaming experience onto their device. This has resulted in massive changes for the fourth generation of Xbox. The digital only console, Xbox Series S, is significantly smaller than the dual media Xbox Series X due to reduced levels of hardware. The Xbox Series S is designed specifically for cloud gaming as hardware is no longer a consideration and the lower cost of the console starts to push gamers towards this new model of gaming 
+ 
+Continued Growth in Cloud Gaming 
+ 
+The growth in the global cloud gaming is an upside for this acquisition. By removing the requirement for hardware, cloud gaming allows users to play on smart devices with high-speech Internet. Cloud gaming also lifts barriers for cost-conscious consumers, thereby attracting casual gamers into the market. Grand View Research reports that the cloud gaming market is expected to grow at a CAGR of 47.9% from 2020 to 2027. North America is expected to see the strongest growth in that period due to higher R&D investment in cloud computing, more widespread adoption of smartphones, and the presence of high-speed Internet. Asia, too, will see a significant growth in the coming decade due to a massive untapped gaming population and the recent penetration of smartphones.  
+ 
+The rise of 5G in developed countries like the US and South Korea is expected to contribute to this growth, as mobile gaming has been limited thus far to low-spec games. Consumer bandwidth has been an impediment for streaming services and game operators alike, so the recent spread of 5G will revolutionize connectivity at users’ homes and maximize the potential of cloud gaming. 5G’s higher speeds and lower latencies are truly a game changer for cloud gaming, as they will enable mobile devices to support more complex games and accelerate the transition away from casual low-spec games. In fact, a recent poll from the Mobile Video Industry Council found that anywhere between 25 to 50% of 5G data traffic will come from cloud gaming by 2022. Operators like Playgiga and Hatch are already forming partnerships with cloud-gaming providers like AT&T and Sprint. Overall, the growth in cloud gaming and 5G will only complement Microsoft’s shift from a device-centric strategy towards a player-centric one.  
+ 
+ 
+Long Term Outlook 
+ 
+Consolidation Trends - Focus on Contents - Game Publisher / Streaming Targets 
+ 
+To be a successful player in the gaming industry, companies need to have global cloud infrastructure, hardware capabilities (whether that be client consoles/PCs or data centres) and library of streamable games. There has been a trend of consolidation within the gaming industry particularly when considering cloud gaming and creative studios. Microsoft itself has a long history of acquiring creative studios to create content to suit their hardware whether that be Xbox One or Windows 10 PC gaming. For instance, Microsoft acquired Lionhead Studios to develop Fable Legends to suit their desires. Firstly, Lionhead optimised the game for Xbox One, then for DirectX12 graphics for Windows 10 PC gamers and then Xbox One and Windows 10 Crossplay capabilities. Larger companies want to differentiate themselves with their game offerings by utilizing the creative talents of indie and smaller game developers (to attract prospective gamers) while also ensuring the content is compatible and promotes their own existing software and hardware. Hardware is another area where it is very plausible to see consolidation.  
+ 
+The success of cloud gaming relies on data centres having ultra powerful supercomputers with server level cooling to reduce latency. Companies such as Microsoft, Google and Amazon, who have a history of growing through strategic acquisitions, could accelerate the development of their hardware in this manner. For example, Google has utilized its data servers located all over the world in order to reduce latency for its Stadia cloud gaming platform. 
+ 
+Competition 
+The cloud gaming competitive landscape is inherently different from the traditional console gaming industry. Given the attractiveness of the gaming entertainment market, cloud gaming also demands a huge cloud infrastructure to run smoothly with electronics, representing a high barrier of entry, which has made the competitions limited to big tech, primarily Google (Stadia), Apple (Apple Arcade) and Amazon (Luna).  
+ 
+Google Competitive Advantage: Google Cloud, Google Pixels and Youtube 
+ 
+Google’s Stadia is extremely similar to Playstation Now and Project XCloud, its users can stream and play games via smartphones, web browsers or wirelessly through a Chromecast. Google Cloud and Google Pixels allowed Stadia to run cloud gaming with full competence in imagery processing, delivering and hardware controls. In addition to Youtube, which acts as the biggest platform for content creators, will also streamline the gaming and streaming aspects for Stadia users, by incentivizing creator compensation, providing one-click in-app streaming button, shared benefits between Youtube Premium and Stadia Pro features etc. 
+ 
+Amazon Competitive Advantage: Twitch & AWS Cloud 
+ 
+Amazon’s cloud gaming platform, Luna, is designated to launch later 2020, shares a similar platform to Nvidia than Sony, which is specifically targeting PC users, instead of smartphones and consoles. Like Google, Amazon has the largest gaming streaming channel, Twitch and the largest cloud service provider, Amazon Web Services (AWS). However, Amazon’s largest competitive advantage is its prime customer base, the roll-out strategy for Amazon will primarily include bundles with its existing offerings in other fields and as Amazon develops more hardware capabilities, it will eventually compete on the same level as Sony, Microsoft and Google. 
+ 
+Apple Competitive Advantage: iOS Ecosystem & Hardware 
+ 
+Apple Arcade is one of many of Apple’s strategic initiatives to move away from its reliance on hardware sales because of the stagnation of iPhone/iPad sales growth. Unlike other competitors, Apple Arcade does not require users to purchase individual games after they subscribed, which is like Netflix’s “one price for all” business model. However, Apple has a limited number of games and tends to not include console games. With a 46% smartphone market share in the United States and 13.5% globally, Apple’s addressable market is limited to Apple users, therefore the network effect may not be as profound as other competitors. 
+ 
+Potential Entry - Facebook  
+ 
+Facebook Gaming has launched in 2017, it serves Discord and Twitch as a streaming platform for gamers to stream their plays on PC. However, outside of streaming itself, Facebook has dedicated a lot of effort into Oculus’ Virtual Reality (VR) gaming development. Even though Facebook does not own any data centres that would support cloud gaming logistically, Facebook’s leading edge VR development could pose threats to Microsoft if VR gaming continues to cannibalize cloud or digital gaming segments. 
+ 
+Conclusion 
+ 
+Despite the cloud gaming space requiring significant barriers to entry, it has attracted most big technology companies to compete in the space because of its explosive growth opportunities in platform growth, traffic exposure and income opportunities. As digital gaming shifted to cloud gaming, customer experience factors like connectivity, variety of games and price will remain as the key success factors in the industry.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+18,200,00 and 15,500,00 players respectively 
+https://gamstat.com/games/ 
+
+6,500,00 and 1,200,00 players respectively 
+https://gamstat.com/games/ 
+
+USD $7.5B in cash 
+https://www.bamsec.com/filing/119312520250163?cik=789019 
+
+43.6% of its cash position 
+https://www.bamsec.com/filing/156459020047996?cik=789019 
+
+quality differentiated content 
+https://news.microsoft.com/2020/09/21/microsoft-to-acquire-zenimax-media-and-its-game-publisher-bethesda-softworks/ 
+
+USD $160B in game sales 
+https://www.eventsforgamers.com/news/?view=categories 
+
+now controlling 23 studios compared to Sony’s 17 
+https://www.bamsec.com/filing/119312520250163?cik=789019 
+
+Fallout, Doom, Elder Scrolls, and Quake 
+https://www.zenimax.com/library 
+
+“access to resources that will make us a better publisher and developer.”  
+https://www.xboxachievements.com/news/news-36781-Bethesda-is--Still-Bethesda--Senior-PR---Marketing-VP-Pete-Hines-Assures-Following-Microsoft-Deal.html 
+
+biggest winners were the fans 
+https://news.microsoft.com/2020/09/21/microsoft-to-acquire-zenimax-media-and-its-game-publisher-bethesda-softworks/ 
+
+With 2.7 billion people projected to play games this year 
+https://www.forbes.com/sites/johnkoetsier/2020/06/19/is-gaming-recession-proof-record-revenue-for-160-billion-industry-with-27-billion-players/?sh=786a590d7659 
+
+34.90% and 65.09% of the market 
+https://gs.statcounter.com/os-market-share/console/worldwide 
+
+Phil Spencer indicated that 
+https://www.bbc.com/news/technology-51400135#:~:text=But%20Mr%20Spencer%20said%20his,a%20new%20technology%20news%20website 
+
+CAGR of 47.9% from 2020 to 2027 
+https://www.prnewswire.com/news-releases/cloud-gaming-market-size-worth-7-24-billion-by-2027--cagr-47-9-grand-view-research-inc-301113020.html 
+
+5G’s higher speeds and lower latencies 
+https://www.rcrwireless.com/20200506/wireless/cloud-gaming-is-5g-a-gamechanger-rootmetrics-plays-it-out-in-la 
+
+25 to 50% of 5G data traffic will come from cloud gaming 
+https://owmobility.com/press-releases/mobile-video-industry-council-cloud-gaming-could-be-25-of-5g-data-traffic-by-2022/ 
+
+acquired Lionhead Studios 
+https://www.rockpapershotgun.com/2019/06/11/stop-worrying-about-timed-exclusives-and-worry-more-about-games-industry-consolidation/ 
+
+data servers 
+https://www.pocket-lint.com/games/news/google/143589-google-stadia-explained-price-release-date-games-list 
+
+46% smartphone market share 
+https://www.statista.com/statistics/620805/smartphone-sales-market-share-in-the-us-by-vendor/ 
+
+13.5% globally 
+https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/#:~:text=Apple%20are%20the%20remaining%20major,market%20share%20of%2013.5%20percent 
+
+Oculus’ Virtual Reality 
+https://www.oculus.com/ 
+

@@ -1,0 +1,182 @@
+Riot Blockchain at a crucial testing level Dec 7, 2020 
+8 min read 
+Riot Blockchain at a crucial testing level  
+Riot Blockchain at a crucial testing level  
+By Tyler Prahm (University of Nevada, Reno)  
+ 
+Stock Name: Riot Blockchain, Inc. 
+Ticker: NASDAQ: RIOT 
+CMP: $10.00 
+Recommendation: Sell 
+Target: $6.00-$8.00 
+Timeline: 1-4 weeks 
+ 
+Company Overview 
+ 
+Riot Blockchain, Inc., is a technology company registered on the NASDAQ stock exchange, focused on Bitcoin mining in its blockchain technologies ecosystem. Riot is one of the largest publicly traded Bitcoin mining companies in the United States. Their Bitcoin mining operations are currently located at Coinmint LLP’s Massena, New York facility.  
+ 
+Riot Blockchain’s mining operations consist of 6,040 Bitmain Antminers (high-powered computer components built to mine Bitcoin). Since April of 2020, Riot has ordered over 1,000 S19 Pro miners each month to install into their Bitmain operations. With future expectations from January to April 2021, Riot expects to order and install another 8,000 S19 Pro miners to install to their Bitmain operations. 
+  
+In the second quarter of 2020, Riot mined 227 Bitcoins compared with the 316.19 mined Bitcoins in Q2 of 2019. This 28.2% decrease in Bitcoin production also accounts for the total revenue cut of Bitcoin mining operations by $500 thousand, from the $2.4 million revenue reported in Q2 of 2019 to $1.9 million reported revenue in Q2 of 2020. 
+ 
+As of March 31, 2020, Riot announced on their Q2 earnings report that they are holding cash equivalents of $14 million with $17 million of working capital. They reported a net loss of $4.3 million, from January 1, 2020, to March 31, 2020. 
+On their third quarter earnings report from November 9, 2020, RIOT reported an increase in revenue by 21%, an increase in cryptocurrency mining revenue margin by 38%, and an increase in their overall cash liquidity to $39.1mil from $11.3mil in December of 2019. 
+ 
+ 
+Product Offerings Snapshot
+ 
+Riot Blockchain, Inc. offers no products to the public. Rather, they’re an independent cryptocurrency mining company that focuses on the future for cryptocurrencies such as Bitcoin. Cryptocurrency is generated (mined) through powerful computer components that are able to use significant amounts of electricity to generate crypto such as Bitcoin. Riot Blockchain, Inc. utilizes its Bitcoin mining operations to mine Bitcoin and becomes profitable from Bitcoin’s increase in price. In the previous year, RIOT’s holding of Bitcoin has caused their company value to significantly increase due to the rise in price of Bitcoin cryptocurrency. 
+ 
+ 
+Sector and Industry Overview
+ 
+ETF: (BLOK) Weightage in Index: 0.43%
+ 
+Index Comparison Analysis
+Graph 1: Riot Blockchain, Inc. compared to Amplify Transformational Data Sharing ETF (TD Ameritrade’s thinkorswim platform as of December 5, 2020) 
+ 
+Since Riot Blockchain, Inc. isn’t part of any of the major indices, it can be compared to the Amplify Transformational Data Sharing ETF (BLOK), where RIOT holds the highest weightage compared to other ETFs. When comparing RIOT (purple) to BLOK (white), both RIOT and BLOK appear to be hand-in-hand with one another. As a result of the previously posted trend of RIOT and BLOK, both of the equities jumped significantly in price within the last few weeks.
+ 
+
+Moving Averages Analysis
+ 
+Graph 2: Amplify Transformational Data Sharing ETF with simple moving averages (TD Ameritrade’s thinkorswim platform as of December 5, 2020) 
+
+Since October 27, BLOK managed to break all 3 simple moving averages, which include the 200dMA (listed in pink), 50dMA (listed in turquoise), and the 20dMA (listed in orange). Given the bullish uptrend that’s taken place in the past few weeks, there is no current sign of a crossover on any of the listed moving averages. It’s clear that BLOK has been on a continuous uptrend and until any of the moving averages crossover, the stock appears to be neutral-bullish. 
+Support and Resistance Analysis
+ 
+
+Graph 3: Amplify Transformational Data Sharing ETF with recent support and resistance levels (TD Ameritrade’s thinkorswim platform as of December 5, 2020) 
+ 
+When looking at Graph 3, the past 6 months post a clear uptrend on BLOK. However, that uptrend was cut short at the start of September where most markets began to fall after the significant multi-month rise in the tech rally. Currently, the price of BLOK is sitting at $30.57 a share. After announcing that BLOK would either breakout or bounce off of its local support level, BLOK broke out to continue a rapid uptrend towards its current price level. Currently, there is no sign of local support at its given level. However, if BLOK continues to consolidate around the $30-$31 mark, it may draw a new line of resistance. 
+RSI and Stochastic Analysis
+ 
+Graph 4: Amplify Transformational Data Sharing ETF with RSI and Stochastic analysis (Tradingview.com  as of December 5, 2020) 
+ 
+Looking at the Stochastic Oscillator (middle chart), the 3dMA (orange) is above the oscillator value (blue). Given that the oscillator is above the 80 zone from previously being overbought, BLOK could drop back down to retest its support levels listed in Graph 3. The Stochastic Oscillator also appears as if it's on a minor local downtrend this December. This overbought uptrend could indicate a possible downfall within the next days to weeks. But, in figure 3, there was no sign of a downtrend after locating its support and resistance levels. Dropping down to the bottom chart, the RSI is also stated as overbought given its current level of 74.42. The overbought signal of the RSI could also indicate an upcoming downtrend in the coming future as well.
+ 
+
+Macro-Level Trend Analysis
+ 
+Graph 5: Riot Blockchain, Inc. compared to Bitcoin (Tradingview.com  as of December 5, 2020) 
+ 
+As mentioned earlier, RIOT trades with the price of Bitcoin (BTC). This is because RIOT is a Bitcoin mining company. Any change in the price of Bitcoin would result in a change in the price of RIOT because RIOT’s holding of Bitcoin has an unrealized value which causes the stock to derive from Bitcoin’s price. Looking at the comparison chart between RIOT and BTC, there is a clear trend between the two that appears as if they correlate with one another. The reason RIOT was undervalued at the beginning of November was that BTC kept pushing higher while RIOT held behind.
+Graph 6: The comparison between Bitcoin, Marathon Patent Group, and Riot Blockchain, Inc. (Tradingview.com  as of December 5, 2020) 
+ 
+In Graph 5, the most correlated equities are listed in comparison to Bitcoin. Marathon Patent Group (MARA) is a Bitcoin mining company from Nevada, similar to that of Riot Blockchain, Inc. On the week of November 19, 2020, it’s clear to see that RIOT, MARA, and BTC diverged in price. Since the three underlyings are statistically correlated, RIOT and MARA’s selloff then caused their stock price to be considered undervalued. Due to the price of Bitcoin reaching all-time highs recently, the increase in volume drew more attention to both MARA and RIOT, which ultimately caused them to skyrocket. In the past thirty days, RIOT is up as much as 169%, while MARA is up as much as 177.88%.
+ 
+Technical Outlook for the Stock   
+ 
+ 
+Support and Resistance Analysis 
+ 
+Graph 7: (Riot Blockchain, Inc. with recent support and resistance levels (Tradingview.com  as of December 5, 2020) 
+
+Immediately after looking at RIOT’s 5M chart, there are identifiable key levels of support and resistance. As mentioned earlier, RIOT was en route to either bounce or breakthrough its supply zone around $4.25-$4.50. RIOT was in formation of an upwards channel to place pressure against the supply zone. It was clear that RIOT needed an immense amount of volume to break through the supply zone. Ultimately, RIOT ended up breaking through the supply zone to cause a significant increase in stock price and volume. If RIOT manages to drop in volume within the next coming days to weeks, the stock price will experience levels of downside volatility. 
+ 
+Graph 8: (Riot Blockchain, Inc. with Fibonacci levels (Tradingview.com  as of December 5, 2020) 
+ 
+The strength of the Fibonacci levels can be confirmed for key levels of support at the 0.786 and 0.618 retracement levels. There isn’t a lot of clear support for any of the retracement levels given. The clearest level of support for RIOT is currently located around the 0.5 level. Given the continuous uptrend on RIOT, the Fibonacci retracement levels haven’t identified a clear level of resistance. As a result of this, the levels may be stated as inaccurate unless there is a pullback. 
+ 
+ 
+Trend and Pattern Analysis  
+ 
+Graph 9: (Riot Blockchain, Inc. with trend analysis (Tradingview.com as of December 5, 2020) 
+ 
+Dating back to March and April of this year, there is a clear rising channel. This rising channel has sudden increases in volatility that cause RIOT to bounce off of its rising resistance level. In December, RIOT managed to break out of its channel, due to the heavy amounts of volume that forced the stock to break its resistance. Looking at the overall yearly trend for the stock, it’s in quite a healthy uptrend. The price pullbacks of RIOT historically seem to be quite significant after levels of volume decrease, but RIOT has managed to continually push for higher highs.
+ 
+ 
+Moving Average Analysis
+ 
+Graph 10: (Riot Blockchain, Inc. with moving averages (Tradingview.com as of December 5, 2020) 
+ 
+In the beginning of November, RIOT experienced a crossover of its 50dMA (highlighted in orange) and its 100dMA (highlighted in red). This crossover initiated a bullish transition on the overall stock that resulted in a continuation in separation between the moving averages. There is currently no sign of a bearish crossover of any of the moving averages. Depending on how the stock moves within the coming days to weeks, the moving averages suggest that the stock still has a lot of room to climb. However, when comparing Figure 7 from the trend and pattern analysis, the stock moving averages may begin to crossover if there is a lack in upside volatility. 
+
+Graph 11: (Riot Blockchain, Inc. with moving averages (Tradingview.com  as of December 5, 2020) 
+ 
+In the past four months, RIOT has experienced various instances in consolidation, resulting in continuous crosses of its 9dMA (highlighted in orange), 20dMA (highlighted in blue), and its 50dMA (highlighted in red). One of the most divergences between the crossovers was on November 18, 2020. On the 18th, the stock experienced a 2,233% increase in volume from its previous day that resulted in significant divergences in the moving averages. Given the current volatility and volume of RIOT, its undetermined that the stock will experience any crossovers. However, RIOT will experience crossovers of its moving averages if the stock begins to consolidate around the $9.00-$10.00 price level.
+ 
+
+RSI and Stochastic Analysis 
+ 
+Graph 12: (Riot Blockchain, Inc. with RSI and Stochastic analysis (Tradingview.com  as of December 5, 2020) 
+
+According to the Stochastic Oscillator (middle chart), RIOT is nearly overbought and could favor a potential downtrend. On the other hand, the RSI (bottom chart) is on a downward consolidation given its previous overbought levels above the 80 value. The Stochastic Oscillator is favoring a continuous uptrend to its overbought level at 80. According to the RSI, volatility is much higher in comparison to the previous months leading up to October. This is proven through the differential trends that RIOT has been experiencing. If we look back to the beginning of August, it took almost an entire month of downward consolidation to approach the oversold level. However, RIOT significantly jumped upwards to become overbought within the next couple of weeks. RIOT has been in the overbought spectrum on the RSI for nearly 3 weeks now, it may begin a downtrend soon. 
+ 
+ 
+Volume Profile Analysis 
+ 
+Graph 13: (Riot Blockchain, Inc. with volume profile analysis (TD Ameritrade’s thinkorswim platform as of December 5, 2020) 
+
+The current 3M volume profile on RIOT states a “B shaped” form. The one standard deviation value area on the 3M volume profile lists that the most volume occurs around the $4.00, $5.75, and $7.00 price levels. Given the current uptrend on the stock, this would indicate that the majority of people bought RIOT at the listed prices. If RIOT were to begin selling off in the next coming days to weeks, buyers are most likely to sell and take profits–most likely above the $7.00 price level–which would result in heavy swings of downward volatility. 
+ 
+ 
+Options Pricing Analysis
+Graph 14: (Riot Blockchain, Inc. with front-month options pricing analysis (TD Ameritrade’s thinkorswim platform as of December 5, 2020) 
+
+RIOT currently is experiencing drastic heightened levels of implied volatility (chart highlighted in turquoise). These high levels of high implied volatility are pricing front-month options for an expected move of 25.12%. If the stock begins to fall in the next coming days to weeks, we should see a decrease in implied volatility on option contracts and a significant decrease in vega premium inflation. With the current front-month priced so high, option traders are looking to short high IV premiums to lower their risk profile on a position. 
+ 
+ 
+News Event Box 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Riot Blockchain, Inc. 
+https://www.riotblockchain.com/ 
+
+Riot expects to order 
+https://www.riotblockchain.com/bitcoin-mining 
+
+Riot mined 227 Bitcoins compared with the 316.19 mined Bitcoins in Q2 of 2019. 
+https://www.nasdaq.com/articles/riot-blockchain-mined-227-bitcoin-in-q2-2020-08-11 
+
+Q2 earnings report 
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1167419/000107997320000653/riot10qq2-0620.htm 
+
+On their third quarter earnings report 
+https://www.riotblockchain.com/news-media/press-releases/detail/91/riot-blockchain-reports-third-quarter-2020-financial 
+
+Riot Blockchain, Inc. offers no products to the public 
+https://www.riotblockchain.com/about 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+radingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/q97uRE8T/ 
+
+signed a $17.7 million Antminer S19 Pro Deal 
+https://blog.bitmain.com/en/bitmain-signs-17-7-million-antminer-s19-pro-deal-with-nasdaq-listed-riot-blockchain/ 
+
+announced an appointment of a new director 
+https://www.riotblockchain.com/news-media/press-releases/detail/93/riot-blockchain-announces-appointment-of-new-director 
+

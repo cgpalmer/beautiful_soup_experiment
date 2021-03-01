@@ -1,0 +1,238 @@
+Shanghai Composite in a phase of consolidationJan 8 
+7 min read 
+Shanghai Composite in a phase of consolidation 
+Shanghai Composite in a phase of consolidation 
+By Mihir Gupta (UCL), Ameya Joshi (UCL), Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+By Mihir Gupta (UCL), Ameya Joshi (UCL), Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+ 
+Index Overview  
+Index Overview 
+ 
+The Shanghai Stock Exchange (SSE) Composite index tracks the daily price performance of all stocks, including A shares and B shares, that are traded on the Shanghai Stock Exchange. The index is calculated based on the Paasche weighted composite price index formula, which means that the index is weighted by capitalisation, relative to a particular base period on a specific base day. The base value given was 100, on the base day, which was 19th December 1990. 
+The  
+Shanghai Stock Exchange (SSE) Composite  
+index tracks the daily price performance of all stocks, including A shares and B shares, that are traded on the Shanghai Stock Exchange. The index is calculated based on the Paasche weighted composite price index formula, which means that the index is weighted by capitalisation, relative to a particular base period on a specific base day. The base value given was 100, on the base day, which was 19th December 1990. 
+The top 10 companies with the greatest weighting, hence largest market capitalization, in the SSE Composite index, are as follows: 
+The top 10 companies with the greatest weighting, hence largest market capitalization, in the SSE Composite index, are as follows: 
+ 
+Table 1: Top 10 companies with the greatest weighting on the Shanghai Composite  
+Table 1: Top 10 companies with the greatest  
+weighting 
+ on the Shanghai Composite  
+ 
+Macroeconomic Overview  
+Macroeconomic Overview 
+ 
+We have incorporated a two-fold macro analysis strategy to analyse the macroeconomic situation in China that may significantly impact the short term trajectory of the Shanghai Composite. We first analyse data from a series of PMI Manufacturing, Services and eco-political indicators and follow it with potential forecasted movements of the index, based on the historic movements of these indicators. 
+We have incorporated a two-fold macro analysis strategy to analyse the macroeconomic situation in China that may significantly impact the short term trajectory of the Shanghai Composite. We first analyse data from a series of PMI Manufacturing, Services and eco-political indicators and follow it with potential forecasted movements of the index, based on the historic movements of these indicators. 
+ 
+Table 2: Manufacturing and Services PMI data for China (Toggle.ai as on  25/12/2021) 
+Table 2: Manufacturing and Services PMI data for China ( 
+Toggle.ai 
+ as on  25/12/2021) 
+ 
+As observed in Table 2, the manufacturing arm of the Chinese economy seems to be gaining momentum once again. Provided that the Chinese manufacturing story is heavily driven by an amalgamation of both, the international as well as the domestic elements - the strong PMI numbers for New Export Orders as well as New Orders seem to suggest that both of these factors are at inter-play here. However, the Services data seems to suggest that while the domestic demand and supply seems to be catalysing the New Orders component, there still remain significant barriers to international arm. This may be inferred from the relatively low percentile vs 5 year statistic for the CHN Services National Bureau of Statistics of China New  Export Orders PMI component.  
+As observed in Table 2, the manufacturing arm of the Chinese economy seems to be gaining momentum once again. Provided that the Chinese manufacturing story is heavily driven by an amalgamation of both, the international as well as the domestic elements - the strong PMI numbers for New Export Orders as well as New Orders seem to suggest that both of these factors are at inter-play here. However, the Services data seems to suggest that while the domestic demand and supply seems to be catalysing the New Orders component, there still remain significant barriers to international arm. This may be inferred from the relatively low percentile vs 5 year statistic for the CHN Services National Bureau of Statistics of China New  Export Orders PMI component.  
+ 
+Table 3: Eco-political indicators  for China (Toggle.ai as on  25/12/2021) 
+Table 3: Eco-political indicators  for China ( 
+Toggle.ai 
+ as on  25/12/2021) 
+ 
+As far as the eco-political indicators are concerned, we conclude that there is no doubt about the economic surprise index being so high because of the spillover effects that have persisted due to the pandemic. In the case of the geopolitical risk landscape, we believe that the recent tensions near the Indo-China border, the rising disputes in the South China Sea, complemented with the shaky US-China relationships are arguments that support the relatively low %tile statistics for the CHN PRS PRS Composite Eco-Political and the CHN Geopolitical Risk, respectively. Finally, the extremely high political stability may majorly be accounted to the extremely strong foothold the CPC (Communist Party of China) has in the case of maintaining the political equilibrium and handling political affairs in China.  
+As far as the eco-political indicators are concerned, we conclude that there is no doubt about the economic surprise index being so high because of the spillover effects that have persisted due to the pandemic. In  
+case of the  
+ risk landscape, we believe that the recent tensions near the Indo-China border, the rising disputes in the South China Sea, complemented with the shaky US-China relationships are arguments that support the relatively low %tile statistics for the CHN PRS PRS Composite Eco-Political 
+and the CHN Geopolitical Risk, respectively. Finally, the extremely high political stability may majorly be accounted to the extremely strong foothold the CPC (Communist Party of China) has in  
+case of maintaining the political equilibrium and handling political affairs in China.  
+ 
+Graph 1: Forecasted trajectory of the Shanghai Composite conditional on China’s Citi Economic Shock Index (Toggle.ai as on  25/12/2021) 
+Graph 1: Forecasted trajectory of the Shanghai Composite conditional on China’s Citi Economic Shock Index ( 
+Toggle.ai 
+ as on  25/12/2021) 
+ 
+Graph 2: Forecasted trajectory of the Shanghai Composite conditional on China’s Manufacturing PMI Data (Toggle.ai as on  25/12/2021) 
+Graph 2: Forecasted trajectory of the Shanghai Composite conditional on China’s Manufacturing PMI Data ( 
+Toggle.ai 
+ as on  25/12/2021) 
+ 
+Next, we plot potential forecasts for the trajectory of the Shanghai Composite conditional on the historic movement of China’s Economic Surprise Index, Manufacturing New Orders and New Export Orders PMI data. From the first forecast, we conclude that the predicted movement is most likely to be flat in the immediate short term, which as we discuss in the coming sections, also lays in tandem with our assessment of the situation. The second forecast, however, produces some intriguing results. We observe that although there was an initial divergence between the forecasted and actual trajectory, the latter coincided with the former within a short period of time. However, the divergence between the two has emerged yet again and we believe that if the index were to break out of the consolidation levels, we could witness the forecasted trajectory on the upside to follow.  
+Next, we plot potential forecasts for the trajectory of the Shanghai Composite conditional on the historic movement of China’s Economic Surprise Index, Manufacturing New Orders and New Export Orders PMI data. From the first forecast, we conclude that the predicted movement is most likely to be flat in the immediate short term, which as we discuss in the coming sections, also lays in tandem with our assessment of the situation. The second forecast, however, produces some intriguing results. We observe that although there was an initial divergence between the forecasted and actual trajectory, the latter coincided with the former within a short period of time. However, the divergence between the two has emerged yet again and we believe that if the index were to break out of the consolidation levels, we could witness the forecasted trajectory on the upside to follow.  
+ 
+ 
+Forecast Analysis 
+Forecast Analysis 
+ 
+Graph 3: Forecasted trajectory of the Shanghai Composite for one month(Toggle.ai as on  25/12/2021) 
+Graph 3: Forecasted trajectory of the Shanghai Composite for one month( 
+Toggle.ai 
+ as on  25/12/2021) 
+ 
+We have used TOGGLE.AI’s interface to forecast the index’s price. TOGGLE.AI uses AI to identify key periods in the stock’s historic price action that reflect the current price action. This is shown by the blue vertical bars. 
+We have used TOGGLE.AI’s interface to forecast the index’s price. TOGGLE.AI uses AI to identify key periods in the stock’s historic price action that reflect the current price action. This is shown by the blue vertical bars. 
+ 
+The 1 month forecast shows the index is expected to grow in a linear fashion. This indicates that the companies that make the index are expected to grow in a slow yet stable manner. Furthermore, a linear expectation demonstrates that the index is unlikely to be impacted by shocks. 
+The 1 month forecast shows the index is expected to grow in a linear fashion. This indicates that the companies that make the index are expected to grow in a slow yet stable manner. Furthermore, a linear expectation demonstrates that the index is unlikely to be impacted by shocks. 
+ 
+Graph 4: Forecasted trajectory of the Shanghai Composite for one year (Toggle.ai as on  25/12/2021 
+Graph 4: Forecasted trajectory of the Shanghai Composite for one year ( 
+Toggle.ai 
+ as on  25/12/2021 
+ 
+This is further demonstrated in the 1 year forecast. The index grew rapidly in the beginning of July, yet this rapid growth is not seen as an inherent feature of the index’s price action. Instead, the index’s 1 year forecast follows the pattern of its 1 month forecast and is set to witness slow, smooth, and stable growth.  
+This is further demonstrated in the 1 year forecast. The index grew rapidly in the beginning of July, yet this rapid growth is not seen as an inherent feature of the index’s price action. Instead, the index’s 1 year forecast follows the pattern of its 1 month forecast and is set to witness slow, smooth, and stable growth.  
+ 
+ 
+Index Outlook 
+Index Outlook 
+ 
+Momentum Analysis 
+Momentum Analysis 
+ 
+Table 4: Momentum analysis for the Shanghai Composite (Toggle.ai  as on 25/12/2020)  
+Table 4: Momentum analysis 
+for the Shanghai Composite ( 
+Toggle.ai  
+ as on 25/12/2020)  
+ 
+Momentum refers to the velocity or the price change in a security’s price. It is meant to show the rate of change in the price movement over a specific period of time highlighting the strength of the trend. Resultantly, the numbers seem to suggest that the index is facing short term resistance as the levels have been considerably lower in comparison to their past 5 year performance. 
+Momentum refers to the velocity or the price change in a security’s price. It is meant to show the rate of change in the price movement over a specific period of time highlighting the strength of the trend. Resultantly, the numbers seem to suggest that the index is facing short term resistance as the levels have been considerably lower in comparison to their past 5 year performance. 
+ 
+However, we believe this may have to do with the relatively constrained global supply chains due to the pandemic. In fact, this line of argument is further balanced by the index's medium-to-long-term momentum numbers which on an aggregate basis are well above the 50% mark in terms of their past 5 year performance. 
+However, we believe this may have to do with the relatively constrained global supply chains due to the pandemic. In fact, this line of argument is further balanced by the  
+  
+ momentum numbers which on an aggregate basis are well above the 50% mark in terms of their past  
+ performance. 
+ 
+Support and Resistance Levels 
+Support and Resistance Levels 
+ 
+Graph 5: Support and Resistance analysis for the Shanghai Composite (Tradingview.com  as on 25/12/2020) 
+Graph 5: Support and Resistance analysis for the Shanghai Composite ( 
+Tradingview.com  
+ as on 25/12/2020) 
+ 
+As on the 24th December 2020, the Shanghai Composite closed at 3,363.1133, after having lost -0.57% by the end of the trading session. Ever since the index rallied by approximately 600 points resulting from the easing of social distancing measures and a pick up in both the Manufacturing and Services Orders in July, the index has been more or less consolidating between the 3,200 and 3,450 levels. As per our analysis, we believe that the immediate support and resistance for the index lay at 3,340 and 3,413 respectively (as shown by the yellow rectangles in Graph 5). Additionally we believe that some of the other crucial levels that could drive the movement of the index are 3,292 and 3,211 on the downside (as highlighted by the orange and yellow rectangles on the downside respectively)  and the 3,450 level on the upside (as shown by the orange rectangle on the upside).  
+As on the 24th December 2020, the Shanghai Composite closed at 3,363.1133, after having lost -0.57% by the end of the trading session. Ever since the index rallied by approximately 600 points resulting from the easing of social distancing measures and a pick up in both the Manufacturing and Services Orders in July, the index has been more or less consolidating between the 3,200 and 3,450 levels. As per our analysis, we believe that the immediate support and resistance for the index lay at 3,340 and 3,413 respectively (as shown by the yellow rectangles in Graph 5). Additionally we believe that some of the other crucial levels that could drive the movement of the index are 3,292 and 3,211 on the downside (as highlighted by the orange and yellow rectangles on the downside respectively)  and the 3,450 level on the upside (as shown by the orange rectangle on the upside).  
+ 
+Graph 6: Fibonacci Levels  for Shanghai Composite (Tradingview.com  as on 25/12/2020)  
+Graph 6: Fibonacci Levels  for Shanghai Composite ( 
+Tradingview.com 
+  as on 25/12/2020)  
+ 
+The strength of these levels is further guaranteed by plotting the Fibonnaci levels for the index on an upward basis (as shown in Graph 6). We observe that indeed, the 3,338 level is a 0.236 retracement level, followed by the 3,266 and 3,208 levels which are the 0.382 and 0.5 retracement levels, respectively. 
+The strength of these levels is further guaranteed by plotting the Fibonnaci levels for the index on an upward basis (as shown in Graph 6). We observe that indeed, the 3,338 level is a 0.236 retracement level, followed by the 3,266 and 3,208 levels which are the 0.382 and 0.5 retracement levels, respectively. 
+ 
+Trend and Pattern Analysis 
+Trend and Pattern Analysis 
+ 
+Graph 7: Trend Analysis for the Shanghai Composite (Tradingview.com as of 27/12/2020) 
+Graph 7: Trend Analysis for the Shanghai Composite ( 
+Tradingview.com 
+ as of 27/12/2020) 
+ 
+As with many global indices, the SSE Composite index also bottomed out in March, following the global pandemic, combined with heightened uncertainty of markets at the time, at a value of 2,660. After bottoming out, the index then entered a rising trendline from March until July, which was characterised by a strong support of 2,800, demonstrating that the index was relatively bullish in this period (as highlighted by orange lines in Graph 7). This is echoed by the three white soldiers pattern (as highlighted in purple in Graph 7) that emerged to form a large gap up over the course of 4 days from 1-5 July, with the price rising from 2,985 to 3,333 in this short period. Following this the index entered a relatively wide parallel channel with a support of 3,213 and a resistance of 3,420 (as highlighted by blue lines in Graph 7), which was breached briefly in August but was corrected via evening star pattern (as highlighted in yellow in Graph 7). 
+As with many global indices, the SSE Composite index also bottomed out in March, following the global pandemic, combined with heightened uncertainty of markets at the time, at a value of 2,660. After bottoming out, the index then entered a rising trendline from March until July, which was characterised by a strong support of 2,800, demonstrating that the index was relatively bullish in this period (as highlighted by orange lines in Graph 7). This is echoed by the three white soldiers pattern (as highlighted in purple in Graph 7) that emerged to form a large gap up over the course of 4 days from 1-5 July, with the price rising from 2,985 to 3,333 in this short period. Following this the index entered a relatively wide parallel channel with a support of 3,213 and a resistance of 3,420 (as highlighted by blue lines in Graph 7), which was breached briefly in August but was corrected via evening star pattern (as highlighted in yellow in Graph 7). 
+ 
+Graph 8: Black crows and higher-high higher-low formations (Tradingview.com as of 28/12/2020) 
+Graph 8: Black crows and higher-high higher-low formations ( 
+Tradingview.com 
+ as of 28/12/2020) 
+ 
+Over the last few weeks, the index has shown some bearish tendencies; namely the three black crows pattern that emerged between 7th and 9th December (as highlighted in Graph 8), however this downward trend is still certainly within the parallel channel aforementioned. The stock is currently at a neutral stage, as shown by the volatility within the channel. For example, through late November, the index demonstrated a higher-high higher-low formation (as highlighted in purple in Graph 8), showing bullish tendencies,  but the index has remained somewhat neutral since this, as the three white soldiers highlighted in early December have been offset by bearish haramis and evening star formations in the candlesticks. 
+Over the last few weeks, the index has shown some bearish tendencies; namely the three black crows pattern that emerged between 7th and 9th December (as highlighted in Graph 8), however this downward trend is still certainly within the parallel channel aforementioned. The stock is currently at a neutral stage, as shown by the volatility within the channel. For example, through late November, the index demonstrated a higher-high higher-low formation (as highlighted in purple in Graph 8), showing bullish tendencies,  but the index has remained somewhat neutral since this, as the three white soldiers highlighted in early December have been offset by bearish haramis and evening star formations in the candlesticks. 
+ 
+Bollinger Band Analysis 
+Bollinger Band Analysis 
+ 
+Graph 9: Bollinger Band analysis for the Shanghai Composite (Tradingview.com  as on 25/12/2020) 
+Graph 9: Bollinger Band analysis for the Shanghai Composite ( 
+Tradingview.com 
+  as on 25/12/2020) 
+ 
+The Bollinger Band analysis for the Shanghai Composite is testament to the consolidation phase the index has been witnessing for the past four months. As seen in Graph x, the price action has been well intact with the 20dMA and has been embedded within the +(-) 2 SD bounds of the Bollinger Band. Additionally, we observe that both the upper (as shown by the horizontal blue line) as well as the lower bound have been acting as a straight resistance and support respectively. Hence, we conclude that unless these bounds are convincingly broken and the price action dismantles the ‘squeeze’ - the consolidation phase is most likely to continue. 
+The Bollinger Band analysis for the Shanghai Composite is testament to the consolidation phase the index has been witnessing for the past four months. As seen in Graph x, the price action has been well intact with the 20dMA and has been embedded within the +(-) 2 SD bounds of the Bollinger Band. Additionally, we observe that both the upper (as shown by the horizontal blue line) as well as the lower bound have been acting as a straight resistance and support respectively. Hence, we conclude that unless these bounds are convincingly broken and the price action dismantles the ‘squeeze’ - the consolidation phase is most likely to continue. 
+ 
+Exponential Moving Average and DMI Analysis 
+Exponential Moving Average and DMI Analysis 
+ 
+Graph 10: 9-days, 21-days, AND 55-days Exponential Moving Average and MACD of SSE (Investing.com as on 30/12/2020) 
+Graph 10: 9-days, 21-days 
+ AND 55-days Exponential Moving Average and MACD of SSE (Investing.com as on 30/12/2020) 
+ 
+Next, we plot the 9, 21, and 55dEMAs to further analyse the current situation. Subsequently, we observe that the recent cumulative trajectory of all three of these indicators has been extremely flat, lacking the formation of any significant crossovers -  perhaps due to the consolidation phase. Resultantly, we conclude that there exist no evident signals that can be derived from these EMA movements for the short-term.  
+Next, we plot the 9, 21 
+ and 55dEMAs to further analyse the current situation. Subsequently, we observe that the recent cumulative trajectory of all three of these indicators has been extremely flat, lacking the formation of any significant crossovers -  perhaps due to the consolidation phase. Resultantly, we conclude that there exist no evident signals that can be derived from these EMA movements for the short-term.  
+ 
+In fact, we make similar conclusions after having analysed the MACD. The difference between the fast and slow moving averages has been extremely minimal in the last three months, leading to a loss of power of the crossovers between them. Hence, we believe it’s best to wait and analyse further movements that may drive the index in either direction. 
+In fact, we make similar conclusions after having analysed the MACD. The difference between the fast and slow moving averages has been extremely minimal in the last three months, leading to a loss of power of the crossovers between them. Hence, we believe it’s best to wait and analyse further movements that may drive the index in either direction. 
+ 
+RSI and Stochastic Analysis 
+RSI and Stochastic Analysis 
+ 
+Graph 11: RSI and Stochastic Analysis for the Shanghai Composite (Tradingview.com  as on 25/12/2020) 
+Graph 11: RSI and Stochastic Analysis for the Shanghai Composite ( 
+Tradingview.com 
+  as on 25/12/2020) 
+ 
+Finally, we would like to end this report with a note on the movements of the RSI and the Stochastic Oscillator for the Shanghai Composite. As for the RSI, we observe that the indicator recently tested its support level mark of 45.75. Historic movements suggest that that the index hardly sustains a breach below that level, because of which furthers the case for continued consolidation from the current level in the coming days. In terms of the movement of the Stochastic Oscillator, we conclude that the index has definitely witnessed a dominant selling pressure in the middle of December because of which the Oscillator touched the 20 level bound and remains well within the 30-40 level bound. Resultantly, we conclude that although some buying might push both of these indices towards the upside, they will most likely continue to remain in the neutral zone. 
+Finally, we would like to end this report with a note on the movements of the RSI and the Stochastic Oscillator for the Shanghai Composite. As for the RSI, we observe that the indicator recently tested its support level mark of 45.75. Historic movements suggest that that the index hardly sustains a breach below that level, because of which furthers the case for continued consolidation from the current level in the coming days. In terms of the movement of the Stochastic Oscillator, we conclude that the index has definitely witnessed a dominant selling pressure in the middle of December because of which the Oscillator touched the 20 level bound and remains well within the 30-40 level bound. Resultantly, we conclude that although some buying might push both of these indices towards the upside, they will most likely continue to remain in the neutral zone. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+ 
+https://www.toggle.global/ 
+
+Shanghai Stock Exchange (SSE) Composite  
+https://markets.ft.com/data/indices/tearsheet/summary?s=SHI:SHH 
+
+weighting 
+https://disfold.com/top-companies-china-sse/ 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai 
+https://toggle.ai/f/t/shcomp 
+
+Toggle.ai  
+https://toggle.ai/f/t/shcomp 
+
+Tradingview.com  
+https://in.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://in.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://in.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://in.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://in.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://in.tradingview.com/chart/nF6T7tvY/ 
+

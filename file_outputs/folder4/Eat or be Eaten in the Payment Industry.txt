@@ -1,0 +1,277 @@
+Eat or be Eaten in the Payment IndustryJul 15, 2020 
+8 min read 
+Eat or be Eaten in the Payment Industry 
+Eat or be Eaten in the Payment Industry 
+By Julius Kalvelage (WHU - Otto Beisheim School of Management) 
+By Julius Kalvelage (WHU - Otto Beisheim School of Management) 
+ 
+ 
+Trend Summary  
+Trend Summary  
+ 
+In the last 10 years, the market environment has changed and apart from banking players such as Barclaycard, Crédit Agricole and Credit Mutuel, comparatively new firms such as Worldpay, Worldline, SIA, Ingenico, Adyen, and Wirecard have grown substantially. Payment solution providers like mobile wallets and processor firms are all beneficiaries of digitalization, with payment volumes being on the rise due to the structural shift away from cash. In recent years, we have seen many companies from this sector consolidating intensively with most acquisitions being undertaken in the search for innovation and broadening of the product offerings to foster growth. In general, there are two underlying drivers for this phenomenon. Firstly, interchange regulations and rising competition are leading to greater pressure on margins. Secondly, the dynamics inside the industry are changing with small niches becoming extremely important for traditional players. In this framework, consolidation seems the only way for companies to grow and survive in such a fragmented industry.  
+In the last 10 years, the market environment has changed and apart from banking players such as Barclaycard, Crédit Agricole and Credit Mutuel, comparatively new firms such as Worldpay, Worldline, SIA, Ingenico, Adyen, and Wirecard have grown substantially. Payment solution providers like mobile wallets and processor firms are all beneficiaries of digitalization, with payment volumes being on the rise due to the structural shift away from cash. In recent years, we have seen many companies from this sector consolidating intensively with most acquisitions being undertaken in the search for innovation and broadening of the product offerings to foster growth. In general, there are two underlying drivers for this phenomenon. Firstly, interchange regulations and rising competition are leading to greater pressure on margins. Secondly, the dynamics inside the industry are changing with small niches becoming extremely important for traditional players. In this framework, consolidation seems the only way for companies to grow and survive in such a fragmented industry. 
+ 
+Source: Financial Times (Financial Times) 
+Source: Financial Times ( 
+ 
+Source: Oliver Wyman (Oliver Wyman) 
+Source: Oliver Wyman ( 
+ 
+ 
+ 
+Trend Overview  
+Trend Overview  
+ 
+The payment industry is changing. With new customers whose needs are difficult to meet, higher threat of new entrants and offerings for traditional products eroding in profitability, consolidation seems the only way for companies to build capabilities, overcome the slowdown of their original product offering and retain their competitive position.  
+The payment industry is changing. With new customers whose needs are difficult to meet, higher threat of new entrants and offerings for traditional products eroding in profitability, consolidation seems the only way for companies to build capabilities, overcome the slowdown of their original product offering and retain their competitive position.  
+ 
+Firstly, accelerated growth in non-traditional sectors is leading to a surge of M&A activity. There are specific B2C and B2B industries that are growing rapidly. The sectors with the highest growth are B2C e-commerce with an expected CAGR of over 15% throughout the next 4 years and marketplace payouts to SMEs for B2B, at a CAGR of roughly 10%. The demand for increasingly sophisticated payment solutions coming from this field is rising; so is the number of new providers entering the market to address the corresponding pain points. As these sectors tend to be outside of the traditional player’s established base, companies turn to M&A to acquire capabilities and to optimize operating leverage through economies of scale. 
+Firstly, accelerated growth in non-traditional sectors is leading to a surge of M&A activity. There are specific B2C and B2B industries that are growing rapidly. The sectors with the highest growth are B2C e-commerce with an expected CAGR of over 15% throughout the next 4 years and marketplace payouts to SMEs for B2B, at a CAGR of roughly 10%. The demand for increasingly sophisticated payment solutions coming from this field is rising; so is the number of new providers entering the market to address the corresponding pain points. As these sectors tend to be outside of the traditional player’s established base, companies turn to M&A to acquire capabilities and to optimize operating leverage through economies of scale. 
+ 
+Secondly, M&A activity is high because of the rising interest in non-traditional companies and the need of firms to position themselves well. Working in such a fragmented industry with a rising number of entrants, leads to a sectoral increase in payment solutions, which are at first combined from different suppliers to build a company's infrastructure. As a result, customers -- small and medium-sized enterprises (SMEs) -- have an increasing demand for affordable solutions that streamline their processes across the entire firm. This happens because an omnichannel approach to payments works better with today’s shopping behaviours.  
+Secondly, M&A activity is high because of the rising interest in non-traditional companies and the need of firms to position themselves well. Working in such a fragmented industry with a rising number of entrants, leads to a sectoral increase in payment solutions, which are at first combined from different suppliers to build a company's infrastructure. As a result, customers -- small and medium-sized enterprises (SMEs) -- have an increasing demand for affordable solutions that streamline their processes across the entire firm. This happens because an omnichannel approach to payments works better with today’s shopping behaviours.  
+ 
+As SMEs experience a rapid increase in cash flows over electronic payments and tend to pay more for the products per transaction, they will move closer the focal point of payment solution providers’ attention.  
+As SMEs experience a rapid increase in cash flows over electronic payments and tend to pay more for the products per transaction, they will move closer the focal point of payment solution providers’ attention.  
+ 
+In addition, providing services to the large customers has become increasingly commoditized. This in turn has increased M&A activity. Niches in this industry can yield above average returns. Consolidation enables companies to offer not only one solution to these companies but several solutions. M&A activity is, thus, playing out with the goal of improving the customer proposition, facilitating access to multiple technologies and building scale as companies are trying to conquer the industry.  
+In addition, providing services to the large customers has become increasingly commoditized. 
+This in turn has increased M&A activity. Niches in this industry can yield above average returns. Consolidation enables companies to offer not only one solution to these companies but several solutions. M&A activity is, thus, playing out with the goal of improving the customer proposition, facilitating access to multiple technologies and building scale as companies are trying to conquer the industry.  
+ 
+ 
+Key Drivers  
+Key Drivers  
+ 
+In the payment industry, consolidation is led by two main drivers: tightened interchange regulations and rising competition, and structural changes inside the industry.  
+In the payment industry, consolidation is led by two main drivers: tightened interchange regulations and rising competition, and structural changes inside the industry.  
+ 
+The need for scale and cost efficiency has become more acute as both interchange regulation and rising competitive pressure have restricted companies’ ability to use prices as a means for revenue management. Focus has therefore shifted to the costs side: as the payment industry is a scale business by nature, more and more firms are aiming to spread their fixed costs over an increasing volume base. 
+The need for scale and cost efficiency has become more acute as both interchange regulation and rising competitive pressure have restricted companies’ ability to use prices as a means for revenue management. Focus has therefore shifted to the costs side: as the payment industry is a scale business by nature, more and more firms are aiming to spread their fixed costs over an increasing volume base. 
+ 
+Regulation on interchange fees -- fees that a merchant bank needs to pay each time a customer purchases something -- ensures that these fees are capped at a specific level such that the average costs incurred by the retailer during a cash transaction do not exceed the cost incurred during a credit card transaction.  
+Regulation on interchange fees -- fees that a merchant bank needs to pay each time a customer purchases something -- ensures that these fees are capped at a specific level such that the average costs incurred by the retailer during a cash transaction do not exceed the cost incurred during a credit card transaction.  
+ 
+The introduction of a series of tightened regulations such as the EU MIF Regulation has significantly limited a  processor's ability to earn money from transaction-based fees. s processing higher volumes on fixed costs allows the providers to offset this pressure, scale has become vital.  
+The introduction of a series of tightened regulations such as the EU MIF Regulation has significantly limited a  processor's ability to earn money from transaction-based fees. s processing higher volumes on fixed costs allows the providers to offset this pressure, scale has become vital.  
+ 
+Furthermore, the increasing competitive pressure from new niche-market players and industry crossovers is pushing down margins, in two different ways.  
+Furthermore, the increasing competitive pressure from new niche-market players and industry crossovers is pushing down margins, in two different ways.  
+ 
+Firstly, the blurring of lines between different payment types, a phenomenon caused by the continuous transformation of the payment industry and the leverage of non-traditional business models by the players in the industry, gives way to bold entry moves by non-bank players. With such changing dynamics, competition is rising, exerting pressure on margins. 
+Firstly, the blurring of lines between different payment types, a phenomenon caused by the continuous transformation of the payment industry and the leverage of non-traditional business models by the players in the industry, gives way to bold entry moves by non-bank players. With such changing dynamics, competition is rising, exerting pressure on margins. 
+ 
+Secondly, the changing trust relationship in the industry is reducing the barriers to entry.  Back in the day, new entrants had to work hard on creating superior customer experience to lead customers away from their originally trusted partners. Recently, different surveys indicated that this advantage is eroding as consumers have become more comfortable with entrusting their financial information to new non-bank business models. This clearly lowers barriers to entry for new non-bank players, while raising the bar for the incumbent ones.  
+Secondly, the changing trust relationship in the industry is reducing the barriers to entry.  Back in the day, new entrants had to work hard on creating superior customer experience to lead customers away from their originally trusted partners. Recently, different surveys indicated that this advantage is eroding as consumers have become more comfortable with entrusting their financial information to new non-bank business models. This clearly lowers barriers to entry for new non-bank players, while raising the bar for the incumbent ones.  
+ 
+In addition, big tech are entering the industry as well.  With Apple introducing Apple Pay, Amazon offering a wide range of financial services -- Amazon Lending, Amazon Cash, Amazon Pay and Amazon Reload--Facebook having Libra and Google using Google Pay, the threat of incumbents in the payment industry is significantly rising. Moreover, the fact Asian players such as WeChat and Alibaba are also on the run, further exacerbates it.  
+In addition, big tech are entering the industry as well.  With Apple introducing Apple Pay, Amazon offering a wide range of financial services -- Amazon Lending, Amazon Cash, Amazon Pay and Amazon Reload--Facebook having Libra and Google using Google Pay, the threat of incumbents in the payment industry is significantly rising. Moreover, the fact Asian players such as WeChat and Alibaba are also on the run, further exacerbates it.  
+ 
+Given the aforementioned trends, it seems clear that consolidation is a natural tactic to protect and expand their businesses as well as to acquire new customers. Unless firms engage in such relevant tactics, they may sooner or later go bankrupt or get eaten by larger players in the market. Scale is thus vital.  
+Given the aforementioned trends, it seems clear that consolidation is a natural tactic to protect and expand their businesses as well as to acquire new customers. Unless firms engage in such relevant tactics, they may sooner or later go bankrupt or get eaten by larger players in the market. Scale is thus vital.  
+ 
+"You need to do deals because the amount of investment needed to keep up is going to make you unprofitable otherwise. If you don’t invest, you’ll be out of the market very soon." 
+"You need to do deals because the amount of investment needed to keep up is going to make you unprofitable otherwise. If you don’t invest, you’ll be out of the market very soon." 
+Jeff Sloan, CEO of Global Payments  
+Jeff Sloan, CEO of Global Payments  
+ 
+ 
+Further Trend Analysis  
+Further Trend Analysis  
+ 
+The ongoing consolidation trend is likely to further blur the lines of the payments value chain,  a move that may be necessary to offer clients a fully integrated product. A prime example of this development is represented by the $26 billion merger between TSYS and Global Payments, with a greater focus on merchants. Worldline and Ingenico represent another important example. The two companies have strengths in different part of the value chain: Worldline is a leader in payments software, while Ingenico specialises in merchant hardware and online transactions (as we can see from the graph below).  
+The ongoing consolidation trend is likely to further blur the lines of the payments value chain,  a move that may be necessary to offer clients a fully integrated product. A prime example of this development is represented by the $26 billion merger between TSYS and Global Payments, with a greater focus on merchants. Worldline and Ingenico represent another important example. The two companies have strengths in different part of the value chain: Worldline is a leader in payments software, while Ingenico specialises in merchant hardware and online transactions (as we can see from the graph below).  
+There are still many companies that have a lot to gain from a broader product portfolio as well as additional scale and whose capabilities and value chain positions may be more efficient elsewhere. 
+There are still many companies that have a lot to gain from a broader product portfolio as well as additional scale and whose capabilities and value chain positions may be more efficient elsewhere. 
+ 
+Source: Financial Times (Financial Times) 
+Source: Financial Times ( 
+ 
+ 
+The underlying drivers behind the shift from cash to digital payments, the scale generating growth and the rapid expansion of the SME sector are considered to be secular and for the most part self-sustaining. The pressure to consolidate may be felt most strongly by incumbent players that have not yet participated in strategic partnerships; only time will tell whether their stand-alone strategy will become a sustainable source of differentiation --for example, through a more agile customer orientation -- or a limitation in terms of scale and reach. Regardless of the outcome, such specialized companies are likely to be seen as attractive targets in the coming years. As a consequence, there will be more deals coming, especially in Europe, where the industry is extremely fragmented.  
+The underlying drivers behind the shift from cash to digital payments, the scale generating growth and the rapid expansion of the SME sector are considered to be secular and for the most part self-sustaining. The pressure to consolidate may be felt most strongly by incumbent players that have not yet participated in strategic partnerships; only time will tell whether their stand-alone strategy will become a sustainable source of differentiation --for example, through a more agile customer orientation -- or a limitation in terms of scale and reach. Regardless of the outcome, such specialized companies are likely to be seen as attractive targets in the coming years. As a consequence, there will be more deals coming, especially in Europe, where the industry is extremely fragmented.  
+ 
+Moreover, cross-border transactions will become increasingly common, with Asia Pacific Region having the strongest forecasted growth. Acquiring competitors overseas provide companies with a beachhead in new and unknown markets: they get access to new customers and capabilities and can fully exploit economies of scale. The $12 billion acquisition of UK based Worldpay by US American Vantiv is just an example of such deals.  
+Moreover, cross-border transactions will become increasingly common, with Asia Pacific Region having the strongest forecasted growth. Acquiring competitors overseas provide companies with a beachhead in new and unknown markets: they get access to new customers and capabilities and can fully exploit economies of scale. The $12 billion acquisition of UK based Worldpay by US American Vantiv is just an example of such deals.  
+ 
+Source: Financial Times (Financial Times) 
+Source: Financial Times  
+ 
+ 
+ 
+Relevant Acquisitions  
+Relevant Acquisitions  
+ 
+Fidelity / Worldpay 
+Fidelity / Worldpay 
+Announcement Date: 18/03/2019 
+Announcement Date: 
+18/03/2019 
+Acquirer: Fidelity 
+Acquirer: Fidelity 
+Target: Worldpay 
+Target: Worldpay 
+Acquirer Advisors:  Barclays, Centerview Partners, Goldman Sachs 
+Acquirer Advisors:  
+Barclays, Centerview Partners, Goldman Sachs 
+Target Advisors:  Morgan Stanley, Credit Suisse 
+Target Advisors:  
+Morgan Stanley, Credit Suisse 
+Value: $42.584 billion 
+Value: $42.584 billion 
+Cash or Stock: $3.422 billion Cash / $31.454 billion Stock 
+Cash or Stock: 
+$3.422 billion Cash / $31.454 billion Stock 
+Rationale: 
+Rationale: 
+The transaction will increase Fidelity’s business capabilities and Worldpay’s distribution footprint.  
+$700 million synergies from combination of revenue and expenses over next three years. 
+Worldpay offerings are complementary to FIS’ existing products and services. 
+ 
+Fiserv / First Data 
+Fiserv / First Data 
+Announcement Date: 16/01/2019 
+Announcement Date: 
+16/01/2019 
+Acquirer: Fiserv 
+Acquirer: Fiserv 
+Target: First Data 
+Target: First Data 
+Acquirer Advisors: JPMorgan 
+Acquirer Advisors: JPMorgan 
+Target Advisors: Bank of America, Evercore 
+Target Advisors: Bank of America, Evercore 
+Value: $38.448 billion 
+Value: $38.448 billion 
+Cash or Stock: All Stock 
+Cash or Stock: 
+All Stock 
+Rationale: 
+Rationale: 
+First Data’s excellence in merchant acquiring and global issuing services will support the enhanced value proposition for the combined clients and customers. 
+The combined company will have enhanced payments capabilities to provide a range of payments and financial services. 
+ 
+Global Payments / Total System Services 
+Global Payments / Total System Services 
+Announcement Date: 28/05/2019 
+Announcement Date: 
+28/05/2019 
+Acquirer: Global Payments 
+Acquirer: Global Payments 
+Target: Total System Services 
+Target: Total System Services 
+Acquirer Advisors: Bank of America, JPMorgan 
+Acquirer Advisors: Bank of America, JPMorgan 
+Target Advisors: Goldman Sachs, Greenhill 
+Target Advisors: Goldman Sachs, Greenhill 
+Value: $25.719 billion 
+Value: $25.719 billion 
+Cash or Stock: All Stock 
+Cash or Stock: 
+All Stock 
+Rationale: 
+Rationale: 
+The merger will create a company with extensive scale and global reach, enhancing the growth in consumers for both the companies. 
+GPI will benefit from payment facilitation technologies of TSYS and have significant cross-sell opportunities with the issuer solutions business of TSYS. 
+TSYS will expand GPI’s ecommerce and omnichannel solutions in the US and provide it with access to the fastest growing digital payments trends. 
+TSYS’ consumer and issuer solutions businesses will provide a new avenue for growth to GPI through two new segments of business-to-business and person-to-person digital payment trends. 
+GPI expects to accelerate TSYS’ modernization efforts and legacy of innovation in card issuing to advance its payment strategies. 
+ 
+Vantiv / Worldpay 
+Vantiv / Worldpay 
+Announcement Date: 09/08/2017 
+Announcement Date: 
+09/08/2017 
+Acquirer: Vantiv 
+Acquirer: Vantiv 
+Target: Worldpay 
+Target: Worldpay 
+Acquirer Advisors: Houlihan Lokey, Credit Suisse, Morgan Stanley 
+Acquirer Advisors: Houlihan Lokey, Credit Suisse, Morgan Stanley 
+Target Advisors: Barclays, Goldman Sachs 
+Target Advisors: Barclays, Goldman Sachs 
+Value: $12.014 billion 
+Value: $12.014 billion 
+Cash or Stock: $1.430 billion Cash / $8.765 billion Stock 
+Cash or Stock: 
+$1.430 billion Cash / $8.765 billion Stock 
+Rationale: 
+Rationale: 
+The combination is expected to allow for increased scale and global presence. 
+Pre-tax cost synergies of $200 million are anticipated to be fully realised by the end of the third year following the merger: 63% from combining US business, 22% from consolidation of corporate functions, 15% from consolidating other regional businesses. 
+ 
+Worldline / Ingenico 
+Worldline / Ingenico 
+Announcement Date: 03/02/2020  
+Announcement Date: 
+03/02/2020 
+Acquirer: Worldline 
+Acquirer: Worldline 
+Target: Ingenico 
+Target: Ingenico 
+Acquirer Advisors: Bank of America, BNP Paribas, Cardinal Partners, Morgan Stanley 
+Acquirer Advisors: Bank of America, BNP Paribas, Cardinal Partners, Morgan Stanley 
+Target Advisors: Goldman Sachs, Rothschild 
+Target Advisors: Goldman Sachs, Rothschild 
+Value: $10.128 billion 
+Value: $10.128 billion 
+Cash or Stock: $1.617 billion Cash / $7.064 billion Stock 
+Cash or Stock: 
+$1.617 billion Cash / $7.064 billion Stock 
+Rationale: 
+Rationale: 
+The acquisition of Ingenico will accelerate Worldline growth in Merchant Services which would represent 49% of the combined revenues. Ca. 30% of combined merchant services revenue would be in the online business.  
+Worldline will consolidate its existing position within the European payments landscape, reaching 20% European market share in Financial Services.  
+Worldline is expected to become the number 3 online payment acceptance provider in Europe.  
+Worldline will expand its geographical footprint, entering US markets and reinforcing its exposure to merchants in Latin America and Asia Pacific and expanding in low card penetrated countries.  
+Synergies are expected to be around  €250 million run-rate in 2024 consisting of €220 million incremental run-rate OMDA (Operating Margin Before Depreciation and Amortization) - of which ca. 30% would be achieved in 2021 and more than 50% in 2022 - and EUR 30m run rate cash savings expected from capex optimization. 
+The EUR 220m run rate OMDA synergies consist of: €190 million of cost synergies (IT infrastructure, support functions combination, procurement and operational best practices) and €30 million of revenue expansion. 
+Worldline expects the transaction to generate a double-digit EPS accretion from year 1. 
+ 
+PayPal / iZettle 
+PayPal / iZettle 
+Announcement Date: 17/05/2018 
+Announcement Date: 
+17/05/2018 
+Acquirer: PayPal 
+Acquirer: PayPal 
+Target: iZettle 
+Target: iZettle 
+Acquirer Advisors: Evercore 
+Acquirer Advisors: Evercore 
+Target Advisors: JPMorgan 
+Target Advisors: JPMorgan 
+Value: $2.2 billion 
+Value: $2.2 billion 
+Cash or Stock: All Cash 
+Cash or Stock: 
+All Cash 
+Rationale: 
+Rationale: 
+The acquisition will expand PayPal’s in-store presence and accelerate omnichannel commerce solutions in Australia, UK and US. 
+It will allow iZettle to broaden its product offering and deliver a greater value to small businesses. 
+The acquisition will give PayPal access to iZettle in-store expertise so as  to further expand its market opportunities and be a global one-stop solution for omnichannel commerce. 
+The acquisition will give PayPal in-store capabilities in 11 new markets.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Financial Times 
+https://www.ft.com/content/e9966946-486e-11ea-aee2-9ddbdc86190d 
+
+Oliver Wyman 
+https://www.oliverwyman.com/our-expertise/insights/2018/dec/european-consolidation-in-payments.html 
+
+Financial Times 
+https://www.ft.com/content/6c637c1d-e4eb-4c86-98c4-68d099937280 
+
+Financial Times 
+https://www.ft.com/content/e9966946-486e-11ea-aee2-9ddbdc86190d 
+

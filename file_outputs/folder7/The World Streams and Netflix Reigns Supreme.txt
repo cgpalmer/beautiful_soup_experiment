@@ -1,0 +1,333 @@
+The World Streams and Netflix Reigns SupremeSep 28, 2020 
+24 min read 
+The World Streams and Netflix Reigns Supreme 
+The World Streams and Netflix Reigns Supreme 
+By Noah Al-Hachich (WU - Vienna University of Economics and Business), Charlie Solnik (California Polytechnic University), Harrison Fries (New York University Shanghai), and Dylan Litt (New York University Stern School of Business) 
+ 
+Company Profile 
+ 
+Brief Overview 
+ 
+Netflix is a leading streaming entertainment service with 193 million paid memberships across 190 countries. They offer a variety of TV series, documentaries, and feature films in a multitude of different genres and languages. The subscription fee the company charges enables them to offer all of this content ad-free and funds their own original productions, which accompany the non-exclusive titles on the platform. 
+ 
+ 
+Product Pipeline 
+ 
+This August, Netflix is releasing new seasons for some of their more well-established shows. Lucifer will be getting its fifth season, The Seven Deadly Sins it's fourth, and Selling Sunset its third along with a couple of other shows getting their second seasons. There is no material decline in product releases due to COVID-19 as Netflix has a solid release roster for the foreseeable future. However, that is subject to change as the production of highly anticipated Netflix originals such as Stranger Things and Succession has been delayed significantly. Recent reopenings seem to bode well as Netflix is able to continue production in some foreign countries such as Korea, Japan, and Iceland.  
+ 
+Revenue Model 
+ 
+Netflix’s revenue model centers around the subscription fees they charge customers. They have three different streaming subscription plans: basic, standard, and premium. 
+ 
+The prices for the different subscriptions range between $9 to $16, with each successive plan offering more users to stream simultaneously on an account and higher video quality. In addition to the streaming subscriptions, Netflix offers DVD rental plans. The standard DVD plan allows the rental of one DVD at a time and the premier plan allows for two. These are priced at $8 and $12 respectively. 
+ 
+M&A History 
+ 
+In our conversation with Alan Gould, a leading services industry analyst from Loop Capital, he told us that Netflix CEO Reed Hastings has historically been against the practice of acquisitions. Netflix has historically adhered to a model focused on organic growth. That being said, the company made a small exception this May when Netflix acquired the Egyptian Theatre in Hollywood, CA. The theater is an iconic Hollywood landmark, having been noted as the location of the first-ever Hollywood premiere. Thus, it seems fitting that Netflix makes its “Hollywood debut” with the acquisition of this theater. 
+ 
+In the past, other movie chains such as AMC and Regal had been reluctant to play films from the streaming service, since Netflix wouldn’t adhere to the same exclusive windows that other studios abide by.  If Netflix is unable to display their films in theaters, the films are barred from participating in many major film awards shows such as the Oscars. Previously, the theatrical exclusivity periods were 90 days, which Netflix considered too long to show movies exclusively in theaters before releasing them on their streaming platform. However, AMC and Universal recently agreed to shorten that period to 17 days, recognizing a trend towards SVOD movie consumption. While the shortening of this period was previously material to Netflix’s movie releases, with their acquisition of the Egyptian Theatre, Netflix will be able to bypass the theater exclusivity period altogether, by premiering their films in their own theatre. This will also allow them to participate in major film awards shows that serve as a marketing opportunity, lending their brand and productions credibility.  
+ 
+Management Changes 
+ 
+In their second-quarter earnings release, Netflix appointed Ted Sarandos as a new co-CEO alongside founder and co-founder, Reed Hastings. With the appointment of Ted Sarandos, many are saying the promotion is simply a formality, as Sarandos has played an instrumental role in running Netflix for years. Others are saying the appointment could be laying the foundation for Hastings' eventual departure from the company. 
+ 
+The co-CEO model is a fairly atypical management structure that a few other notable companies such as SAP, Salesforce, and SoftBank have experimented with. The idea behind having two CEOs is the potential for them to split duties and specialize, working with what they know best. Putting two people into the role of CEO is also supposed to lessen the burden that would normally fall upon a single CEO, allowing them to devote more time to any given issue or project. Historically, while some of the benefits of the co-CEO model have been true, the fatal flaw in the model is inherent in its structure. Having two CEOs means having two bosses, which in the past, has meant mixed messages, incongruent policies, and split management decisions. Netflix’s co-CEO structure seems to differ from the other failed attempts considering Ted Sarandos has functionally been operating as a CEO and the appointment is simply making his title official. 
+ 
+Key Suppliers 
+ 
+While Netflix produces some of its own content, the majority of the titles available on Netflix are sourced through licensing deals with other production companies. Notable titles such as Friends and The Office are being withdrawn from Netflix’s title offerings as other studios and production companies pursue their own streaming services. That being said, here are a few of Netflix’s key suppliers: 
+ 
+ABC Studio: The network owned by Disney has used all of its licenses and talents to good use over the years. While a large number of ABC titles have been moved from Netflix to Disney’s streaming service, Disney+, a few hit series have remained such as Grey’s Anatomy and How to Get Away With Murder. It remains to be seen whether or not these titles will remain on Netflix. 
+ 
+Comcast: Like many other key content suppliers for Netflix, Comcast has been pursuing their own streaming platform via Xfinity Stream. While many of Netflix’s most popular shows were made by NBCUniversal, most of them are in the process of being migrated to a variety of different streaming services. Shows like The Office and Friends which were integral in Netflix’s rise to prominence are either in the process of being moved or already have moved. Despite this, Comcast still provides Netflix with a plethora of titles, however, it is very likely that these shows will only be on Netflix for a short time before they too are migrated. 
+ 
+ 
+Industry Overview 
+ 
+Market Overview 
+ 
+Netflix belongs solidly in the subscription video on demand industry (SVOD), but when describing the company’s competition CEO Reed Hastings has said “but think about if you didn’t watch Netflix last night: What did you do? There’s such a broad range of things that you did to relax and unwind, hang out, and connect–and we compete with all of that.” This comment from Hastings represents Netflix’s role as an entertainment outlet of last resort, when consumers have nothing else to do they turn to Netflix.  
+ 
+It was evident during the lockdowns this spring that Netflix is a pandemic and recession-resistant product, when other activities are eliminated people turn to staying inside and watching TV. This was a boon for Netflix, its  SVOD competitors, and other at-home entertainment companies that produce content such as books and video games. With its wide variety of content, Netflix is likely to be the last SVOD subscription that consumers eliminate, meaning that if budgets are tight, its competitors will likely lose a greater proportion of their subscriber base. 
+ 
+Figure 1: Fragmentation & Industry Dynamics (Statista) 
+ 
+Due to an intense competition deemed “The Streaming Wars”, Netflix’s biggest competitors are all currently losing money in an effort to take market share. In 2019 the industry was largely controlled by the three early movers, Netflix, Amazon Prime Video, and Hulu made up 70% of SVOD usage. With the wave of new entrants in 2020, the industry will likely become significantly more fragmented and the incumbents’ market share will fall.  
+ 
+ 
+Main Competitors 
+ 
+Netflix competes with entertainment services in terms of video offerings and consumer time/attention, but also with other content producers in producing or obtaining the best and largest amount of content for its platform.  
+ 
+We need to distinguish between internal and external competition. Internal competition is “genuine”, ordinary competitors who provide entertainment video services, including multichannel video programming distributors (“MVPDs”) and streaming entertainment providers (SVOD - subscription-video-on-demand). The three most important players besides Netflix are Amazon Prime Video, Hulu and Disney+. 
+ 
+Amazon Prime Video: As a part of Amazon Prime, Prime Video already has 150m+ subscribers, only slightly behind Netflix’s ca. 190m. In terms of price, it comes close to Netflix but is cheaper (9$ for regular users, 6.50$ for students). Amazon is so dangerous because almost everybody uses Amazon for e-commerce purchases and benefits from free shipping, which Prime offers. Prime Video is a perfect cross-selling opportunity - users want the free shipping anyway, and gladly take the video offering as well, making Netflix and other streaming services irrelevant for them. They get free shipping and Prime Video for $13, which is in the range of Netflix’s more expensive products. 
+ 
+Hulu: Owned by Walt Disney, Hulu has a differentiated business model compared to Netflix, as it also targets TV viewers and offers TV channels on their platform. While the direct competitor product comes at a quite cheaper price tag, 6$, compared to 9$ for Netflix. Hulu is a formidable competitor as it has a cheaper price for a similar basic offering, targeting price-sensitive customers. a potentially much broader customer group as it also targets TV fans. Hulu has 80,000+ series episodes and movies on their platform. It benefits from cross-product offerings because it has Walt Disney as shareholders, they offer bundle packages with Disney owned Disney+ and ESPN+. In terms of their original content offering, they do not produce as much quantity or quality as Netflix. Hulu offers many anime and animated series, targeting these non-conventional customer groups. 
+ 
+Disney+: Relatively new service; benefits enormously from the amount of original content (Star Wars, The Simpsons, Pixar, Marvel, Nat Geo, etc.) on its platform. It costs 7$ for Disney+ alone or 13$ with ESPN+ and Hulu. Disney+ has had tremendous growth and currently has between 50m and 60m subscribers globally. Walt Disney’s enormous brand power puts its streaming service in a very strong position. 
+ 
+Together with Netflix, these three brands make up a large part of the global SVOD market.  
+ 
+Additionally, there are several up-and-coming competitors that have the potential to seriously challenge Netflix in the medium to long term, but do not do so momentarily: 
+ 
+HBO Max: Has had a relatively good start in Mid 2020. They have a great original offering but this may not be enough. They do not really have a strong competitive edge or wide content library that would take away many customers from the big players. 
+ 
+AppleTV+: It’s Apple. They’re genius in cross-selling and creating demand for their products. So far, they are behind, but they have the resources for great programming and the resources to create something captivating that people want. Additionally, AppleTV works as an aggregator for all forms of streaming content from other providers through their Apple TV Channels feature, similar to Amazon Channels. Apple has partnered with many services such as HBO and CBS All Access, which hope to benefit from Apple’s large customer base as every new hardware purchase - over 250 million per year - comes with a free 1-year AppleTV+ subscription.  
+ 
+Peacock: Their competitive edge: The product is entirely free. People will give it a try and see how they like it. The premium offering appeals to some particular audiences, for example, they offer British Premier League games. Their business model could enable growth into lower-income sectors that can not afford a paid subscription. It is unclear how financially viable the model is long-term, but of course, Comcast has the money to afford losses. 
+ 
+YouTubeTV: The video giant YouTube has entered the race for market share with its premium YouTubeTV offering, aiming to replace Live TV. A major benefit is their unlimited cloud DVR recording, through which users have a similar experience than when using traditional SVOD platforms like Netflix and Disney+.  
+ 
+Also, there is an increasingly significant long tail of other, partly regional or niche services in the SVOD industry, consisting of the following players: 
+ 
+Quibi 
+Tubi 
+Vudu 
+CuriosityStream 
+ShowMax 
+Molotov 
+MainStreaming 
+FuboTV 
+fandor 
+Pluto 
+ 
+In conclusion, Netflix needs to keep in mind the immediate threat of Disney’s power through its ability to bundle major streaming products. The threat posed by Amazon is quite different. Its unlimited financial resources and strong cross-selling approach allow it to spend aggressively on content and make it a one-stop-shop for consumers . As of right now, smaller services such as AppleTV+ and HBO Max may become dangerous, but they don’t currently pose much of a threat. 
+ 
+Important Competitor Milestones 
+ 
+Amazon Prime Video: Launched in the US in 2006, acquired LoveFilm in 2011 to expand to EU countries, and expanded globally in 2016. In 2017 they expanded into Anime, Sports, and in 2018 they launched Heema, an Indian category. Thay have strengthened sports offerings with the acquisition of Premier League rights. Around 40 million subscribers had access to Prime in 2015, a number that rose quickly to 150m in 2020.  
+ 
+Hulu: Originally created as a JV between News Corp and NBC, in 2009 Walt Disney took a minority stake. Regular Hulu was launched in 2010 and they launched Hulu + TV in 2017. They started inhouse content production in 2014. Disney gained control of the company as they bought 21st Century Fox in 2017 and are yet to exercise an option to buy out Comcast to take over 100% of Hulu by 2024. They have experienced slow growth with 12m subscribers by 2016, 17m by 2018, and 35m today. 
+ 
+Disney+: Tested DisneyLife streaming service in 2015. In 2016/2017 they acquired BAMTech to help with developing their streaming technology. In late 2017 they acquired key assets from 21st Century Fox to strengthen their content library. Launched Disney+ at the end of 2019 - quite late to the party, the timing was related to a content licensing deal with Netflix which ended in 2019. The new service was an immediate success after launch with over 50 million subscribers only a few months in. The service has also launched in India as Disney Hotstar streaming service. 
+ 
+Industry Trends 
+ 
+There is a clear, observable trend of increasing competition in the SVOD industry due to high growth, customer demand, and relatively low barriers to entry. This leads to more players, especially large media companies, entering the field. Each of these firms wants to be the exclusive service for their content produced in-house, and thus, smaller content libraries for each platform are the result. This means that companies such as HBO and Disney, which are famous for content production and have decades-long experience in it, are in a strong position compared to players that do not traditionally have such expertise. 
+ 
+In our interview with the Loop Capital Analyst, Alan Gould, he told us that Netflix has long foreseen this industry trend and has invested heavily in its own content production for many years. Its offerings are quite strong, with original series such as Money Heist, Stranger Things, Orange Is The New Black, House of Cards, Marco Polo, Dirty Money, and Narcos. However, it is hard for the service to lose iconic titles such as The Simpsons, HBO’s collection, and especially films and series by Disney. Acquiring exclusive deals will become more and more expensive in the industry due to bidding wars and increasing competition. 
+ 
+A second industry trend is the growing number of SVOD subscribers globally. Firms in the industry have observed strong growth rates, despite - or rather because of - the global COVID-19 pandemic as people are more incentivized to enjoy streaming with fewer alternatives due to quarantine and shelter in place measures. 
+ 
+Social media companies including YouTube, Facebook, and Twitter have recently made first moves into the digital video market and are trying to enhance users' engagement with their services. Especially YouTube, with YouTube TV and YouTube Premium, it may become a dangerous competitor to Netflix and the SVOD industry as a whole as it takes away attention and viewing time. Facebook with its recent focus on Facebook Watch should be observed with equal caution. 
+ 
+Key Success Factors 
+ 
+What are the key factors that drive financial success in the industry? 
+Everything is about scale in the SVOD industry, production costs will likely continue to rise, and the fees associated with large licensing contracts for third-party shows are already exorbitant. In order to justify these massive fixed costs, streaming companies must continue to increase their subscribers or their monthly fees.  
+ 
+With the exception of the U.S. and a few European countries, the SVOD global user penetration is below 20%. With increasing access to high-speed internet around the world, Netflix has enormous potential for future user growth internationally. As a result, it is essential for Netflix to successfully adapt their model internationally in order to capture these markets. 
+ 
+ If Netflix is able to leverage its data-driven content production to create trending shows in key international markets, they will be able to establish footholds around the globe. What is essential to capturing the users is that these shows become a must-watch phenomenon. This is similar to the hit shows that helped Netflix establish its cultural presence in the U.S. and other western markets. 
+ 
+ 
+Benchmarking 
+ 
+Figure 2: Time Spent Watching 
+ 
+ 
+Figure 3: Number of Subscribers in 2020 (in millions) 
+ 
+The shutdown and work from home mandates that many countries implemented due to COVID-19 has created a large tailwind for major streaming services. As of today, Netflix has a subscriber gap of over 30 million more than Amazon and of 130 million for its next closest rival, Disney+. As a result, Netflix has blown through its subscription expectations for the year and is widening their advantage over the competition. 
+ 
+Figure 4: Key Ratios Comparables Analysis 
+ 
+Additionally, Netflix has also blown past previous financial estimates for the year both in the U.S. and abroad. As a result, investors have pushed the stock to all-time highs during the last few months. Netflix now trades at 9.9x EV/Sales, 52.7x EV/EBITDA, and 115.6x P/E ratio, outpacing other competitors streaming competitors such as AT&T, ViacomCBS, and Disney. Only Amazon, which estimates place in second place in the battle for subscribers, trades at close multiples of 5.2x EV/Sales, 34.5 EV/EBITDA, and a P/E ratio of 145. However, Amazon derives revenue from multiple sources within the business, compared to the only streaming for Netflix. Much of this investor confidence is tied into Netflix’s ability to perform abroad and continue explosive growth in markets where its competitors have struggled to maintain a foothold. 
+ 
+Figure 5: Comparable Analysis - Key Ratios 
+ 
+We see the same trend when looking forward with an estimated consensus highlighting again that investors see the same value in the potential growth of both Netflix and Amazon. Both companies are expected to grow immensely in the next year and continue to outpace their competition. Additionally, both have benefited from the cheap corporate debt environment to fuel growth.  
+If you just focus on the bottom line, it is easy to be concerned about the rising level of interest expense each year. However, Netflix’s competitive moat is created by its ability to produce original content. In order to fund the upfront cost of content, Netflix has chosen to take on debt, explicitly stating: “in optimizing our balance sheet, we strive for the capital structure that results in the lowest weighted average cost of capital. Given low-interest rates, tax-deductibility of debt, and our low debt to enterprise value, financing growth through the debt market is currently more efficient than issuing equity”.   
+ 
+With free cash flow, operating margin, and profits continuing to improve over the next few years, Netflix has curtailed it’s debt levels, with it’s most recent issuance decreasing to $1B with 5-year maturity. This reduction in maturity tells us that Netflix is confident in its strategy to become cash flow positive in the next few years. 
+ 
+ 
+Opportunities 
+ 
+Geographic Market Opportunities 
+ 
+Currently, Netflix is available in over 190 countries, the only countries Netflix is not available in are China, Crimea, North Korea, Syria. As of right now, most of Netflix’s competitors in the streaming wars do not have nearly as large of an international presence as Netflix. However, being spread far and wide, comes the possibility of being spread too thin. Across the globe, Netflix faces fierce competition with well established foreign streaming services. 
+ 
+Netflix’s solution to this issue is to develop exclusive original titles and garner the loyalty of subscribers. So far Netflix seems to be doing well in this regard having released upwards of 90 titles not in English, with many more in the works. During the recent Q2 earnings call, Gregory Peters, Netflix’s COO, explained plans for “more and more employees outside the United States, more productions, more operations happening outside the U.S. and hopefully, many, many more members outside the U.S.” If they continue to establish themselves in this manner, it is very likely Netflix will be competitive in many of its global markets into the future. 
+ 
+Product Opportunities 
+ 
+In addition to their foreign expansion opportunities, Netflix plans to expand in general as they continue to focus more on producing their own content. The company’s recent acquisition of the Egyptian Theatre is a perfect example of this. Along with an upward trend in the number of Netflix original shows released each year, the acquisition demonstrates how Netflix is trying to make a name for themselves in Hollywood more than Silicon Valley. 
+ 
+More recently, Netflix has begun to expand into new content spaces. Recent expansions into the reality and competition space were wildly successful with hit shows like Too Hot to Handle, Cheer, and Floor is Lava. These successes indicate that Netflix can be successful when exploring new genres, boding well for future productions. 
+ 
+Pipeline 
+ 
+One of the greatest things Netflix has going for it at this time is its pipeline. Many were concerned about the impact of COVID-19 on the production of their movies, but the company seems to have a number of titles to release in the coming months. Netflix has over 20 original titles in their pipeline with planned release dates through October, and that only counts what they have officially announced.  These titles are a mix of new series, new seasons for old series, and movies.  
+ 
+While the near future pipeline looks promising, current production did take a bit of a blow due to set shutdowns at the start of quarantine. However, those working on the titles used at that time to focus on parts of the projects that did not require them to be on set, such as sound design and other editing. Hopefully, this will enable Netflix to continue to expand upon its strong pipeline, maintaining its place as one of the dominant streaming services.  
+ 
+Consumer Analytics 
+ 
+Netflix is a very data-driven company, oftentimes using subscriber analytics to help with creative decisions. Additionally, Netflix gathers data on what users watch and then synthesizes that date into watching patterns, recommending shows to users based on these patterns. A large part of Netflix’s retention strategy in the streaming wars is creating a system to help consumers select content more efficiently. If Netflix is able to recommend content that the consumers will like, then it decreases the possibility of the consumer leaving Netflix and joining another streaming platform instead. During their Q2 earnings call, CEO Reed Hastings said, “We want to be like your primary, your best friend, the one you turn to. And of course, occasionally, there's Hamilton and you're going to go to someone else's service for an extraordinary film. But for the most part, we want to be the one that just always pleases you with the convenience, simple and easy choice.”  
+ 
+Netflix has taken a variety of approaches to execute this strategy. Most recently, they have adopted a top ten list of the most streamed shows and movies on Netflix. This list aims to ensure that consumers are always in touch with the latest trending movie or show, allowing them to participate in the broader social conversation surrounding those shows. These broader social conversations are key to Netflix’s marketing strategy. If everyone is talking about how great a Netflix series is, prospective customers who have yet to see the show may feel as if they are missing out, prompting them to subscribe to Netflix to see that show. From there, Netflix hopes that their consumer analytics will provide the customer with another title to their liking, reeling them in, keeping them coming back for more. 
+ 
+Possibility to increase margins 
+ 
+With a shift towards Netflix creating more and more of their own originals, their licensing costs will be fixed, as they will not have to renegotiate with other networks for the licensing rights to a title every few years. With the increased focus on Netflix originals, if the company is able to maintain relatively stable growth in subscribers, the potential increase in profit margins is substantial.  
+ 
+Netflix’s battle over the hit show Friends serves as a great example of the issues surrounding third-party content licensing. Back in 2018, Warner Bros. wanted to pull Friends from Netflix in preparation to release it on their own streaming platform. Up until that point, Netflix was paying $30 million a year for the licensing rights to the show. However, when Warner Bros. tried to pull the show, Netflix ended up paying $100 million just to keep the show on their platform for the year. Had it been a Netflix original this issue would not have arisen.  
+ 
+5G 
+ 
+The adoption of 5G wireless technology has the potential to transform the entertainment streaming industry as the revolutionary technology opens new avenues for customers streaming on mobile devices. For current mobile streaming customers, 5G will provide them with higher quality and more widespread coverage, enabling them to access a high-quality streaming experience no matter where they are. Additionally, establishing 5G networks in more rural areas where streaming would otherwise be impossible creates brand new markets for streaming services like Netflix.  
+ 
+In fact, Netflix has found that offering a mobile-only subscription is incredibly effective when attempting to expand into more rural areas as it gives subscribers with lower income and less access to the internet the ability to use Netflix. Thus, 5G has massive implications for Netflix’s mobile-only offerings, allowing them to capture large amounts of market share that would otherwise be unattainable. While 5G services are limited as of right now, the technology is spreading at a rapid pace and it is only a matter of time before it sees widespread implementation. It is not a matter of “if” Netflix will benefit from the adoption of 5G technology, rather a question of “when” and “how much.” 
+ 
+Figure 6: Forecast of 5G smartphone subscriptions by region (in millions) (Statista) 
+ 
+ 
+ 
+Threats 
+ 
+Loss of Content 
+ 
+Users have seen Netflix’s library shrink significantly as more and more content producers pull out of third party licensing contracts with Netflix, especially when they plan to start their own streaming services. For example, in 2019 Disney allowed large licensing contracts with Netflix to expire in order to make their content exclusively available on the platforms they have a stake in (Disney+ and Hulu). We can expect more players to enter the movie streaming service market, leading to a loss of popular content for Netflix and an overall smaller library, making the service less attractive to consumers. 
+ 
+Exclusive programming 
+ 
+Many of the competing streaming companies either traditionally have a strong background in media production or have recently ramped up their in-house production capacities. Due to fierce competition, exclusive programming will make or break streaming services. This can either be achieved by bidding highest on content auctions from external parties, or by producing movies and series in-house. Exclusive programming comes at a high cost, purchasing content is becoming increasingly expensive as producers have more potential customers and SVOD services compete for the best content. Producing content is often favorable, but has high risks attached to it and leads to a significant time delay between expenses incurred and revenues generated, meaning a large up-front investment is required. In the future, this trend is likely to continue, leading to more and more cash expenses for Netflix and higher prices paid for rights for exclusive content produced elsewhere. 
+ 
+Low barriers to entry 
+ 
+The global SVOD market is a high-growth one with relatively low start-up costs and barriers to entry. Sophisticated knowledge is largely not required to successfully start and run a streaming service. These factors, combined with the significant growth of the industry players and consumer demand for SVOD, especially in light of COVID-19, lead to more competition in the industry. This increased competition is likely to snatch away market share from Netflix in both domestic and international markets.  
+ 
+Cost Increases 
+ 
+There are two potential threats that could raise Netflix's content costs, increasing competition for content production internationally as well as increasing costs for content licensing deals.  
+  
+As the international market for video streaming heats up, the cost for Netflix to satisfy consumer demands will grow. Although the international market is essential to Netflix’s long term growth, profitability in those markets remains a challenge. For nearly a decade Netflix has seen steady profitability growth domestically, but its international business only became profitable in 2018. Netflix still needs time to prove that its international growth is sustainable and can consistently achieve similar margins to the domestic market.  
+ 
+Quality Decrease 
+ 
+Netflix’s data-driven approach to coming up with new shows can make its content feel contrived and turns off the consumer. An over-reliance on this approach has given Netflix a reputation as the platform with many choices but few good ones. The quality of their content will be put to the test when up against competitors such as HBO and Disney with decades of experience and pristine reputations for high-quality shows and movies. In the increasingly crowded SVOD, market consumers may turn to more inventive television concepts and eschew Netflix’s calculated approach.  
+ 
+Dangerous Consumer Trends 
+ 
+Throughout recent years, Netflix’s market share has seen slight decreases and is likely to continue decreasing due to strong competitive pressure. Consumers are unwilling to spend too much money on entertainment, a recent statistic said 37% of Americans would spend a maximum of $20 on entertainment each month. Research has shown that most consumers are not willing to pay for more than 2-3 streaming services. Movie and series lovers that have specific niche interests in certain categories would often need to pay for more specialized streaming platforms. The result is that certain services will be left behind, and a trade-off will be made by many consumers. Although we do not believe Netflix will be among the first subscriptions to go, it may be eliminated in favor of other services by some consumers. 
+ 
+Additionally, many consumers may try to gain access to certain content via illegal means, such as online pirating. There was less incentive to pirate in times where most content was listed on Netflix, as committing a crime to save 10$ per month was not worth it for most. However, many consumers may prefer taking the risks in order to save them dozens or even hundreds of dollars per month. An economic downturn is likely to have a material effect on the overall SVOD industry as consumers may not be willing or able economically to afford one or multiple streaming services for leisure. 
+ 
+Legal Issues 
+ 
+Government or regulatory bodies may adopt laws that can adversely affect Netflix, especially with regards to data privacy and data transmission. “Net neutrality” has become an important phrase in the recent COVID-19 pandemic, as many governments have prioritized transmission of other types of data compared to movie streaming data, which can make up for a large percentage of all data transmitted through the internet. Further discrimination of data packages coming to and from SVOD servers may lower customer satisfaction, increase churn, and harm Netflix and the overall SVOD industry. Additionally, as certain governments including Russia establish laws seeking for local data storage, further costs are incurred and expansion is hindered. 
+ 
+Cyber Attacks 
+ 
+Hackers and cybercrime immediately threaten Netflix as well as other streaming services. Vulnerabilities in software or hardware may be exploited by skilled hackers for financial, political, or other reasons. A recent attack targeting the Twitter accounts of Joe Biden, Elon Musk, Bill Gates, and more by a 17-year old student has shown potential vulnerabilities of large tech companies. Additionally, Disney+ has experienced attacks in the week of its launch, and hackers put data of thousands of customers for sale in the darknet. Netflix’s cloud-based technologies can be significantly hurt by DNS or DDoS attacks, cyber intrusion, or other means of vulnerability exploitation. 
+ 
+Dependence on a single third-party vendor 
+ 
+Netflix relies on AWS (Amazon Web Services) as their only provider of network infrastructure. With its Prime Video offering, Amazon is among Netflix’s strongest and most direct competitors. Thus, any dispute between Netflix and Amazon of whatever nature could have significant negative effects on Netflix. While it seems that Amazon is in a position to significantly hurt Netflix by changing the terms of its AWS network infrastructure offering or completely terminating contracts, any of such actions are likely to lead to antitrust investigations against AWS. 
+ 
+ 
+Investment Thesis 
+ 
+Netflix has opportunities to further leverage its geographical strength compared to its competitors - something that is especially important in a fiercely competitive market. As of right now, only Amazon Video rivals Netflix in geographic breadth, giving Netflix a significant head start on other competitors like Disney+. This puts Netflix in a relatively good competitive position in the short and medium run, although Disney's venerable reputation will see them growing their global footprint in the long run. 
+ 
+Recent successes mean the firm also has reason to believe their push to win over Hollywood will be successful, enabling them to achieve a higher quality of production at a lower cost. This would compensate for the loss in exclusive programming due to other content creators pulling their movies and shows from Netflix, as well as some consumers considering alternatives due to rising prices for a Netflix subscription. Despite Netflix’s development potential they will undoubtedly continue to face fierce competition thanks to exclusive programming, low barriers to market entry, and consumer behavior shifts towards pirating.    
+ 
+Netflix’s success will be dependent mainly on their ability to build up a strong exclusive content production division that can beat Disney, Amazon, HBO, and others in terms of content quality, quantity, and popularity. Current consumer sentiment towards Netflix’s content quality is very positive, setting the firm up for long-term success. It is true that the market will continue to be competitive - and likely become even more so in the future. However, Netflix has the money and talent necessary to remain a dominant player if they execute their development strategies properly. 
+ 
+Assuming the company delivers on international expansion and content development, the firm will be able to attract more customers globally, which will increase cash flows used to enhance their production even further, setting in motion a self-reinforcing cycle. As Netflix is able to spread its production costs across more users while continuing to increase revenue, positive free cash flow should be achieved in the coming years. The development of positive free cash flow should be a major tailwind for Netflix stock and will allow them to unlock significant shareholder value through buybacks. With this in mind, Netflix is likely to be able to continue its current trajectory and live up to its sky-high valuation.  
+ 
+Potential that more streaming services lead to more cord-cutting growth in the overall addressable market 
+ 
+Netflix has profited significantly from strong industry growth rates resulting from lockdown measures during the COVID-19 pandemic. The firm was able to grow subscriber numbers substantially, which is essential in the SVOD market. In our conversation with Alan Gould from Loop Capital, we found out how high subscriber numbers lead to an increase in financial resources for content production, which, in turn, drives subscriber growth. “Outproducing” competitors, as Netflix has done throughout the past few months, leads to more users, which contribute to an increase in the level of content production. 
+ 
+Netflix was able to gain the required critical mass to set this virtuous cycle in motion. Consequently, they are able to amortize production and other costs over a larger customer base. With this momentum, they are in a very powerful position to defend their leadership in the streaming services industry and fight off fierce competition.  
+ 
+The highest usage from subscribers make it an indispensable product 
+ 
+In a 2018 survey of UK adults, Netflix had 4x the amount of daily watch time of 18-34-year-olds compared to its largest competitor Amazon prime. However, this lead widens even more when including older adults. Pre-COVID shutdown, the average Netflix user viewed 71 minutes of content a day on the service. While we don’t have updated numbers yet, the shutdown is expected to boost numbers even more. In the chart above it’s clear to see that Netflix’s belief that their true competitors are not just streaming services, but an activity that consumers have at their disposal such as YouTube, cable channels, and activities such as reading a book or using Facebook. 
+ 
+Strong exclusive content library and production pipeline 
+ 
+Relative to its competitors, Netflix has a large advantage when it comes to production scale and pipeline. Just last year, Netflix’s output was greater than what the entire U.S. TV industry put out in 2005, according to an analysis by Variety. Even in the times of COVID-19, Netflix continues to have a strong pipeline, with uninterrupted plans to release numerous titles. Production shows no sign of stopping and COVID-19 has had very little impact on their current productions, with Netflix ramping up their international title production as they increase their global expansion efforts. 
+ 
+Wide geographic breadth with a strong presence in non-US markets and the potential for 5G to increase global accessibility 
+ 
+Netflix’s strong presence internationally is another compelling competitive advantage they have over other SVOD competitors. With Netflix being offered in over 190 countries and territories, they already have a stronger presence internationally than most competitors. Coupled with their increased focus on foreign production and 5G’s potential to revolutionize the mobile streaming space, Netflix becomes a force to be reckoned with. 
+ 
+Data-driven approach can quickly adapt to trends and drive cultural dialogue around their shows and movies, especially in foreign markets 
+ 
+When a Netflix original show becomes a cultural phenomenon it pays massive dividends for the company. Netflix came into the COVID-19 lockdowns with their show Tiger King. The low budget documentary became a cultural phenomenon and entered the national dialogue at a time when it seemed like a simple TV show about a tiger zoo would be the last thing to become so popular. 
+ 
+In a world so heavily dominated by what is trending on social media the value of iconic shows is that it can draw new subscribers who do not want to be left out of the trend. This can be even more valuable in helping Netflix to establish itself in new markets. 
+ 
+Netflix’s potential to achieve positive free cash flow can unlock value for shareholders 
+ 
+Although they are competing with the other tech giants they are the only streaming pure play. The potential for positive free cash flow in the future when their content expenses stay the same while revenue continues to grow. This could be a massive catalyst for investors. Once Netflix is multi-year FCF positive, it opens up the possibility of stock buybacks, returning value to investors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Statista 
+https://www.statista.com/outlook/206/109/video-streaming--svod-/united-states 
+
+Netflix’s more expensive products. 
+https://www.investopedia.com/articles/markets/051215/who-are-netflixs-main-competitors-nflx.asp 
+
+80,000+ series episodes and movies on their platform 
+https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F 
+
+Disney Hotstar streaming service 
+https://en.wikipedia.org/wiki/Disney%2B 
+
+alternatives due to quarantine and shelter in place measures 
+https://www.parrotanalytics.com/insights/global-svod-market-share/ 
+
+currently more efficient than issuing equity 
+https://www.netflixinvestor.com/ir-overview/top-investor-questions/default.aspx 
+
+China, Crimea, North Korea, Syria 
+https://hbr.org/2018/10/how-netflix-expanded-to-190-countries-in-7-years 
+
+members outside the U.S. 
+https://www.netflixinvestor.com/investor-news-and-events/investor-events/default.aspx 
+
+what they have officially announced 
+https://www.whats-on-netflix.com/coming-soon/ 
+
+Statista 
+https://www.statista.com/chart/9604/5g-subscription-forecast/ 
+
+steady profitability growth domestically 
+https://www.edspira.com/netflix-domestic-vs-international-streaming/ 
+
+strong competitive pressure 
+https://www.cnbc.com/2019/05/01/hulu-gained-twice-as-many-subscribers-as-netflix-in-us.html 
+
+37% of Americans would spend a maximum of $20 on entertainment each month 
+https://today.yougov.com/topics/media/articles-reports/2019/10/30/how-many-streaming-services-are-americans-willing- 
+
+pay for more than 2-3 streaming services 
+https://www.telecompetitor.com/report-consumers-willing-to-pay-17-to-27-monthly-for-all-video-streaming-services-combined/ 
+
+thousands of customers for sale in the  
+https://www.rollingstone.de/disney-plus-hack-streaming-1865027/ 
+
+according to an analysis by Variety 
+https://variety.com/2019/tv/news/netflix-more-2019-originals-than-entire-tv-industry-in-2005-1203441709/ 
+

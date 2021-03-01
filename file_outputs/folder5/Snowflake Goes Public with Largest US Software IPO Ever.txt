@@ -1,0 +1,147 @@
+Snowflake Goes Public with Largest US Software IPO EverOct 27, 2020 
+7 min read 
+Snowflake Goes Public with Largest US Software IPO Ever 
+Snowflake Goes Public with Largest US Software IPO Ever 
+By Chan Seomun (University of Warwick), Callum Magee (University of Glasgow), and Chirag Gupta (NYU Stern) 
+ 
+ 
+Overview of the Deal 
+ 
+Cloud-based data-warehousing company Snowflake made its stock market debut mid-September by raising a larger than planned $3.4 billion by selling 28 million shares for $120 apiece, exceeding its targeted range of $100 to $110. Snowflakes stock jumped more than 160% above the IPO price to touch $315, sending the company’s market value to almost $90 billion, seven times the $12.4 billion valuations from its most recent round of funding in February, based on the number of shares outstanding, before easing to $253.93 at the close. 
+ 
+The IPO gained significant publicity after Warren Buffet’s Berkshire Hathaway and Salesforce showed interest, each agreeing to purchase $250 million worth of stock. Berkshire Hathaway also purchased an additional $320 million worth of stock from the company’s former CEO Bob Muglia. Venture capital group Sutter Hill Ventures is set to reap the largest rewards from the company’s listing, however, owning more than 20% of its shares before the IPO.  
+ 
+Morgan Stanley and Goldman Sachs were lead underwriters for Snowflake’s IPO. 
+ 
+ 
+Macroeconomic Trends 
+ 
+Covid-19 struck America and the European continent in late March, prompting lockdown measures by governments. Strict lockdown measures alongside travel bans dented demands in numerous sectors, triggering a crash in stock markets around the world. Harsh economic conditions also froze the IPO market. Albeit the loss recorded in late May and early June, when countries started to ease lockdown measures, business and consumer confidence have stabilized. Furthermore, a number of governments granted massive financial aid packages to keep businesses afloat amid the pandemic. Central banks provided ample liquidity to the market alongside equity prices surging back to historically high levels. That is when the IPO activities began to increase again.  
+ 
+IT companies have been one of the few sectors that have been the most active in the resumed IPO market. Increased demand for data and its analytics, as well as hardware, have made technology firms the least impacted businesses since the outbreak of the pandemic. Vroom, a company that offers a platform for used car sales is an example. Despite the bumpy road that many experts and even the company itself anticipated when the virus broke out, Vroom successfully made its debut in June, aided by the record-high revenue it recorded post-pandemic.  
+ 
+Social distancing became a norm where municipalities and firms proactively implemented social distancing rules to stop the spread of the virus. As businesses adopted remote working, demand for effective management of massive amounts of data surged. Consequently, since the outbreak of the pandemic, IT companies and firms dealing with data and its storage benefited the most in the financial markets. Snowflake, a data-warehousing company started in San Mateo, California, has been one of the hottest candidates in the rebounding IPO market. 
+ 
+ 
+Company Details  
+ 
+Founded in: 2012 
+Headquartered in: San Mateo, California 
+CEO: Frank Slootman 
+Number of Employees: 2037 (as of 10/10/2020) 
+Market Cap: $66.04 Billion (as of 10/10/2020) 
+EV: $66.71 Billion (as of 10/20/2020) 
+ 
+Table 1: Current Capital Structure of Snowflake (Capital IQ)  
+ 
+ 
+IPO Details of Snowflake 
+ 
+Snowflake went public on September 16th, raising $3.4 billion by selling 28 million Class A common stock for $120 each, exceeding its targeted range of $100 to $110. The fundraising sent Snowflakes market capitalization to almost $90 billion, as Snowflakes shares jumped more than 160% above the IPO price to touch $315 before easing to $253.93 at the close. Snowflake listed on the NYSE under the symbol “SNOW”. 
+ 
+Snowflake’s decision to go public was accelerated through various exogenous factors throughout 2020. Most notably, COVID-19 has propelled the corporate shift, due to the acceleration in working-from-home, from on-premise computing to the cloud. This has resulted in exponential growth for the data warehouse-as-a-service market, which is expected to grow at a 29.2% compound annual rate from $1.4 billion in 2019 to $23.8 billion by 2030. This coupled with investors' recent appetite in IPO’s acted as an incentive for Snowflake to capitalize on the opportunity to raise public funds before markets see high volatility with rising COVID-19 cases and the November US presidential election.  
+ 
+Investors' strong appetite and interest in Snowflake sent their valuation to a near $90 billion. With the exception of Microsoft, the median market capitalization is far higher than Snowflake's closest competitors. And with LTM revenue far below the median of Snowflake's competitors, and a net loss of to $171.3 million in the first half of 2020 (down $6 million from the year before), Snowflake could see a quick correction to their market capitalization once investor optimism wears off. 
+ 
+Table 2: Snowflake Comparable Analysis (Capital IQ)  
+ 
+ 
+Projections and Assumptions 
+ 
+Why was this deal done? 
+ 
+Snowflake delivered a 173% growth in the fiscal year ending January 31st due to the current unsaturated cloud-based data-warehousing market which is predicted to grow at a 29.2% compound annual rate to $23.8 billion by 2030, giving the company “untapped growth potential”. This has led to an influx of competitors such as Amazon Redshift and GoogleBigQuery, who are all racing to secure and serve as many customers seeking better and cheaper ways to analyse and store data, from Hedge Funds to mobile gaming companies. Snowflakes’ listing has been a way to help the company capitalize on this growth potential. Snowflake is likely to use the funds raised through their IPO to help expand their current operations and expand its client base as Snowflake is now branching out to meet database uses beyond the data warehouse to guide investment decisions and even help companies track all activity on their networks, and then apply A.I. to identify hacking attacks. 
+  
+Snowflake has seen rapid growth in start-up clients as new digital enterprises are looking to increase their utilization from terabytes to petabytes and increase the use of their products rapidly. In the quarter ending January 2020, Snowflake added 500 new customers, providing clients with unlimited computing power that can reduce commute times from hours or days to seconds or minutes. The $3.4 billion raised by Snowflake is likely to be funneled into expanding their operations catering to new start-ups and provide faster infrastructure and long-term solutions to their current client base. 
+ 
+Short-term Analysis 
+ 
+Snowflake’s debut in the stock market was remarkable. The Silicon Valley company’s shares surged 160% above its initial public offering price, driving the firm’s market capitalization to approximately $90 billion. The surge in price reflects the growing demand for the firm and its technology, signaling a potential room for growth of the company.  
+ 
+Snowflake has allured investors with its rapidly growing base of customers for its data-warehousing products. Additionally, the pandemic has greatly increased the demand as the majority of businesses are implementing remote working, recommending employees to work from home rather than in the office. The shift reflects the consistently growing demand for data-warehousing services. Also, the data deluge is only likely to increase, in part driven by emerging technologies like edge devices and 5G networks.  
+ 
+On the other hand, like many tech start-ups, Snowflake has burnt a significant amount of capital to acquire market share, posting net losses of $348.5 million on revenues of $264.7 million in its most recent fiscal year.  
+ 
+Snowflake is expected to utilize the capital acquired through its IPO to further expand its market share and solidify its position in the data warehouse sector, as well as repay its current debts in the short-run.  
+ 
+Long-term Analysis 
+ 
+500 new clients have joined Snowflake's system in the quarter ending January 2020. The firm’s non-linear scale and performance throughout recent years have rendered many businesses decide to choose Snowflake as their data-warehouse. There is one unique feature of Snowflake that differentiates the firm from its competitors.  
+ 
+Unlike its competitors, Snowflake offers data storage and computing service separately to its customers. Separation of the two services lets customers enjoy their wanted products for lower costs as unlike conventional data cloud services, businesses can choose only the product they need.  
+  
+“Only 30% of data analytics is now performed in the cloud, putting Snowflake in a great position to take share from the legacy on-premise vendors” --- Bloomberg Intelligence 
+  
+Snowflake offers a unique solution, different from a conventional one, where the firm separates data and computes it in the public cloud. The firm is not only taking customers away from conglomerates like Oracle but also other major SQL players in the market.  
+  
+Slootman, the CEO of Snowflake defines the firm’s long-term vision as “data cloud”-a platform that governs and secures private data and is capable of managing heavy workloads that consistently grow. While Amazon Web Services and Azure focus on infrastructure cloud and Salesforce dominate the app cloud, Snowflake plans to become the “data cloud”.  
+  
+“Facebook would be a great customer for our data cloud” 
+Frank Slootman, Snowflake Computing CEO 
+ 
+Risks and Uncertainties    
+ 
+Snowflake’s shares are in bubble territory, coupled with sky-high valuations and continuing losses. Snowflake went public at an opportune time as investors are piling into recently public listed companies. This may prove troublesome for Snowflake, risking a sharp reversal in their share price as investor optimism settles and price-per-share slowly declines. Snowflake's shares are currently trading at $238 (10/10/2020), nearly 25% lower than the highest price on their day of listing, despite claims by the Financial Times that there was not a mis-price from Goldman Sachs, lead underwriters.  
+ 
+More significantly, Snowflake is completely dependent on running its apps via the cloud platforms of Amazon, Microsoft, and Google, also its biggest competitors. That means the three rivals could raise the price of running Snowflake, impacting profitability despite Snowflake's strong growth potential. 
+ 
+Markets may prove to be another concern for Snowflake for three main reasons: 
+ 
+“New listings were trying to take advantage of the sky-high tech multiples they can get in public markets as well as timing this before the election in November” 
+Matthew Kennedy, senior IPO market strategist at Renaissance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+close 
+https://www.ft.com/content/eb8e37c9-b4a5-4b4c-a3cf-2eeac98a8f2b 
+
+20% 
+https://www.ft.com/content/eb8e37c9-b4a5-4b4c-a3cf-2eeac98a8f2b 
+
+(Capital IQ) 
+https://www.capitaliq.com/ciqdotnet/login-sso.aspx?bmctx=202C7940E5B3C784A1D977EF9E24AB0D&contextType=external&username=string&enablePersistentLogin=true&OverrideRetryLimit=0&contextValue=%2Foam&password=secure_string&challenge_url=https%3A%2F%2Fwww.capitaliq.com%2Fciqdotnet%2Flogin-sso.aspx&request_id=-4972058848538826257&authn_try_count=0&locale=en_GB&resource_url=https%253A%252F%252Fwww.capitaliq.com%252FCIQDotNet%252FLogin.aspx 
+
+close 
+https://www.ft.com/content/eb8e37c9-b4a5-4b4c-a3cf-2eeac98a8f2b 
+
+on-premise 
+https://www.forbes.com/sites/petercohan/2020/08/28/3-reasons-to-buy-into-snowflakes-ipo/#628f0d7b6549 
+
+ 29.2% 
+https://www.forbes.com/sites/petercohan/2020/08/28/3-reasons-to-buy-into-snowflakes-ipo/#628f0d7b6549 
+
+$171.3 million 
+https://www.forbes.com/sites/petercohan/2020/08/28/3-reasons-to-buy-into-snowflakes-ipo/#628f0d7b6549 
+
+(Capital IQ) 
+https://www.capitaliq.com/ciqdotnet/login-sso.aspx?bmctx=202C7940E5B3C784A1D977EF9E24AB0D&contextType=external&username=string&enablePersistentLogin=true&OverrideRetryLimit=0&contextValue=%2Foam&password=secure_string&challenge_url=https%3A%2F%2Fwww.capitaliq.com%2Fciqdotnet%2Flogin-sso.aspx&request_id=-4972058848538826257&authn_try_count=0&locale=en_GB&resource_url=https%253A%252F%252Fwww.capitaliq.com%252FCIQDotNet%252FLogin.aspx 
+
+2030 
+https://www.globenewswire.com/news-release/2020/03/16/2000805/0/en/Data-Warehouse-as-a-Service-DWaaS-Market-to-Reach-23-8-Billion-by-2030-with-Growing-Focus-on-Real-Time-Data-Analysis-P-S-Intelligence.html 
+
+untapped growth potential 
+https://fortune.com/2020/09/15/snowflake-ipo-database-oracle-frank-slootman/ 
+
+competitors 
+https://medium.com/@richiebachala/snowflake-redshift-bigquery-b84d2cb60168 
+
+Hedge Funds 
+https://fortune.com/2020/09/15/snowflake-ipo-database-oracle-frank-slootman/ 
+
+hacking attacks 
+https://fortune.com/2020/09/15/snowflake-ipo-database-oracle-frank-slootman/ 
+
+ minutes 
+https://www.forbes.com/sites/petercohan/2020/08/28/3-reasons-to-buy-into-snowflakes-ipo/#4c9199cf6549 
+
+Financial Times 
+https://www.ft.com/content/6438e433-ee5a-49ba-a27a-bdbd3e6cf92a 
+

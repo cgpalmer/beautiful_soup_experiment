@@ -1,0 +1,106 @@
+BOVESPA gaining the positive ‘Emerging Market’ momentumNov 20, 2020 
+6 min read 
+BOVESPA gaining the positive ‘Emerging Market’ momentum 
+BOVESPA gaining the positive ‘Emerging Market’ momentum 
+By Mihir Gupta (University College London) and Filippo Palacino (ETH Zurich) 
+ 
+ 
+ 
+Index Overview  
+ 
+The BOVESPA Index is a benchmark index of approximately 70 stocks that are traded on the Brazil Bolsa Balcao (B3). The companies listed on the index form the core of the Brazilian capital market and accounts for approximately 80% of the trades and the financial volume in the same. BOVESPA is an accumulation index, meaning that it represents the present value of the portfolio. 
+ 
+Table 1:Top 10 companies on the BOVESPA Index  
+ 
+ 
+Index Outlook 
+ 
+Index: BOVESPA (104.733.37 as on 15/11/2020)        
+ 
+Support and Resistance Levels  
+ 
+Graph 1: Support and Resistance analysis for BOVESPA (Investing.com  as on 15/11/2020)  
+ 
+As on the 15th November 2020, the BOVESPA Index closed at 104733.37, after having gained 2.12% by the end of the trading session. Ever since the index bottomed on 19th March 2020, it followed a rapid path to recovery, but later slowed down, causing the index to enter a ranging market. As per our analysis, we believe the immediate support and resistance levels for the index lay at 102243.94 and 105729.15 respectively (as shown by the blue rectangle on the upside and the first yellow rectangle in Graph 1). Additionally, some of the other important levels lay at 97812.76  and 93431.36 ( as shown by the second blue and yellow rectangle on the downside on Graph 1) on the downside and 109080.84 (as shown by the red rectangle in Graph 1) on the upside.  
+ 
+Graph 2: Fibonacci Levels  for BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+The strength of these levels is further guaranteed by plotting the Fibonacci levels for the index on a downward basis (as shown in Graph 2). More specifically, as it can be seen from Graph 2, the strength of the current resistance level and the support at 93,431is amplified by 104,667.56 and 95,538.71 being the 0.786 and 0.618 retracement levels respectively.  
+ 
+Trend and Pattern Analysis 
+ 
+Graph 3: Trend Analysis for BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+The trend analysis for the Brazilian index is rather peculiar in comparison to the general index movements we have observed across a range of global indices over the past few months. After having bottomed due to the pandemic around the 16th-18th March 2020, the index entered its dynamic channel, almost forming a rising wedge. While the volatility in the initial half of the rising trendline was much more severe, towards the tail it extensively filtered down. In fact, as it can be seen in Graph 3 - the index rallied extensively between the middle of May to the middle of June and then towards the end of June to the beginning of August. We believe that a major reason for this may have been the rebalancing of investor portfolios in order to seek alpha generation in emerging markets as part of the ‘investing during the pandemic strategy’.  
+ 
+However, this trend lasted till the beginning of August, whereby the index entered a downward dynamic channel (as shown by the blue line in Graph 3). However, an important observation we make here is that the slope of the trend is much lower than that of the rising trend, signifying a resentment among bulls to give the lead to the bears. And in fact, this observation is further complemented by the fact that from the middle of August to the beginning of September, the index was heavily ranged bound. Subsequently, the index took support at the 93,3431 (as shown by the yellow rectangle on the downside in Graph 3), tested the 102,184 level and broke out from recently on the 11th of October 2020. As a matter of fact, it must be highlighted that ever since the index tested the aforementioned support level, it has severely rallied - highlighting the positive exuberance in the markets due to the news about the vaccination success (as shown by the purple parallel channel in Graph 3).  
+Moving forward we believe that the index will begin to form a higher-high higher-low formation unless the dynamic support it has created is severely broken.  
+ 
+Graph 4: Bullish Harami and Flag Formation for BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+As far as some of the pattern analysis is concerned, although we believe that there are no exhaustive patterns being formed in the index at the moment - there certainly are certain short term trend reversal patterns that seem to be in the process of creation - thereby indicating a potential move on the upside. First as highlighted by the first yellow box, the index observed a bullish harami with above average volumes and a gap up turn into a move, approximately of a size of 50,000+ points on the upside.  
+ 
+In fact, as highlighted by the second yellow box in Graph 4 - we believe that a second bullish harami seems to be in the process of formation. Furthermore, we also believe that the current candlestick stick set up is most inclined with that of the formation of a bullish flag with a distinctive pole followed by a brief period of consolidation (as highlighted by the blue lines). Resultantly, both of these patterns combined seem to be suggesting a significant move on the upside to follow.   
+  
+Super-Trend Analysis  
+ 
+Graph 5: Super Trend analysis for BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+For the purpose of analysing the index, we have made use of a new ‘following indicator’ known as Super Trend. Super Trends takes into account the Average True Range to calculate its value and requires one to input two arguments - a time period (x) and a multiplier (y). Usually, intraday traders tend to make use of a single Super Trend to get a buy or sell signal with the default values being (10,3). However, for the purpose of our analysis, we utilise a slightly modified version of using three super trends with the values (14,3); (10,3) and (7,2) - (reason being that we are able to get a short, medium and long term insight into the historic price action). The idea is to combine price action and signals from the three super trends to either go long or short.  
+ 
+More specifically, we would like to go long, when all three super trends give us a green signal and go short when all three give a red signal (as shown in Graph 5). In line with this strategy, we believe that only very recently, this cumulative super trend strategy has indicated a buy signal with all three super trends turning green. In fact, as it can be seen from Graph 5, this strategy has been particularly effective in trailing a buy or sell signal, depending on the signal given by the super trends.  
+ 
+Exponential Moving Average and DMI Analysis  
+ 
+Graph 6: 9-days/ 21-days/55-days Exponential Moving Average, DMI and MACD of BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+Next, we plot three different Exponential Moving Averages: 9-days, 21-days and 55-days. Given that we witness a triple positive crossover, we conclude that the initial indication from this realm of analysis is in line with that of the other indicator analysis. However, since the three EMAs are still very near each other, it would be better to see if this disposition is preserved in the next few days. If it is, and therefore the resistance level that we discussed in the previous paragraph would be broken - hence indicating an upward movement. As far as the DMI and MACD are concerned, we believe that they seem to be just confirming the bullish sentiment as deduced earlier.  
+ 
+RSI and Stochastic Analysis  
+ 
+Graph 7: RSI and Stochastic Analysis for BOVESPA (Investing.com  as on 15/11/2020) 
+ 
+We would like to end this report with a note on the analysis of the Relative Strength Index (RSI) and Stochastic Oscillator of BOVESPA. As it can be seen in Graph 7, the 55.70 level (as shown by a black line) has been acting as a particularly important resistance-turn-support (which in fact was very recently tested). Although there is no divergence at the moment, we believe that the RSI seems to be providing an important indication. That is of there still being room for the index to witness an upward movement before a phase of correction, as it is yet to surpass its overbought threshold.  
+ 
+In fact, although we agree that the Stochastic Oscillator has already indicated a phase of extended buying pressure, it would be worth mentioning that the Stochastic Oscillator is meant to be much more volatile in comparison to the RSI, and provided that there have been prolonged phases during which the indicator was giving an overbought signal and yet the index managed to sustain a move on the upside - we believe that there is no substantial evidence for us to reject the very same hypothesis in the current situation as well.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+80% of the trades 
+https://capital.com/bovespa-index-definition 
+
+accumulation index 
+https://capital.com/bovespa-index-definition 
+
+Top 10 companies 
+https://disfold.com/top-companies-brazil-ibovespa/ 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+
+Investing.com 
+https://www.investing.com/indices/bovespa-chart 
+

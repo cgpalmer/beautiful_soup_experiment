@@ -1,0 +1,131 @@
+Nvidia’s Acquisition of ArmNov 15, 2020 
+8 min read 
+Nvidia’s Acquisition of Arm 
+Nvidia’s Acquisition of Arm 
+By Alessandro Continanza (ESCP Business School), Steven Skomra (Georgetown University), Nina Tagliabue (University of California, Berkeley), and Rayan Singh (University of St. Gallen) 
+ 
+ 
+ 
+Bidder Information (Nvidia) 
+Bidder Information ( 
+Nvidia 
+) 
+ 
+Nvidia is a multinational tech company based in Santa Clara, California. The firm has core competencies in chip manufacturing, primarily for graphics processing cards (GPUs). GPUs are largely used in PCs and notebooks and datacenters. Large competitors for Nvidia include the likes of Qualcomm, AMD and Intel. Recently, Nvidia has diversified its business to also focus on developing the technology to provide processing power for the age of artificial intelligence.  
+ 
+ 
+Company Overview 
+Company Overview 
+ 
+Founded: 1993 
+CEO/Founder: Jensen Huang  
+Number of employees: 13,227 
+Key shareholders: Vanguard, Fidelity, BlackRock  
+ 
+Financial Summary 
+Financial Summary 
+ 
+Market cap: 351.08B 
+EV: 312.665B 
+LTM Revenue $13.065B 
+LTM EBITDA: $3.272B 
+LTM EV/Revenue: 26.57 
+LTM EV/EBITDA: 73.08 
+ 
+ 
+Target Information (Arm Holdings) 
+Target Information ( 
+Arm Holdings 
+) 
+ 
+Arm Holdings is a British semiconductor and software design company located in Cambridge, England. Its core competencies include the licensing of their ARM processors, as well as system-on-a-chip (SoC) software. Their designs are found in over 25% of all electronic devices globally. The firm was previously publicly listed, but was bought by Japanese firm SoftBank in 2016 for roughly $32B. The successful business model of licensing Arm’s technology largely relies on its neutrality, as the firm often supplies competing firms like Samsung and Apple with their intellectual property licenses.  
+ 
+Company Overview 
+Company Overview 
+ 
+Founded: 1990 
+CEO/Chairman: Simon Segars 
+Number of employees: 6250 
+Key shareholders SoftBank 
+Target advisor: Goldman Sachs 
+Financial Summary 
+Previous Purchase Price: $32B 
+ 
+ 
+Deal Overview 
+Deal Overview 
+ 
+Nvidia has announced a definitive agreement to acquire Arm Holdings for nearly $40B, solidifying its push “to become the premier computing company for the age of artificial intelligence”. If completed, the deal would be one of the biggest transactions of 2020. The selling firm SoftBank, which acquired Arm for $31.4B in 2015, will receive $21.5B in Nvidia stock and $12B in cash. $2B of the cash portion of the deal will be paid as soon as the signing is completed. There are also specific financial targets included in the proposed deal which could see SoftBank earn up to $5B in performance related payments. As part of the agreement, $1.5B of Nvidia stock will also be issued to Arm employees; Arm’s employees were a valuable asset contributing to the deal’s massive $40B price tag.  
+ 
+Through the acquisition, Nvidia will be able to laterally diversify its revenue sources beyond its core competencies. While both firms operate within the same wider semiconductors industry, their product offerings differ greatly. Nvidia focuses largely on the production and sale of graphics processing cards (GPUs), widely used in gaming computers and for data centers. In fact, 87% of their revenues alone in 2019 were generated from GPU sales. On the other hand, Arm’s business model is the licensing of their intellectual property, largely for microprocessor and CPU technology. Over 25% of all electronic devices and 95% of mobile phones use technology licensed by Arm.  
+ 
+From the seller SoftBank’s perspective, the company highlighted that they believed Arm would create more shareholder value combined with Nvidia. As the deal is financed in majority by Nvidia stock and includes performance-related payment hurdles, Softbank retains an aligned interest in the long-term success of both Arm and Nvidia. Moreover, SoftBank has experienced a number of high-profile failures and controversies that have resulted in increased investor scrutiny, such as the highly scrutinized Nasdaq options “whale trades”. When SoftBank acquired Arm in 2016 for $32B, its share price fell over 7%. In reaction to news of the sale, SoftBank’s share price rose almost 10%.  
+ 
+Through the sale of Arm to Nvidia, in which SoftBank will receive Nvidia stock, SoftBank has managed to sell the company in a deal worth $8B more than their initial purchase price. What is particularly interesting about the deal is that SoftBank has effectively retained an interest in Arm Holdings, while enhancing their liquidity. As Nvidia stock is a massive component of how the deal is financed, SoftBank will become a major shareholder in Nvidia and will have improved future liquidity for a later exit opportunity through public markets. On top of Arm’s growth, SoftBank also gains access to Nvidia’s growing chip manufacturing business. To show the historical growth that Nvidia has experienced, their share price performance since the date of SoftBank’s initial acquisition of Arm is illustrated below in Figure 1.  
+ 
+Figure 1: Nvidia Performance Benchmarked Against S&P 500 From Date of SoftBank’s Initial Acquisition of Arm (5. September 2016- 9 October 2020) 
+ 
+Short Term Outlook
+ 
+Short Term Outlook 
+In the short term, the acquisition of Arm establishes Nvidia as a top-tier chip designer with a scale like no other company in the industry. Indeed, billions of chips are sold each year thanks to the substantial number of smartphone devices that adopt Arm-based microcontrollers. Thus, with this acquisition Nvidia has entered the smartphone business through the front door, taking advantage of the steady growth that Arm has already experienced in this market. The deal has tremendous benefits for Arm’s ecosystem, enhancing Arm’s R&D capacity and expanding its IP portfolio with NVIDIA’s world-leading GPU and AI technology. Arm partners will also benefit from both companies’ offerings, including NVIDIA’s numerous innovations.  
+ 
+The two companies will continue to be autonomous, with Arm remaining headquartered in Cambridge. Nvidia plans to expand on this site to build a world-class AI research facility, supporting developments in healthcare, life sciences, robotics, self-driving cars, and other fields. In order to attract researchers and scientists from all over the world to develop new groundbreaking projects, NVIDIA will build a state-of-the-art AI supercomputer, powered by Arm CPUs, together with training facilities for developers and a startup incubator. Arm Cambridge will be a world-class technology center. Arm will continue to operate with the current open licensing model which the buyer will use to scale up its artificial intelligence technology and to stimulate growth in new markets such as robotics, automotive, and high-performance computing. Arm's CEO will continue to be Simon Segars. 
+
+The market reacted positively to the announcement of the deal, driving Nvidia's share price up as much as 8% and adding more than $25B to its equity value, which corresponds to about two-thirds of the equity needed to make the acquisition. Moreover, SoftBank shares value grew about 9% on news of the deal and renewed talks for the company going private.
+ 
+Long Term Outlook  
+ 
+Nvidia’s acquisition of Arm has the potential to upend the entire mobile technology and chip designing industry. Under Nvidia’s current business, the company focuses on its leading AI computing platform and ability to create datacenters and high-performance platforms. However, the company has been unable to move into the space of creating their own central processing unit (CPU) chip, which is used across all electronic computing devices, and has forced customers to look elsewhere to fill this need. Instead, Nvidia has used its abilities to create graphic enhancing chips such as its successful GeForce RTX series.  
+ 
+Although with Arm now under Nvidia’s wing, the company has the potential to finally fill this gap since Arm has been expanding its presence to include the creation of chip designs and technologies that are used in central processors. While Arm’s chips alone haven’t been able to compete with those produced by industry leaders such as Intel or AMD, the combination of Arm’s chip-making ability and network with Nvidia’s experience in graphic enhancers and AI platforms could revolutionize the industry by giving Nvidia control of all necessary components.  
+ 
+Figure 2: Distribution of Intel and AMD x86 computer processing units (CPUs) worldwide from 2021 to 2020, by quarter. 
+ 
+Figure 3, PC graphics processing unit (GPU) shipment share worldwide from 3rd quarter 2013 to 2nd quarter 2020, by vendor. 
+ 
+As seen in figure 2 above, Intel and AMD currently dominate the global market share for central processing units, and such a disruption would drastically alter the industry landscape. Intel currently leads the global market share in both CPUs and GPUs. If implemented successfully, the combined capabilities of Nvidia and Arm together could lead to the more commonplace adoption of Nvidia chips in portable electronic devices and reduce the market shares of Intel and AMD in the CPU sector, making Nvidia a global rival with Intel. However, given that the two companies currently do not have many overlapping products, such potential synergy creation likely would not be seen for quite some time. Nonetheless, Nvidia’s control over Arm would allow the company to directly shape its future direction to align with its own. 
+ 
+ 
+Barriers to closure/Risks & Uncertainties 
+Barriers to closure/Risks & Uncertainties 
+ 
+With this acquisition of Arm being the largest to date in the mobile chip sector, the $40B deal is subject to close scrutiny. The deal has a long way to go given Arm’s current neutrality, and the conflict of interest a connection with Nvidia would create. Hauser, Arm’s co-founder, has long referred to the company as the 
+ 
+ “Switzerland of the semiconductor industry.”  
+Herman Hauser, Co-founder of Arm 
+ 
+The UK-company designs the basic framework for central processor chips that make up the prime source of intelligence for devices and they are licensed by companies such as Apple and Samsung for their own chips. Arm has licensing connections with the majority of companies that make mobile-device processors and other variations of chips, and many of these same companies are direct competitors with Nvidia or have the potential to be in the future.  
+ 
+The regulatory approval process was fast in 2016 when SoftBank acquired Arm since the Japanese conglomerate was not directly competing with any of Arm’s clients. Even though Nvidia no longer develops smartphone chips, they are the world leader in graphic processing chips. Acquiring Arm gives them the potential to access the British company’s shipment volume and pricing information, so it wouldn’t be surprising if after the acquisition the company soon begins to develop products that would compete with Arm’s customer’s products.  
+ 
+Another barrier to the global approval process is the escalating hostile relationship between the U.S. and China. Semiconductors have been caught in the middle of the trade and technology war between the two countries as the industry represents tech supremacy. The Nvidia-Arm deal is projected to have a very lengthy approval process; even Nvidia’s acquisition of Mellanox took over a year given its uncontroversial nature.  
+ 
+Arm’s chips are the main structure for high-level electronics controlled by Big Tech and militaries, and the company coming into American control could create complications as the tech war heats up, especially as Beijing plans to halt foreign supply shipments. Long-term we could be witnessing more and more Chinese companies dissociate from Arm’s products to prevent their sensitive client data from being in the hands of the U.S. and to eliminate the fear of their supply being potentially cut-off one day. Nvidia reportedly does not expect exports to be an issue as Arm would continue to be headquartered in the U.K.  
+ 
+Other than regulatory approval uncertainties, Hauser has been an outspoken opponent of the deal over fears that Nvidia would not keep their sizable workforce and R&D focused in their headquarters under the acquisition despite their promises. Currently, more than 3,000 employees are based in Britain but there are worries that the workforce will decrease in the future. Hauser expressed similar concerns over the SoftBank acquisition in 2016, but admits the company kept its promises to keep Cambridge as the main site of Arm’s research. Nvidia has stressed that they will keep the headquarters in Cambridge and invest in a new AI research center there.  
+ 
+This $40B acquisition is not without several barriers to complete the deal and the risks posed to other firms are difficult to determine. While there is no conflict of interest as of now, the nature to which there will be in the future is unpredictable, but most definitely possible to be high. Nvidia will have to find the right balance between their own innovation and the work of Arm. Arm will ultimately need to be granted a level of independence to avoid government interjection and a loss of major clients to truly make their sizable investment worthwhile.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+Nvidia 
+https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai 
+
+Arm Holdings 
+https://businesscasestudies.co.uk/arm/ 
+
+“to become the premier computing company for the age of artificial intelligence” 
+https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai 
+
+ high-profile failures 
+https://www.japantimes.co.jp/news/2020/09/14/business/corporate-business/softbank-selling-arm-to-nvidia/ 
+

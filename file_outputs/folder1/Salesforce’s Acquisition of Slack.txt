@@ -1,0 +1,162 @@
+Salesforce’s Acquisition of SlackFeb 8 
+8 min read 
+Salesforce’s Acquisition of Slack 
+Salesforce’s Acquisition of Slack 
+By  Nina Tagliabue (University of California, Berkeley), Alexander Guenthner (Vienna University of Economics and Business), Peter Tang (University of Michigan, Ross School of Business), Monique Sin (UCLA), and Rayan Singh (University of St. Gallen)   
+ 
+ 
+ 
+Key Details: 
+ 
+ 
+Bidder Information: Salesforce 
+ 
+Company Overview 
+ 
+Salesforce.com, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides customer relationship management (CRM) service and also sells a complementary suite of enterprise applications focused on customer service, marketing automation, analytics, and application development. 
+ 
+Founded: February 1999 
+CEO/Chairman: Marc Benioff  
+Number of employees: 49,000 
+Key shareholders: Fidelity Management & Research Co., The Vanguard Group, Inc. 
+ 
+Financial Summary 
+ 
+Market cap: $201.44 billion 
+EV: $197.79 billion 
+LTM Revenue: $20.29 billion 
+LTM EBITDA: $2.84 billion 
+LTM EV/Revenue: 7.95x 
+LTM EV/EBITDA: 69.64x 
+ 
+ 
+Figure 1: Comps Table for Salesforce.com 
+ 
+ 
+Target Information: Slack 
+ 
+Company Overview 
+ 
+Slack Technologies, Inc. is an American international software company founded in Vancouver, British Columbia, Canada. Slack is a proprietary business communication platform that includes various features, including persistent chat rooms (channels) organized by topic, private groups, and direct messaging. 
+ 
+Founded: March 2009 
+CEO/Chairman: Stewart Butterfield 
+Number of employees: 2,045 
+Key shareholders: T. Rowe Price Associates, Inc., Morgan Stanley Investment Management, Inc., 
+ 
+Financial Summary 
+ 
+Market cap: $24.44 billion 
+EV: $23.71 billion 
+LTM Revenue: $0.83 billion 
+LTM EBITDA: -$0.27 billion 
+LTM EV/Revenue: 28.57x 
+LTM EV/EBITDA: -87.81x
+
+ 
+Figure 2: Comps Table for Slack 
+ 
+ 
+Deal Overview:  
+ 
+On December 1st, Salesforce announced the acquisition of Slack in a blockbuster deal valuing the workplace communications app at $27.7B at the time of closing on November 20th. This acquisition follows Salesforce’s other recent mega-deals including the $6.5B purchase of Mulesoft in 2018, followed by the 2019 $15.3B acquisition of Tableau. The deal is financed through a mix of cash and equity. Slack shareholders will receive $26.79 in cash, and 0.0776 shares of Salesforce stock in the deal.  
+Salesforce announced the acquisition of Slack 
+ 
+Salesforce’s prior acquisitions have all been complementary to the firm’s suite of CRM products; Salesforce offers clients customer analytics, sales, marketing, and AI-powered solutions through Einstein AI. Through the pandemic, competitors like Microsoft have praised the importance of cross-selling for driving revenue growth across a suite of product offerings. Satya Nadella highlighted specifically that Microsoft’s communications platform Teams was driving growth across all of Microsoft’s products in 2020.  Salesforce is likely attempting to follow Microsoft’s strategy by acquiring Slack, hoping that the chatting app will feed into revenue generation for their other product offerings.  
+CRM products 
+Teams was driving growth 
+ 
+Salesforce was one of the first major firms to integrate with Slack, and the acquisition will tighten the partnership, enabling the joint entity to serve their customer base from early-stage growth to more developed structures. Since Slack was created, their shared clients have demanded more cross-compatibility with Salesforce’s CRM solutions. The acquisition will likely solidify Salesforce’s customer retention by better serving a company’s diverse needs, even as they grow too large corporations. Most importantly, Slack will help Salesforce provide a unique service offering that competes better with Microsoft’s inclusive Office packages.  
+first major firms to integrate with Slack 
+ 
+Figure 3: Implied EV of Slack from Peers in Comps Table 
+ 
+Figure 3 above shows the implied enterprise value of Slack based on the peers' comparison in Figure 2. Since Slack and many of its competitors are in a high-growth phase, the EV/EBITDA and EV/EBIT multiples across the board are negative. Companies like Slack, which are battling to gain market share in a rapidly growing market, are spending heavily to ensure that they dominate the future lucrative online corporate solutions market. Slack and many of its peers are not profitable.  
+ 
+Resultantly, Figure 3 uses the median EV/Sales multiple to calculate an implied enterprise value for Slack. The EV/Sales multiple implies an enterprise value of $21.46B, implying a 29% premium in the transaction price to the fair value of Slack using the EV/Sales approach. This premium is quite high because Slack’s valuation using this approach is based on the lofty valuation multiples of Slack’s peers.  
+ 
+This tighter integration between Salesforce and Slack is a key way for us to dramatically streamline how our joint customers work.  
+Ryan Aytay, EVP of Strategic Partnerships and Quip co-CEO Salesforce  
+ 
+ 
+Short-term outlook 
+ 
+Slack will be deeply integrated into every Salesforce Cloud solution as the new interface for Salesforce Customer 360. Customer 360, Salesforce’s flagship product, is an integrated platform that unites sales, service, marketing, commerce, integration, analytics and more to give companies a holistic overview of their customers. To advance the development of the Customer 360 platform, they have been making numerous key acquisitions. For example, in FY19, they acquired MuleSoft, Inc., an integration platform company, and in FY20, they acquired Tableau Software Inc, an analytics company. 
+ 
+A feature of Salesforce’s platform is its ability to allow customers to connect any application, data or device on a unified platform using application networks instead of inflexible custom code. The 2400+ apps on Slack app directory will be added to 5000+ listings on Salesforce AppExchange listing. Together, they will create the largest and most extensive open ecosystem of apps and workflows for business. 
+ 
+Figure 4: Overview of Synergies (Source) 
+ 
+The acquisition undoubtedly creates revenue synergies. Slack is currently growing revenue of about 50% annually and is expected to hit $876M in revenue for FY21. Slack has over 142,000 paid customers with over 1,080 paid slack customers contributing to over 100K annual recurring revenue. This loyal customer base is expected to help Salesforce reach its revenue goal of approximately $24.45B-25.5B for FY22, with approximately $600M related to the acquisition of Slack. This represents a year-on-year increase of approximately 21%, maintaining the company’s sales growth that has hovered around 26% in the past 5 years. 
+ 
+Immediate impacts on its capital structure are cushioned by Salesforce’s considerable cash balance. Salesforce obtained commitments for a $10B 364-day senior unsecured bridge facility to fund the transaction. The company's nearly $9.5B cash balance should decline upon close of the transaction, based on its estimated $7B cash outflow for the acquisition. Cash should quickly be replenished through strong free operating cash flow generation, which management has expected will exceed $4B in FY21 and FY22. The transaction will raise Salesforce's adjusted leverage from zero to the 1x area upon close, well below the downgrade trigger of 2x. 
+ 
+The acquisition has however been met with mixed reactions from its investors. Salesforce’s stock plunged on Dec 2, 2020 by 8.9% despite the announcement of positive income growth. Investors are mainly worried about the hefty price tag of $27.7B for Slack, which represents a 54% premium to its unaffected price or 26x forward sales. Having made as many as 60 acquisitions over the years, six of which occurred in 2019, investors are wary of Salesforce’s over-reliance on acquisition for growth. This is coupled with the fact that Slack has been underperforming its cloud peers during this work-from-home shift. For instance, Zoom’s Q3 revenue grew 365% while Slack’s grew a mere 39%. Video chat in Slack remains more basic than what rival Zoom has offered, limited to calls within an organization instead of letting a wider network of users jump on a virtual meeting. 
+ 
+ 
+Long-term outlook 
+ 
+Due to the lockdowns resulting from COVID-19, companies were forced to rapidly adapt overnight to be able to communicate remotely across all levels of a firm. During the pandemic, many companies were forced to move towards remote work operations. Using unified communication software, such as Slack and Microsoft Teams, firms adapted and found convenient ways to stay connected and on top of their business operations even when distantly separated. Aspects of remote work are likely to persist to a certain degree post-pandemic due to the convenience of messaging tools, as a survey conducted by RBC Capital Markets has shown that more than 40% of workers found workplace messaging tools as “absolutely critical” after COVID-19. Therefore, Salesforce’s long-term offering as an all-encompassing CRM provider will be significantly strengthened by their acquisition of Slack.  
+ 
+Figure 5: Survey Result: Worker’s Opinion on Workplace Messaging Tools (Source) 
+ 
+In addition, after losing a bid against its competitor Microsoft to acquire LinkedIn in 2016, Salesforce aims to get back at Microsoft by making the acquisition of Slack. This move by Salesforce poses a great threat to Microsoft as Slack's usage hits the heart of Microsoft's most central products of its productivity suite, Microsoft Teams. In turn, Slack’s acquisition will not only generate long-run revenue synergies for the company but also help Salesforce better compete with its major rival Microsoft. 
+ 
+Another benefit that the consolidation brings is that Slack can help Salesforce bring traction to other CRM products. Previously, Microsoft has used its Teams software to cross-promote other Office 365 products. Similarly, Salesforce can integrate Slack with its other softwares to create a more complete productivity suite for its users. This way, the company can cross-sell or upsell its existing cloud service products, which contributes to the company’s consistent goal of 25% year-on-year growth in revenue.  
+  
+The acquisition of Slack contributes to the trend of M&A in the cloud software industry. With the acquisitions of Slack in 2020, Tableau in 2019, and MuleSoft in 2018, Salesforce’s CEO Marc Benioff is attempting to transform the company into a “one-stop shop” for all business operations related to sales and marketing. Ultimately, buying Slack may prompt Salesforce to acquire other online collaborative products to complement Slack, such as Dropbox for better document management and RingCentral for better video conferencing. Moreover, the trend of acquisition in the industry will continue as other SaaS companies like SAP and Oracle may be urged to conduct more M&As so they can better compete and keep up with the trend in the industry. 
+  
+ 
+Figure 6: Salesforce’s Major Acquisition Timeline (2016-2020) 
+ 
+Risks and Uncertainties 
+ 
+As far as internal uncertainties go, the board of directors of both companies have approved the transaction with the Slack board recommending that Slack stakeholders approve the transaction and adopt the merger agreement. However, UBS analysts argue that with Salesforce's massive value and size that development to Slack’s software would not be given proper attention, noting that they are “less and less clear about the direction that Salesforce is heading”. With the short term of the acquisition geared towards linking Slack into the Salesforce portfolio, some things that customers are looking forward to in the near future may not come to fruition, which could severely impact Slack’s performance.  
+ 
+On the other hand, Slack could be a distraction for Salesforce management and could therefore not be believed to be the best owner for Slack. A much better suited one could argue could be Google or Amazon as they could integrate Slack into their platforms, but that would be unlikely due to antitrust regulations. Furthermore, Slack’s growth should be a risk for Salesforce. They have not turned a profit since their initial public offering last year. Since Slack is a SaaS valued at multiples of revenue instead of profits, their growth forecast faces immense pressure on its ability to materialize as earnings. This is concerning for Salesforce, who would be giving up nearly 13% of their market value for the acquisition based on Slack’s EV/Sales multiple seen in Figure 2.  Further, if Salesforce were to affect Slack’s internal operations through the acquisition, some existing customers may be turned away, as many customers now enjoy Slack for their simplicity and neutrality. Given the risks of the deal and Salesforce’s valuation of over $200 billion, analysts have suggested that their investors root for an antitrust review to prevent the deal. 
+ 
+Naturally, any deal of this size is subject to antitrust speculation. An antitrust debate has arisen after Slack has said that they cannot compete without a “defensive acquisition” despite saying they wanted to stay independent. This brings about a larger issue regarding a power disparity revolving mostly around Big Tech. Nonetheless, Salesforce is expected to be successful in its acquisition of Slack. It remains to be seen whether Slack will stay an independent entity after the acquisition as Salesforce has rebranded both Demandware and ExactTarget as Salesforce Commerce Cloud and Marketing Cloud respectively, yet allowed Tableau, MuleSoft, and Quip to keep their branding.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+San Francisco, California 
+https://en.wikipedia.org/wiki/San_Francisco,_California 
+
+customer relationship management 
+https://en.wikipedia.org/wiki/Customer_relationship_management 
+
+Vancouver 
+https://en.wikipedia.org/wiki/Vancouver 
+
+British Columbia 
+https://en.wikipedia.org/wiki/British_Columbia 
+
+Salesforce announced the acquisition of Slack 
+https://investor.salesforce.com/press-releases/press-release-details/2020/Salesforce-Signs-Definitive-Agreement-to-Acquire-Slack/default.aspx 
+
+CRM products 
+https://www.salesforce.com/products/#products-scroll-tab 
+
+Teams was driving growth 
+https://www.reuters.com/article/us-slack-tech-m-a-breakingviews/breakingviews-salesforce-skins-slack-deal-with-revenue-synergies-idUSKBN28C2NI 
+
+first major firms to integrate with Slack 
+https://slack.com/intl/en-ch/blog/collaboration/salesforce-and-slack-for-sales-and-service 
+
+(Source) 
+https://s23.q4cdn.com/574569502/files/doc_presentations/2020/Salesforce-Slack_Summary-Deck.pdf 
+
+(Source) 
+https://www.google.com/search?tbs=simg:CAQSrwIJ30kIKPu_1ESUaowILELCMpwgaYApeCAMSJjPEAzbJA_1MCvgPSAewB7Aj5B9c_17z-SN5U3pSvWP4I38DOjPrw-GjD6AM3327Cox9qqFo0M_1XSpAZboEX_1YsG3FpEoK_1hQYK-cWaRCMmNAuUdUj7cY5W1kgBAwLEI6u_1ggaCgoICAESBI_1BKQkMCxCd7cEJGp0BCigKFHN0YXRpc3RpY2FsIGdyYXBoaWNz2qWI9gMMCgovbS8wM3FoazNtChsKCHZlcnRpY2Fs2qWI9gMLCgkvYS80aGgzcDAKGAoEcGxvdNqliPYDDAoKL20vMDRxMzQ3eQobCghsYW5ndWFnZdqliPYDCwoJL2ovMnNoX3k0Ch0KCmhvcml6b250YWzapYj2AwsKCS9hLzJtcXZ6Yww&q=statistical+graphics&tbm=isch&sa=X&ved=2ahUKEwiF5ZTd0MnuAhXWHc0KHbNOASMQwg4oAHoECBAQMA&biw=1375&bih=705#imgrc=fo6YcN49FRks2M 
+
+UBS analysts 
+https://www.seattletimes.com/business/what-salesforces-acquisition-of-slack-could-mean-for-remote-work/ 
+

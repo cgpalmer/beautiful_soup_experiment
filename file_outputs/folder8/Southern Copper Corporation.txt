@@ -1,0 +1,205 @@
+Southern Copper CorporationNov 14, 2020 
+11 min read 
+Southern Copper Corporation 
+Southern Copper Corporation 
+By Mihir Gupta (UCL), Ameya Joshi  (UCL), Sukrith Kumar (UCL) and Filippo Palacino (ETH Zurich) 
+ 
+ 
+Stock Name: Southern Copper Corporation 
+Ticker: NYSE:SCCO           
+Sector: Diversified Metals & Mining                      
+CMP: $55.13 (as on 09-11-2020) 
+Recommendation: Buy/ Hold 
+Target: $55.5 - $56.5 
+Duration: 2-2.5 weeks 
+ 
+ 
+Company Overview 
+ 
+ 
+ 
+Product Offerings 
+ 
+Southern Copper Corporation's product offerings are essentially divided into five main segments which are essentially based on their core metal offerings. These five segments are Copper, Molybdenum, Zinc, Silver & Cold, and Other Products: 
+ 
+ 
+Sector and Industry Overview  
+ 
+We would like to start our analysis by getting an overview of what is happening around the security, namely seeing in which direction the general market, its sector and its industry are trending compared to Southern Copper Corporation. We aim to check if the movements of the stock we are analyzing are backed up by some common sentiment around it or if they are just outlying events: in the latter case, the stock would be much more susceptible to unpredictable events and overall weaker. We believe that, ultimately, a stock has more trending power if moving in the same direction of its competitors. 
+ 
+Let’s start from the most general perspective: we analyze the index on which Southern Copper Corporation is listed, namely the NYSE Composite, which we believe to be a perfect benchmark for representing the general market conditions. 
+ 
+Graph 1: NYSE Composite chart with recent support and resistance levels (Investing.com as on 09/11/2020) 
+ 
+At first glance, what we can derive from the upper graph is that from April until these days the index moved following a logarithmic pattern. After a steady rise that lasted a few months, the index slowed down and later entered a consolidation period from the beginning of September until the beginning of November. This period was characterized by the formation of a clear support level and a clear resistance level - at 12250.00 and 13350.00 respectively. The resistance level was broken in a very unusual way by the last candle we can see appearing on the chart. A long red candle appeared after a very significant gap from the closing price of last Friday. The ideas on the situation are very confused; they mainly reflect the massive political events that occurred during the weekends and this short term significant jump was definitely a reaction to them that shouldn’t be taken too much into consideration, at least for the time being. 
+ 
+Now, although the market is in an uncertain period, led by short term irrational and difficult to predict movements and looking for a confirmation of some kind in the next future, it would still be interesting to see which are the players responsible for pushing the price higher and which ones for pushing the price lower. In particular, we would like to see which ones were performing very well not just recently, but also when the movement hadn’t reached a resistance level yet. We aim to identify winning sectors and losing sectors in the medium-short term by examining their performance in the last six months, three months and one month. Let’s have a look at the following statistics: 
+ 
+Graph 2: S&P 500 Sectoral movements for last month (Barchart.com as on 09/11/2020) 
+ 
+Graph 3: S&P 500 Sectoral movements for the past 3 months (Barchart.com as on 09/11/2020) 
+ 
+Graph 4: S&P 500 Sectoral movements for the past 6 months (Barchart.com as on 09/11/2020) 
+ 
+We can conclude that the recovery post market crash due to the outburst of the COVID-19 pandemic was led by a couple of sectors, while being slowed down by some others. Particularly, it is possible to see that the Materials sector was one of the top performers with a +7.11% return in the last month, +15.40% in the last three months and +35.55% in the last six months. These results are great and put the sector either at the very top of the sectors’ ranking for the timeframes analyzed or very near it. This is a good piece of information for us since SCCO is part of the Materials sector. In fact, specializing in metal processing, the company is clearly part of the Metals and Mining industry, which is part of the Materials sector. In order to have a more detailed understanding of how the sector is doing, we can examine the S&P 500 Materials index. 
+ 
+Graph 5: S&P 500 Materials chart with recent support and resistance levels (Investing.com as on 09/11/2020) 
+ 
+In the months following the Corona outbreak crash of March, the Materials sector recovered and achieved great returns, as the numbers in the previous sector performance’s statistics showed. Until the beginning of September, it had a steady uptrend, backed by a significant level of volume. After that, the index entered a horizontal movement, very similar to the one we observed for the NYSE Composite, which was characterized by a support level and a resistance level, both highlighted in the upper figure. Very interesting are the last movements. Differently from the general market, we don’t see any gap following the major political events of the weekend, but instead, the price had a good bullish push on Friday and didn’t move a lot at the reopening session of the next week. Now, two out of three parts of the candlestick pattern “Evening Star” were formed, but we still need the conclusion of it, as well as other confirmation of a possible future short-term downtrend. However, still noticeable is the fact that the movement of this sector wasn’t too irrational or unexpected when compared to the broad market, meaning that any next short term movement could be considered valuable and therefore be taken into consideration. 
+ 
+In the case of an index that achieved that valuable returns in the last periods and that, after a consolidation period of a few months, might get back on the upward track, we believe that it is definitely worth having a look at it in the following weeks. As for now, we want to see if there are industries that are winners inside the winners, that is industries that are achieving greater results compared to other ones in the same winning sector. 
+ 
+Graph 6: Sector and Industry Performance for Metals, Mining and Materials - 1 Year (Eresearch.fidelity as on 9/11/2020) 
+ 
+Graph 7: Sector and Industry Performance for Metals, Mining and Materials - 3 Months (Eresearch.fidelity as on 9/11/2020) 
+ 
+As we can see from Graphs 6 and 7, the Metals and Mining industry has clearly been the key driver of the Materials sector and has grown by 57% over the past year. Its growth rate has beaten the overall Materials sector and the S&P 500 (which has been used as a representative for the overall US markets) by a substantial margin. Much of this growth can be attributed to the current deficit in the copper markets, which is a result of the global demand from copper outstripping supply. Output of copper has decreased by 2.1% as a result of the disruptions to supply chains caused by COVID-19 but is set to increase by 4.3% year on year in 2021. 
+ 
+In the short term, Graph 7 shows that growth rate seems to be sticking to the 30% mark, but is likely to increase in the medium-long term as output from refineries increase. 
+ 
+It is also important to consider the growth of SCCO compared to its competitors as they are likely to follow the same industry trends, barring exogenous factors. We have chosen to compare SCCO to Freeport-McMoran, which is a leading natural resources company.  
+ 
+Graph 8: Market Capitalization Comparison to Freeport-McMoran (Craft.co as on 9/11/2020) 
+ 
+Graph 9: Technical Analysis of Freeport-McMoran (Investing.com as on 10-11-2020) 
+ 
+As can be seen in Graph 8 the market capitalisation of SCCO and Freeport-McMoran has followed exactly the same trends since January 2018, although SCCO has an overall higher market capitalisation. This makes Freeport-McMoran a good company to compare SCCO to.  
+ 
+Graph 9 shows a strong bullish rally in Freeport-McMoran’s stock price, it has been in a bullish trend since March (when markets crashed because of the pandemic). We have used the 12 and 26 Exponential Moving Averages to track the overall trend of the stock. The stock witnessed a golden crossover in mid-April and has been in a bullish trend since. The price action shows that whenever the 12-day EMA extends away from the 26-day EMA, the stock will witness some selling pressure to bring the lines closer together. This can be seen at the beginning of September, mid-September, and mid-October. As the 12-day EMA has again deviated from the 26-day EMA it is reasonable to expect we may see some selling pressure, but the overall trend appears to be bullish going forward.  
+ 
+ 
+Forecast Analysis  
+ 
+Graph 10: 20-day Forecast Analysis for SCCO(R-Studio) 
+ 
+We used the statistical programming interface RStudio to algorithmically forecast the directional movement of SCCO’s stock price. Our customised model indicates some buying pressure soon (the x-axis represents time in days, while the y-axis represents stock price). However, the 20-day projection does allow for some room for the stock to see some selling, as indicated by the 95% and 80% confidence intervals (the dark grey and light grey zones) which indicates uncertainty in the future. On the other hand, our Mean Absolute Percentage Error is 1.50% indicating high accuracy in our forecasting model. 
+ 
+Technical Outlook for the Stock  
+ 
+Support and Resistance Analysis 
+ 
+Graph 11: Support and Resistance Levels for SCCO (Tradingview.com as on 09/11/2020 ) 
+ 
+As of 6th November 2020, Southern Copper Corporation’s share price closed at USD 55.13, up 1.62% on 70% volume. SCCO has witnessed a steady uptrend over the last six months, currently at a 52-week high, which has made it one of the top metal gainers during the turbulent pandemic period. Despite a severe drop in March following the systemic global market crash resulting from COVID-19, the share price has recovered impressively, growing 139% over the last 6 months since the fall to USD 23.6 on 23 March 2020. 
+ 
+The immediate resistance for SCCO is at USD 49.00 (as shown by the blue line on Graph 11) and the immediate support is at USD 43.00 (as shown by the purple line on Graph 11), however, the immediate resistance has been broken over the last month, with bullish pressure on the share price. It is currently difficult to determine a new immediate resistance given that the stock still seems to be overbought and the uptrend does not seem likely to end soon. We can estimate that new support is emerging at USD 50.00 (as shown by the orange line on Graph 11) but cannot confirm this is the case until the stock price tests this level in the future. 
+ 
+Trend Analysis 
+ 
+Graph 12: Trend Analysis for SCCO (Tradingview.com as on 09/11/2020) 
+ 
+Following the pandemic, the stock bottomed out on 23 March 2020, as explained above, however, since then the stock has entered a rising channel characterized by higher-highs and higher-lows, which reflects the bullish market forces in play. Once entering the channel (as shown by green lines in Graph 12), the stock price has remained in the range and continued to rise in price.  
+ 
+Despite this formation breaking with the brief market crash at the start of September 2020, the stock has shown further signals for uptrends, through the ‘three white soldiers’ pattern shown in October. These are highlighted in pink in Graph 12, occurring on 20, 21 and 22 October.  This shows that the stock continues to be overbought and the bullish sentiment is likely to continue in the short term. Over the last month, consecutive higher-high higher-low formations have once again been established, following the bullish engulfing that occurred on 1 October – further exhibiting strong buy signals. Some of the key higher-highs in this period were at levels USD 47.80, 48.40 and 49.64 on 14 October, 15 October and 20 October respectively. 
+ 
+MA and DMI Analysis  
+ 
+Graph 13: Trend Analysis for SCCO (Tradingview.com as on 10/11/2020) 
+ 
+Next, we consider the MA and DMI analysis. As per our analysis, we believe that due to the intense buying pressure embedded within the stock, the price is still extended from the 20 days MA. Furthermore, it has been trailing the positive crossover. Although, in one sense this is a positive signal because, we still feel that due to increased volatility in the markets - there may arise a situation where the dynamic trendline is broken and the 20-day MA is tested.  
+ 
+The belief of ours is further complemented by the status of the DMI which currently seems to be showing intensified buying pressure within the stock. Although this gap may close due to a near term correction, we are hopeful that the strong buying sentiment and the industrial foundation of this stock will keep the share price afloat resulting in an upside in the medium term (2-3 weeks). 
+  
+RSI and Stochastic Analysis  
+ 
+Graph 14: RSI and Stochastic Analysis for SCCO (Tradingview.com as on 10/11/2020) 
+ 
+Finally, we will like to end this segment with the analysis of the RSI and the Stochastic Oscillator. The first indicator in the graph is the Relative Strength Index of SCCO for a 14 day period. As per our analysis, we believe that 55.54 is an extremely strong support level for this stock (as shown by the black line in Graph 14). Although the RSI seems to be far extended from this level, recent selling in the stock makes us believe that in case the dynamic channel as highlighted in the trend section was to be broken, we may witness a move towards this level.  
+ 
+In fact, the stochastic oscillator seems to be giving similar indications as the RSI i.e. indicating the stock being overbought. Resultantly, we believe that a minor correction could be expected which would ideally result in the Stochastic lines coming back into the neutral zone. However, given the bullish sentiment embedded within the stock, we still believe that this would be a minor phase rather than a significant move on the downside.  
+ 
+ 
+News Event Box  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+These are all the in text references. First is the word that was missing from the text and then the link. 
+
+one of the largest 
+http://www.southerncoppercorp.com/ENG/about/Pages/Home.aspx 
+
+refining facilities 
+http://www.southerncoppercorp.com/ENG/about/Pages/Home.aspx 
+
+official statements 
+http://www.southerncoppercorp.com/ENG/invrel/INFDLPressRelease/pr201026.pdf 
+
+other key financial statistics 
+http://www.southerncoppercorp.com/ENG/invrel/INFDLPressRelease/pr201026.pdf 
+
+product offerings 
+http://www.southernperu.com/ENG/intope/Pages/PGProducts.aspx 
+
+Investing.com 
+https://www.investing.com/indices/nyse-composite-chart 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings?timeFrame=6m 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings?timeFrame=6m 
+
+Barchart.com 
+https://www.barchart.com/stocks/sectors/rankings?timeFrame=6m 
+
+Investing.com 
+https://www.investing.com/indices/s-p-500-materials-chart 
+
+Eresearch.fidelity 
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&sector=15 
+
+Eresearch.fidelity 
+https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&sector=15 
+
+Output of copper has decreased by 2.1% 
+https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/copper-supply-faces-struggle-to-keep-up-with-growing-demand-60471925 
+
+set to increase by 4.3% year on year in 2021. 
+https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/copper-supply-faces-struggle-to-keep-up-with-growing-demand-60471925 
+
+Craft.co 
+https://craft.co/southern-copper-corporation/metrics 
+
+Investing.com 
+https://www.investing.com/charts/live-charts 
+
+Tradingview.com 
+https://www.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/nF6T7tvY/ 
+
+Tradingview.com 
+https://www.tradingview.com/chart/nF6T7tvY/ 
+
+vaccine for COVID-19 is more than 90% effective 
+https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html 
+
+Markets shot up accordingly, 
+https://markets.businessinsider.com/news/stocks/stock-market-today-caution-pfizer-covid-19-vaccine-limit-gains-2020-11-1029785412 
+
+stock price jumping 15.6% in October 
+https://fool.whotrades.com/blog/43785236176 
+
+more than 3% in November 
+https://fool.whotrades.com/blog/43785236176 
+
+sales rising 14.5% 
+https://fool.whotrades.com/blog/43785236176 
+
+ 25% increase from its July dividend share to $0.50 per share 
+https://fool.whotrades.com/blog/43785236176 
+
+increase in average prices by 12.5% 
+https://fool.whotrades.com/blog/43785236176 
+
